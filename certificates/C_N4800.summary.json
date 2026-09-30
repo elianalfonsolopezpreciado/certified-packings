@@ -1,0 +1,9 @@
+{
+ "name": "C_N4800",
+ "N": 4800,
+ "ok": true,
+ "verify_seconds": 5.4,
+ "certified_score_fraction": "1.50533767789995493918438939150",
+ "certified_score_mpmath": "1.50533767789995493918438939150",
+ "backends_equal": true
+}

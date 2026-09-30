@@ -1,0 +1,8 @@
+[N=600] GPU stage 30s best R=1.510791 median=1.5195
+[N=600] cand 0: GPU R=1.510791 -> SLP R=1.50697494
+[N=600] cand 1: GPU R=1.511244 -> SLP R=1.50749184
+[N=600] best float R = 1.506974939  (records: {'best_human_51': 1.50973, 'alphaevolve_95': 1.5053, 'alphaevolve_v2_1319': 1.50317, 'thetaevolve_1319': 1.50314, 'ttt_discover_30000': 1.50287})
+[N=1319] GPU stage 37s best R=1.511394 median=1.5191
+[N=1319] cand 0: GPU R=1.511394 -> SLP R=1.50749740
+[N=1319] cand 1: GPU R=1.511446 -> SLP R=1.50807871
+[N=1319] best float R = 1.507497396  (records: {'best_human_51': 1.50973, 'alphaevolve_95': 1.5053, 'alphaevolve_v2_1319': 1.50317, 'thetaevolve_1319': 1.50314, 'ttt_discover_30000': 1.50287})

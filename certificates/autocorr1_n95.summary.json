@@ -1,0 +1,8 @@
+{
+ "name": "autocorr1_n95",
+ "ok": true,
+ "certified_score_fraction": "1.51177119936813317222553285451",
+ "certified_score_mpmath": "1.51177119936813317222553285451",
+ "record": 1.50287,
+ "status": "above-record"
+}

@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\C_N2400.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "autocorr1",
+      "n": 2400,
+      "backend": "mpmath-60dps",
+      "valid": true,
+      "certified_score": "1.50593251899262663552659377135",
+      "raw_score": "1.50593251899262663552659377135",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

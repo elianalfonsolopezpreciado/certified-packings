@@ -1,0 +1,1 @@
+- {name: symL_sum_radii_n100, problem: sum_radii, n: 100, mode: sym, seed: 601, time_limit_s: 1100, batch: 1536, topk: 40, workers: 4, q_values: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]}

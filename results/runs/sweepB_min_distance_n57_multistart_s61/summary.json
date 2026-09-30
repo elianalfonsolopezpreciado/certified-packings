@@ -1,0 +1,54 @@
+{
+ "name": "sweepB_min_distance_n57_multistart_s61",
+ "problem": "min_distance",
+ "n": 57,
+ "method": "multistart",
+ "seed": 61,
+ "workers": 12,
+ "rounds": 7,
+ "elapsed_s": 132.32511377334595,
+ "best_score": 0.1538648014070343,
+ "status": "below",
+ "record": 0.154747406944,
+ "hist": [
+  [
+   21.63680648803711,
+   0.1530472009696385
+  ],
+  [
+   38.54194211959839,
+   0.1538648014070343
+  ],
+  [
+   50.630733013153076,
+   0.1538648014070343
+  ],
+  [
+   67.7255711555481,
+   0.1538648014070343
+  ],
+  [
+   88.6417944431305,
+   0.1538648014070343
+  ],
+  [
+   108.20851969718933,
+   0.1538648014070343
+  ],
+  [
+   132.28288960456848,
+   0.1538648014070343
+  ]
+ ],
+ "cfg": {
+  "name": "sweepB_min_distance_n57_multistart_s61",
+  "problem": "min_distance",
+  "n": 57,
+  "method": "multistart",
+  "seed": 61,
+  "workers": 12,
+  "iters_per_round": 10,
+  "time_limit_s": 120,
+  "resume": true
+ }
+}

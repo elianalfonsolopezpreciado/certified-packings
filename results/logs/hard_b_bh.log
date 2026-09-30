@@ -1,0 +1,168 @@
+{"name": "hardB_min_distance_n37_basin_hopping_s71", "n": 37, "method": "basin_hopping", "chunk": 1, "wall_s": 93, "best": 0.19642918424664588, "record": 0.19642918463, "status": "below", "stalled": 0, "t": "00:03:54"}
+{"name": "hardB_min_distance_n37_basin_hopping_s71", "n": 37, "method": "basin_hopping", "chunk": 2, "wall_s": 90, "best": 0.19642918462953216, "record": 0.19642918463, "status": "match", "stalled": 0, "t": "00:05:23"}
+{"name": "hardB_min_distance_n37_basin_hopping_s71", "n": 37, "method": "basin_hopping", "chunk": 3, "wall_s": 89, "best": 0.19642918462953216, "record": 0.19642918463, "status": "match", "stalled": 1, "t": "00:06:52"}
+{"name": "hardB_min_distance_n37_basin_hopping_s71", "n": 37, "method": "basin_hopping", "chunk": 4, "wall_s": 93, "best": 0.1964291846295646, "record": 0.19642918463, "status": "match", "stalled": 2, "t": "00:08:25"}
+{"name": "hardB_min_distance_n37_basin_hopping_s71", "n": 37, "method": "basin_hopping", "chunk": 5, "wall_s": 90, "best": 0.1964291846295646, "record": 0.19642918463, "status": "match", "stalled": 3, "t": "00:09:55"}
+{"name": "hardB_min_distance_n51_basin_hopping_s71", "n": 51, "method": "basin_hopping", "chunk": 1, "wall_s": 93, "best": 0.1656153418181195, "record": 0.165618374313, "status": "below", "stalled": 0, "t": "00:11:27"}
+{"name": "hardB_min_distance_n51_basin_hopping_s71", "n": 51, "method": "basin_hopping", "chunk": 2, "wall_s": 88, "best": 0.16561837431259452, "record": 0.165618374313, "status": "match", "stalled": 0, "t": "00:12:55"}
+{"name": "hardB_min_distance_n51_basin_hopping_s71", "n": 51, "method": "basin_hopping", "chunk": 3, "wall_s": 102, "best": 0.16561837431259452, "record": 0.165618374313, "status": "match", "stalled": 1, "t": "00:14:37"}
+{"name": "hardB_min_distance_n51_basin_hopping_s71", "n": 51, "method": "basin_hopping", "chunk": 4, "wall_s": 85, "best": 0.16561837431259452, "record": 0.165618374313, "status": "match", "stalled": 2, "t": "00:16:02"}
+{"name": "hardB_min_distance_n51_basin_hopping_s71", "n": 51, "method": "basin_hopping", "chunk": 5, "wall_s": 94, "best": 0.16561837431259452, "record": 0.165618374313, "status": "match", "stalled": 3, "t": "00:17:35"}
+{"name": "hardB_min_distance_n45_basin_hopping_s71", "n": 45, "method": "basin_hopping", "chunk": 1, "wall_s": 94, "best": 0.17571631417558842, "record": 0.175716314176, "status": "match", "stalled": 0, "t": "00:19:09"}
+{"name": "hardB_min_distance_n45_basin_hopping_s71", "n": 45, "method": "basin_hopping", "chunk": 2, "wall_s": 89, "best": 0.17571631417558842, "record": 0.175716314176, "status": "match", "stalled": 1, "t": "00:20:37"}
+{"name": "hardB_min_distance_n45_basin_hopping_s71", "n": 45, "method": "basin_hopping", "chunk": 3, "wall_s": 92, "best": 0.17571631417558842, "record": 0.175716314176, "status": "match", "stalled": 2, "t": "00:22:10"}
+{"name": "hardB_min_distance_n45_basin_hopping_s71", "n": 45, "method": "basin_hopping", "chunk": 4, "wall_s": 92, "best": 0.17571631417558842, "record": 0.175716314176, "status": "match", "stalled": 3, "t": "00:23:42"}
+{"name": "hardB_min_distance_n54_basin_hopping_s71", "n": 54, "method": "basin_hopping", "chunk": 1, "wall_s": 98, "best": 0.15913951630718826, "record": 0.159139516307, "status": "match", "stalled": 0, "t": "00:25:20"}
+{"name": "hardB_min_distance_n54_basin_hopping_s71", "n": 54, "method": "basin_hopping", "chunk": 2, "wall_s": 83, "best": 0.15913951630718826, "record": 0.159139516307, "status": "match", "stalled": 1, "t": "00:26:43"}
+{"name": "hardB_min_distance_n54_basin_hopping_s71", "n": 54, "method": "basin_hopping", "chunk": 3, "wall_s": 96, "best": 0.15913951630718826, "record": 0.159139516307, "status": "match", "stalled": 2, "t": "00:28:19"}
+{"name": "hardB_min_distance_n54_basin_hopping_s71", "n": 54, "method": "basin_hopping", "chunk": 4, "wall_s": 95, "best": 0.15913951630718826, "record": 0.159139516307, "status": "match", "stalled": 3, "t": "00:29:54"}
+{"name": "hardB_min_distance_n43_basin_hopping_s71", "n": 43, "method": "basin_hopping", "chunk": 1, "wall_s": 93, "best": 0.18019113545742563, "record": 0.180191135457, "status": "match", "stalled": 0, "t": "00:31:27"}
+{"name": "hardB_min_distance_n43_basin_hopping_s71", "n": 43, "method": "basin_hopping", "chunk": 2, "wall_s": 90, "best": 0.18019113545742563, "record": 0.180191135457, "status": "match", "stalled": 1, "t": "00:32:57"}
+{"name": "hardB_min_distance_n43_basin_hopping_s71", "n": 43, "method": "basin_hopping", "chunk": 3, "wall_s": 93, "best": 0.18019113545742563, "record": 0.180191135457, "status": "match", "stalled": 2, "t": "00:34:29"}
+{"name": "hardB_min_distance_n43_basin_hopping_s71", "n": 43, "method": "basin_hopping", "chunk": 4, "wall_s": 87, "best": 0.18019113545742563, "record": 0.180191135457, "status": "match", "stalled": 3, "t": "00:35:56"}
+{"name": "hardB_min_distance_n47_basin_hopping_s71", "n": 47, "method": "basin_hopping", "chunk": 1, "wall_s": 99, "best": 0.17101858928788163, "record": 0.171270563823, "status": "below", "stalled": 0, "t": "00:37:35"}
+{"name": "hardB_min_distance_n47_basin_hopping_s71", "n": 47, "method": "basin_hopping", "chunk": 2, "wall_s": 83, "best": 0.17101858928788163, "record": 0.171270563823, "status": "below", "stalled": 1, "t": "00:38:57"}
+{"name": "hardB_min_distance_n47_basin_hopping_s71", "n": 47, "method": "basin_hopping", "chunk": 3, "wall_s": 93, "best": 0.17127056382298672, "record": 0.171270563823, "status": "match", "stalled": 0, "t": "00:40:30"}
+{"name": "hardB_min_distance_n47_basin_hopping_s71", "n": 47, "method": "basin_hopping", "chunk": 4, "wall_s": 86, "best": 0.17127056382298672, "record": 0.171270563823, "status": "match", "stalled": 1, "t": "00:41:57"}
+{"name": "hardB_min_distance_n47_basin_hopping_s71", "n": 47, "method": "basin_hopping", "chunk": 5, "wall_s": 92, "best": 0.17127056382298672, "record": 0.171270563823, "status": "match", "stalled": 2, "t": "00:43:28"}
+{"name": "hardB_min_distance_n47_basin_hopping_s71", "n": 47, "method": "basin_hopping", "chunk": 6, "wall_s": 91, "best": 0.17127056382298672, "record": 0.171270563823, "status": "match", "stalled": 3, "t": "00:44:59"}
+{"name": "hardB_min_distance_n49_basin_hopping_s71", "n": 49, "method": "basin_hopping", "chunk": 1, "wall_s": 96, "best": 0.16713203348419034, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "00:46:35"}
+{"name": "hardB_min_distance_n49_basin_hopping_s71", "n": 49, "method": "basin_hopping", "chunk": 2, "wall_s": 94, "best": 0.16713203348419034, "record": 0.167386076868, "status": "below", "stalled": 1, "t": "00:48:09"}
+{"name": "hardB_min_distance_n49_basin_hopping_s71", "n": 49, "method": "basin_hopping", "chunk": 3, "wall_s": 87, "best": 0.1673017829970584, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "00:49:36"}
+{"name": "hardB_min_distance_n49_basin_hopping_s71", "n": 49, "method": "basin_hopping", "chunk": 4, "wall_s": 88, "best": 0.1673017829970584, "record": 0.167386076868, "status": "below", "stalled": 1, "t": "00:51:04"}
+{"name": "hardB_min_distance_n49_basin_hopping_s71", "n": 49, "method": "basin_hopping", "chunk": 5, "wall_s": 89, "best": 0.1673017829970584, "record": 0.167386076868, "status": "below", "stalled": 2, "t": "00:52:33"}
+{"name": "hardB_min_distance_n49_basin_hopping_s71", "n": 49, "method": "basin_hopping", "chunk": 6, "wall_s": 87, "best": 0.1673017829970584, "record": 0.167386076868, "status": "below", "stalled": 3, "t": "00:54:00"}
+{"name": "hardB_min_distance_n48_basin_hopping_s71", "n": 48, "method": "basin_hopping", "chunk": 1, "wall_s": 96, "best": 0.16933170268550615, "record": 0.16940542937, "status": "below", "stalled": 0, "t": "00:55:37"}
+{"name": "hardB_min_distance_n48_basin_hopping_s71", "n": 48, "method": "basin_hopping", "chunk": 2, "wall_s": 93, "best": 0.16940542937028696, "record": 0.16940542937, "status": "match", "stalled": 0, "t": "00:57:09"}
+{"name": "hardB_min_distance_n48_basin_hopping_s71", "n": 48, "method": "basin_hopping", "chunk": 3, "wall_s": 88, "best": 0.16940542937028696, "record": 0.16940542937, "status": "match", "stalled": 1, "t": "00:58:37"}
+{"name": "hardB_min_distance_n48_basin_hopping_s71", "n": 48, "method": "basin_hopping", "chunk": 4, "wall_s": 87, "best": 0.16940542937028696, "record": 0.16940542937, "status": "match", "stalled": 2, "t": "01:00:04"}
+{"name": "hardB_min_distance_n48_basin_hopping_s71", "n": 48, "method": "basin_hopping", "chunk": 5, "wall_s": 96, "best": 0.16940542937028696, "record": 0.16940542937, "status": "match", "stalled": 3, "t": "01:01:40"}
+{"name": "hardB_min_distance_n55_basin_hopping_s71", "n": 55, "method": "basin_hopping", "chunk": 1, "wall_s": 97, "best": 0.15745145882093092, "record": 0.15755574753, "status": "below", "stalled": 0, "t": "01:03:17"}
+{"name": "hardB_min_distance_n55_basin_hopping_s71", "n": 55, "method": "basin_hopping", "chunk": 2, "wall_s": 84, "best": 0.15755574752972112, "record": 0.15755574753, "status": "match", "stalled": 0, "t": "01:04:41"}
+{"name": "hardB_min_distance_n55_basin_hopping_s71", "n": 55, "method": "basin_hopping", "chunk": 3, "wall_s": 96, "best": 0.15755574752972112, "record": 0.15755574753, "status": "match", "stalled": 1, "t": "01:06:18"}
+{"name": "hardB_min_distance_n55_basin_hopping_s71", "n": 55, "method": "basin_hopping", "chunk": 4, "wall_s": 93, "best": 0.15755574752972112, "record": 0.15755574753, "status": "match", "stalled": 2, "t": "01:07:51"}
+{"name": "hardB_min_distance_n55_basin_hopping_s71", "n": 55, "method": "basin_hopping", "chunk": 5, "wall_s": 90, "best": 0.15755574752972112, "record": 0.15755574753, "status": "match", "stalled": 3, "t": "01:09:21"}
+{"name": "hardB_min_distance_n44_basin_hopping_s71", "n": 44, "method": "basin_hopping", "chunk": 1, "wall_s": 92, "best": 0.177610065756721, "record": 0.178639245671, "status": "below", "stalled": 0, "t": "01:10:52"}
+{"name": "hardB_min_distance_n44_basin_hopping_s71", "n": 44, "method": "basin_hopping", "chunk": 2, "wall_s": 95, "best": 0.17790235634511598, "record": 0.178639245671, "status": "below", "stalled": 0, "t": "01:12:27"}
+{"name": "hardB_min_distance_n44_basin_hopping_s71", "n": 44, "method": "basin_hopping", "chunk": 3, "wall_s": 90, "best": 0.17790235634588425, "record": 0.178639245671, "status": "below", "stalled": 1, "t": "01:13:57"}
+{"name": "hardB_min_distance_n44_basin_hopping_s71", "n": 44, "method": "basin_hopping", "chunk": 4, "wall_s": 87, "best": 0.17790235634588447, "record": 0.178639245671, "status": "below", "stalled": 2, "t": "01:15:24"}
+{"name": "hardB_min_distance_n44_basin_hopping_s71", "n": 44, "method": "basin_hopping", "chunk": 5, "wall_s": 90, "best": 0.17790235634588447, "record": 0.178639245671, "status": "below", "stalled": 3, "t": "01:16:54"}
+{"name": "hardB_min_distance_n58_basin_hopping_s71", "n": 58, "method": "basin_hopping", "chunk": 1, "wall_s": 104, "best": 0.1520412677234357, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "01:18:38"}
+{"name": "hardB_min_distance_n58_basin_hopping_s71", "n": 58, "method": "basin_hopping", "chunk": 2, "wall_s": 91, "best": 0.1524511222651722, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "01:20:09"}
+{"name": "hardB_min_distance_n58_basin_hopping_s71", "n": 58, "method": "basin_hopping", "chunk": 3, "wall_s": 90, "best": 0.1524511222651722, "record": 0.152692531391, "status": "below", "stalled": 1, "t": "01:21:39"}
+{"name": "hardB_min_distance_n58_basin_hopping_s71", "n": 58, "method": "basin_hopping", "chunk": 4, "wall_s": 87, "best": 0.1524511222651722, "record": 0.152692531391, "status": "below", "stalled": 2, "t": "01:23:06"}
+{"name": "hardB_min_distance_n58_basin_hopping_s71", "n": 58, "method": "basin_hopping", "chunk": 5, "wall_s": 90, "best": 0.1524511222651722, "record": 0.152692531391, "status": "below", "stalled": 3, "t": "01:24:36"}
+{"name": "hardB_min_distance_n59_basin_hopping_s71", "n": 59, "method": "basin_hopping", "chunk": 1, "wall_s": 96, "best": 0.15077427219409922, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "01:26:12"}
+{"name": "hardB_min_distance_n59_basin_hopping_s71", "n": 59, "method": "basin_hopping", "chunk": 2, "wall_s": 93, "best": 0.15085442098637347, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "01:27:45"}
+{"name": "hardB_min_distance_n59_basin_hopping_s71", "n": 59, "method": "basin_hopping", "chunk": 3, "wall_s": 83, "best": 0.15085442098637347, "record": 0.151562950614, "status": "below", "stalled": 1, "t": "01:29:08"}
+{"name": "hardB_min_distance_n59_basin_hopping_s71", "n": 59, "method": "basin_hopping", "chunk": 4, "wall_s": 98, "best": 0.15085442098637347, "record": 0.151562950614, "status": "below", "stalled": 2, "t": "01:30:46"}
+{"name": "hardB_min_distance_n59_basin_hopping_s71", "n": 59, "method": "basin_hopping", "chunk": 5, "wall_s": 94, "best": 0.15085442098637347, "record": 0.151562950614, "status": "below", "stalled": 3, "t": "01:32:20"}
+{"name": "hardB_min_distance_n60_basin_hopping_s71", "n": 60, "method": "basin_hopping", "chunk": 1, "wall_s": 103, "best": 0.14950565404842453, "record": 0.149505654049, "status": "match", "stalled": 0, "t": "01:34:03"}
+{"name": "hardB_min_distance_n60_basin_hopping_s71", "n": 60, "method": "basin_hopping", "chunk": 2, "wall_s": 94, "best": 0.14950565404842453, "record": 0.149505654049, "status": "match", "stalled": 1, "t": "01:35:37"}
+{"name": "hardB_min_distance_n60_basin_hopping_s71", "n": 60, "method": "basin_hopping", "chunk": 3, "wall_s": 74, "best": 0.14950565404842453, "record": 0.149505654049, "status": "match", "stalled": 2, "t": "01:36:50"}
+{"name": "hardB_min_distance_n60_basin_hopping_s71", "n": 60, "method": "basin_hopping", "chunk": 4, "wall_s": 93, "best": 0.14950565404842453, "record": 0.149505654049, "status": "match", "stalled": 3, "t": "01:38:23"}
+{"name": "hardB_min_distance_n57_basin_hopping_s71", "n": 57, "method": "basin_hopping", "chunk": 1, "wall_s": 95, "best": 0.15407360364165054, "record": 0.154747406944, "status": "below", "stalled": 0, "t": "01:39:58"}
+{"name": "hardB_min_distance_n57_basin_hopping_s71", "n": 57, "method": "basin_hopping", "chunk": 2, "wall_s": 90, "best": 0.15436092521002479, "record": 0.154747406944, "status": "below", "stalled": 0, "t": "01:41:27"}
+{"name": "hardB_min_distance_n57_basin_hopping_s71", "n": 57, "method": "basin_hopping", "chunk": 3, "wall_s": 95, "best": 0.15436092521002479, "record": 0.154747406944, "status": "below", "stalled": 1, "t": "01:43:02"}
+{"name": "hardB_min_distance_n57_basin_hopping_s71", "n": 57, "method": "basin_hopping", "chunk": 4, "wall_s": 99, "best": 0.15436092521002479, "record": 0.154747406944, "status": "below", "stalled": 2, "t": "01:44:41"}
+{"name": "hardB_min_distance_n57_basin_hopping_s71", "n": 57, "method": "basin_hopping", "chunk": 5, "wall_s": 77, "best": 0.15436092521002479, "record": 0.154747406944, "status": "below", "stalled": 3, "t": "01:45:58"}
+[
+ {
+  "n": 37,
+  "method": "basin_hopping",
+  "best": 0.1964291846295646,
+  "status": "stalled",
+  "name": "hardB_min_distance_n37_basin_hopping_s71"
+ },
+ {
+  "n": 51,
+  "method": "basin_hopping",
+  "best": 0.16561837431259452,
+  "status": "stalled",
+  "name": "hardB_min_distance_n51_basin_hopping_s71"
+ },
+ {
+  "n": 45,
+  "method": "basin_hopping",
+  "best": 0.17571631417558842,
+  "status": "stalled",
+  "name": "hardB_min_distance_n45_basin_hopping_s71"
+ },
+ {
+  "n": 54,
+  "method": "basin_hopping",
+  "best": 0.15913951630718826,
+  "status": "stalled",
+  "name": "hardB_min_distance_n54_basin_hopping_s71"
+ },
+ {
+  "n": 43,
+  "method": "basin_hopping",
+  "best": 0.18019113545742563,
+  "status": "stalled",
+  "name": "hardB_min_distance_n43_basin_hopping_s71"
+ },
+ {
+  "n": 47,
+  "method": "basin_hopping",
+  "best": 0.17127056382298672,
+  "status": "stalled",
+  "name": "hardB_min_distance_n47_basin_hopping_s71"
+ },
+ {
+  "n": 49,
+  "method": "basin_hopping",
+  "best": 0.1673017829970584,
+  "status": "stalled",
+  "name": "hardB_min_distance_n49_basin_hopping_s71"
+ },
+ {
+  "n": 48,
+  "method": "basin_hopping",
+  "best": 0.16940542937028696,
+  "status": "stalled",
+  "name": "hardB_min_distance_n48_basin_hopping_s71"
+ },
+ {
+  "n": 55,
+  "method": "basin_hopping",
+  "best": 0.15755574752972112,
+  "status": "stalled",
+  "name": "hardB_min_distance_n55_basin_hopping_s71"
+ },
+ {
+  "n": 44,
+  "method": "basin_hopping",
+  "best": 0.17790235634588447,
+  "status": "stalled",
+  "name": "hardB_min_distance_n44_basin_hopping_s71"
+ },
+ {
+  "n": 58,
+  "method": "basin_hopping",
+  "best": 0.1524511222651722,
+  "status": "stalled",
+  "name": "hardB_min_distance_n58_basin_hopping_s71"
+ },
+ {
+  "n": 59,
+  "method": "basin_hopping",
+  "best": 0.15085442098637347,
+  "status": "stalled",
+  "name": "hardB_min_distance_n59_basin_hopping_s71"
+ },
+ {
+  "n": 60,
+  "method": "basin_hopping",
+  "best": 0.14950565404842453,
+  "status": "stalled",
+  "name": "hardB_min_distance_n60_basin_hopping_s71"
+ },
+ {
+  "n": 57,
+  "method": "basin_hopping",
+  "best": 0.15436092521002479,
+  "status": "stalled",
+  "name": "hardB_min_distance_n57_basin_hopping_s71"
+ }
+]

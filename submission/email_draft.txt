@@ -1,0 +1,16 @@
+To: eckard.specht@ovgu.de
+Subject: csqv N=120 and N=250: candidate packings with larger sums of radii than the values listed on 2026-09-29 (attached, .pck)
+Attachments: submission/csqv120.pck, submission/csqv250.pck
+
+Dear Dr. Specht,
+
+I am an independent researcher. Comparing with the csqv values that I downloaded on 2026-09-29 at 21:32 (UTC-6), I have two candidate packings whose sums of radii are larger; the attached .pck files follow your hints page (radii reduced by 1e-12, 20 decimals, exactly 3N contacts within 3e-12).
+N=120: sum of radii of the attached file 5.77730309732486 (listed 5.776999746200). N=250: 8.38997353258768 (listed 8.389775077490).
+Both files pass a zero-tolerance exact check (a stand-alone script using integer arithmetic, and my own verifier in rational and 60-digit arithmetic), and their structures differ from the listed ones (optimal matching under the 8 symmetries of the square: 0 of 120 and 0 of 250 circles within 1e-6).
+I saw on your homepage that submissions are closed ("over 5,000 new candidates in the queue"), so please take this only as information and ignore it if you prefer; the table changes quickly, so these values may already be outdated.
+SHA-256 of the attachments: csqv120.pck 889f2522ab07b2ef99e53d2eb9cbd86a6d839bb6a656af67ff61a424972977a4; csqv250.pck 8a4e0edd995f823d63470fd24ca04863e585a6533159dcd9ba6b3f3db14ac234.
+Code, certificates and verification instructions: GitHub <link once public>, Zenodo DOI 10.5281/zenodo.23051520 (reserved; resolves once published), Hugging Face <link once public>.
+
+Best regards,
+Elian Alfonso López Preciado
+Independent Researcher, León, Guanajuato, México

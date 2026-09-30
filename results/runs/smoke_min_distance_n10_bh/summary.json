@@ -1,0 +1,38 @@
+{
+ "name": "smoke_min_distance_n10_bh",
+ "problem": "min_distance",
+ "n": 10,
+ "method": "basin_hopping",
+ "seed": 1,
+ "workers": 12,
+ "rounds": 3,
+ "elapsed_s": 1.5744342803955078,
+ "best_score": 0.4212795439839032,
+ "status": "match",
+ "record": 0.421279543984,
+ "hist": [
+  [
+   1.3523046970367432,
+   0.42127954398390316
+  ],
+  [
+   1.4447047710418701,
+   0.42127954398390316
+  ],
+  [
+   1.5350408554077148,
+   0.4212795439839032
+  ]
+ ],
+ "cfg": {
+  "name": "smoke_min_distance_n10_bh",
+  "problem": "min_distance",
+  "n": 10,
+  "method": "basin_hopping",
+  "seed": 1,
+  "workers": 12,
+  "iters_per_round": 10,
+  "max_rounds": 3,
+  "time_limit_s": 120
+ }
+}

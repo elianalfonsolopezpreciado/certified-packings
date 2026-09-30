@@ -1,0 +1,10 @@
+[scratch N=600] homotopy 109s best=1.506993 median=1.517107
+   cand 22: homotopy 1.506993 -> polished 1.506526
+   cand 137: homotopy 1.507997 -> polished 1.507375
+   cand 192: homotopy 1.508366 -> polished 1.507835
+   cand 110: homotopy 1.508436 -> polished 1.507783
+   cand 242: homotopy 1.508963 -> polished 1.508381
+   cand 417: homotopy 1.508979 -> polished 1.508473
+   cand 188: homotopy 1.509390 -> polished 1.508850
+   cand 226: homotopy 1.509913 -> polished 1.509114
+best float at N: 1.506525181443799

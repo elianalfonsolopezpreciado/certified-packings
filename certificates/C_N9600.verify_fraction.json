@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\C_N9600.json.gz",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "autocorr1",
+      "n": 9600,
+      "backend": "fraction-exact-int",
+      "valid": true,
+      "certified_score": "1.50529622994497592398582939843",
+      "raw_score": "1.50529622994497592398582939843",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

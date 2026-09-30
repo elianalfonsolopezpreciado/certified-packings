@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below (and the paper once it has a DOI)."
+title: "Certified circle packings and an exact autocorrelation verifier"
+type: software
+version: "1.0"
+doi: 10.5281/zenodo.23051520
+date-released: "2026-09-30"
+authors:
+  - family-names: "López Preciado"
+    given-names: "Elian Alfonso"
+    affiliation: "Independent Researcher"
+    location: "León, Guanajuato, México"
+license: MIT
+repository-code: "https://github.com/elianalfonsolopezpreciado/certified-packings"
+abstract: >-
+  Search code, an independent exact verifier, a third-party .pck validator, certificates and logs for maximum sum-of-radii circle packings
+  (two packings for n=120 and n=250 exceed the Packomania csqv values listed on 2026-09-29 21:32 UTC-6; the table changes quickly) and for the first
+  autocorrelation inequality (exact verification up to N=38,400; best certified bound 1.505274644, not a record).
+keywords:
+  - circle packing
+  - sum of radii
+  - packomania
+  - autocorrelation inequality
+  - exact verification
+  - certificates

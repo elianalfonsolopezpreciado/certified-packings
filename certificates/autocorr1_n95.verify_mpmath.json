@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\autocorr1_n95.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "autocorr1",
+      "n": 95,
+      "backend": "mpmath-60dps",
+      "valid": true,
+      "certified_score": "1.51177119936813317222553285451",
+      "raw_score": "1.51177119936813317222553285451",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

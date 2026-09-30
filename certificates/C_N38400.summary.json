@@ -1,0 +1,9 @@
+{
+ "name": "C_N38400",
+ "N": 38400,
+ "ok": true,
+ "verify_seconds": 10.5,
+ "certified_score_fraction": "1.50527464367791917144738802786",
+ "certified_score_mpmath": "1.50527464367791917144738802786",
+ "backends_equal": true
+}

@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\sum_radii_n38.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "sum_radii",
+      "n": 38,
+      "backend": "mpmath-60dps",
+      "valid": true,
+      "certified_score": "3.205945627934098690702457",
+      "raw_score": "3.205945627972098690702457",
+      "max_violation": "-5.332071062468582583909943e-13",
+      "raw_max_violation": "4.999999999999999999999729e-41",
+      "eps": "1.00000e-12",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

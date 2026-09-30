@@ -1,0 +1,25 @@
+{
+ "name": "min_distance_n46",
+ "ok": true,
+ "polish": {
+  "n_active": 68,
+  "n_unknowns": 69,
+  "rank": 68,
+  "newton_residuals": [
+   1.6747251058242872e-09,
+   2.3037657183255907e-17,
+   4.3594136248163507e-33,
+   2.91703841149741e-62
+  ],
+  "max_active_residual": 2.91703841149741e-62,
+  "score_mp": "0.174459360872413203234903861303",
+  "score_float_in": 0.1744593608724122,
+  "kkt_residual": 1.887379141862766e-15,
+  "min_lambda": -3.5475095083725705e-16
+ },
+ "certified_score_mpmath": "0.174459360872413203234903861303",
+ "certified_score_fraction": "0.174459360872413203234903861303",
+ "agree_1e-20": true,
+ "record": 0.174459360872,
+ "status": "match"
+}

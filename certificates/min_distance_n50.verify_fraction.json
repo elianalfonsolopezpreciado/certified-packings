@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\min_distance_n50.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "min_distance",
+      "n": 50,
+      "backend": "fraction-exact",
+      "valid": true,
+      "certified_score": "0.166526577343550707602077799846",
+      "raw_score": "0.166526577343550707602077799846",
+      "max_violation": "0.0",
+      "raw_max_violation": "0.0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

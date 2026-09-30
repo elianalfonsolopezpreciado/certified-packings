@@ -1,0 +1,65 @@
+{"name": "hardB2_min_distance_n44_evo_s81", "n": 44, "method": "evo", "chunk": 1, "wall_s": 127, "best": 0.17863924567120001, "record": 0.178639245671, "status": "match", "stalled": 0, "t": "01:48:40"}
+{"name": "hardB2_min_distance_n44_evo_s81", "n": 44, "method": "evo", "chunk": 2, "wall_s": 119, "best": 0.17863924567120038, "record": 0.178639245671, "status": "match", "stalled": 1, "t": "01:50:39"}
+{"name": "hardB2_min_distance_n44_evo_s81", "n": 44, "method": "evo", "chunk": 3, "wall_s": 116, "best": 0.17863924567120038, "record": 0.178639245671, "status": "match", "stalled": 2, "t": "01:52:34"}
+{"name": "hardB2_min_distance_n44_evo_s81", "n": 44, "method": "evo", "chunk": 4, "wall_s": 124, "best": 0.17863924567120038, "record": 0.178639245671, "status": "match", "stalled": 3, "t": "01:54:38"}
+{"name": "hardB2_min_distance_n49_evo_s81", "n": 49, "method": "evo", "chunk": 1, "wall_s": 133, "best": 0.16710761134622681, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "01:56:51"}
+{"name": "hardB2_min_distance_n49_evo_s81", "n": 49, "method": "evo", "chunk": 2, "wall_s": 108, "best": 0.1673017829970582, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "01:58:39"}
+{"name": "hardB2_min_distance_n49_evo_s81", "n": 49, "method": "evo", "chunk": 3, "wall_s": 126, "best": 0.1673017829970582, "record": 0.167386076868, "status": "below", "stalled": 1, "t": "02:00:45"}
+{"name": "hardB2_min_distance_n49_evo_s81", "n": 49, "method": "evo", "chunk": 4, "wall_s": 126, "best": 0.16730905462605228, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "02:02:50"}
+{"name": "hardB2_min_distance_n49_evo_s81", "n": 49, "method": "evo", "chunk": 5, "wall_s": 116, "best": 0.16730905462605314, "record": 0.167386076868, "status": "below", "stalled": 1, "t": "02:04:47"}
+{"name": "hardB2_min_distance_n49_evo_s81", "n": 49, "method": "evo", "chunk": 6, "wall_s": 115, "best": 0.16730905462605314, "record": 0.167386076868, "status": "below", "stalled": 2, "t": "02:06:42"}
+{"name": "hardB2_min_distance_n57_evo_s81", "n": 57, "method": "evo", "chunk": 1, "wall_s": 203, "best": 0.15429641916614897, "record": 0.154747406944, "status": "below", "stalled": 0, "t": "02:10:04"}
+{"name": "hardB2_min_distance_n57_evo_s81", "n": 57, "method": "evo", "chunk": 2, "wall_s": 82, "best": 0.15429641916614897, "record": 0.154747406944, "status": "below", "stalled": 1, "t": "02:11:26"}
+{"name": "hardB2_min_distance_n57_evo_s81", "n": 57, "method": "evo", "chunk": 3, "wall_s": 96, "best": 0.15474740694338104, "record": 0.154747406944, "status": "match", "stalled": 0, "t": "02:13:02"}
+{"name": "hardB2_min_distance_n57_evo_s81", "n": 57, "method": "evo", "chunk": 4, "wall_s": 105, "best": 0.15474740694338104, "record": 0.154747406944, "status": "match", "stalled": 1, "t": "02:14:46"}
+{"name": "hardB2_min_distance_n57_evo_s81", "n": 57, "method": "evo", "chunk": 5, "wall_s": 126, "best": 0.15474740694338104, "record": 0.154747406944, "status": "match", "stalled": 2, "t": "02:16:52"}
+{"name": "hardB2_min_distance_n57_evo_s81", "n": 57, "method": "evo", "chunk": 6, "wall_s": 128, "best": 0.15474740694338104, "record": 0.154747406944, "status": "match", "stalled": 3, "t": "02:19:01"}
+{"name": "hardB2_min_distance_n58_evo_s81", "n": 58, "method": "evo", "chunk": 1, "wall_s": 186, "best": 0.1526512546391201, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "02:22:07"}
+{"name": "hardB2_min_distance_n58_evo_s81", "n": 58, "method": "evo", "chunk": 2, "wall_s": 64, "best": 0.1526512546391201, "record": 0.152692531391, "status": "below", "stalled": 1, "t": "02:23:10"}
+{"name": "hardB2_min_distance_n58_evo_s81", "n": 58, "method": "evo", "chunk": 3, "wall_s": 125, "best": 0.1526796138187102, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "02:25:15"}
+{"name": "hardB2_min_distance_n58_evo_s81", "n": 58, "method": "evo", "chunk": 4, "wall_s": 118, "best": 0.15269253139122263, "record": 0.152692531391, "status": "match", "stalled": 0, "t": "02:27:13"}
+{"name": "hardB2_min_distance_n58_evo_s81", "n": 58, "method": "evo", "chunk": 5, "wall_s": 123, "best": 0.15269253139122263, "record": 0.152692531391, "status": "match", "stalled": 1, "t": "02:29:15"}
+{"name": "hardB2_min_distance_n58_evo_s81", "n": 58, "method": "evo", "chunk": 6, "wall_s": 107, "best": 0.15269253139122263, "record": 0.152692531391, "status": "match", "stalled": 2, "t": "02:31:02"}
+{"name": "hardB2_min_distance_n59_evo_s81", "n": 59, "method": "evo", "chunk": 1, "wall_s": 231, "best": 0.15065274878408863, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "02:34:53"}
+{"name": "hardB2_min_distance_n59_evo_s81", "n": 59, "method": "evo", "chunk": 2, "wall_s": 48, "best": 0.15085399501753255, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "02:35:42"}
+{"name": "hardB2_min_distance_n59_evo_s81", "n": 59, "method": "evo", "chunk": 3, "wall_s": 94, "best": 0.15090880504714901, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "02:37:15"}
+{"name": "hardB2_min_distance_n59_evo_s81", "n": 59, "method": "evo", "chunk": 4, "wall_s": 118, "best": 0.15090880504714901, "record": 0.151562950614, "status": "below", "stalled": 1, "t": "02:39:13"}
+{"name": "hardB2_min_distance_n59_evo_s81", "n": 59, "method": "evo", "chunk": 5, "wall_s": 137, "best": 0.1510346531115593, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "02:41:30"}
+{"name": "hardB2_min_distance_n59_evo_s81", "n": 59, "method": "evo", "chunk": 6, "wall_s": 100, "best": 0.1510346531115593, "record": 0.151562950614, "status": "below", "stalled": 1, "t": "02:43:10"}
+[
+ {
+  "n": 44,
+  "method": "evo",
+  "best": 0.17863924567120038,
+  "status": "stalled",
+  "name": "hardB2_min_distance_n44_evo_s81"
+ },
+ {
+  "n": 49,
+  "method": "evo",
+  "best": 0.16730905462605314,
+  "status": "budget",
+  "name": "hardB2_min_distance_n49_evo_s81"
+ },
+ {
+  "n": 57,
+  "method": "evo",
+  "best": 0.15474740694338104,
+  "status": "stalled",
+  "name": "hardB2_min_distance_n57_evo_s81"
+ },
+ {
+  "n": 58,
+  "method": "evo",
+  "best": 0.15269253139122263,
+  "status": "budget",
+  "name": "hardB2_min_distance_n58_evo_s81"
+ },
+ {
+  "n": 59,
+  "method": "evo",
+  "best": 0.1510346531115593,
+  "status": "budget",
+  "name": "hardB2_min_distance_n59_evo_s81"
+ }
+]

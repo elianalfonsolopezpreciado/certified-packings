@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\min_distance_n48.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "min_distance",
+      "n": 48,
+      "backend": "mpmath-60dps",
+      "valid": true,
+      "certified_score": "0.169405429370288096853431066357",
+      "raw_score": "0.169405429370288096853431066357",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

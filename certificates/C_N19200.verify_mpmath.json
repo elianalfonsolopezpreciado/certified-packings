@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\C_N19200.json.gz",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "autocorr1",
+      "n": 19200,
+      "backend": "mpmath-60dps",
+      "valid": true,
+      "certified_score": "1.50527464366561842582418160530",
+      "raw_score": "1.50527464366561842582418160530",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

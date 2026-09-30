@@ -1,0 +1,9 @@
+{
+ "name": "C_N600",
+ "N": 600,
+ "ok": true,
+ "verify_seconds": 0.8,
+ "certified_score_fraction": "1.50652518144379931669782646039",
+ "certified_score_mpmath": "1.50652518144379931669782646039",
+ "backends_equal": true
+}

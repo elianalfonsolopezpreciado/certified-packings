@@ -1,0 +1,9 @@
+{
+ "name": "C_N19200",
+ "N": 19200,
+ "ok": true,
+ "verify_seconds": 3.3,
+ "certified_score_fraction": "1.50527464366561842582418160530",
+ "certified_score_mpmath": "1.50527464366561842582418160530",
+ "backends_equal": true
+}

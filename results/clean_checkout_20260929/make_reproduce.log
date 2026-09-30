@@ -1,0 +1,90 @@
+python -m search.report headline
+| problem | n | certified score (exact/mpmath agree) | raw score (before shrink) | record | gap (certified) | gap (raw) | status | method | file |
+|---|---|---|---|---|---|---|---|---|---|
+| autocorr1 | 50 | 1.51706933905971775063 (agree) | 1.51706933905971775063 | 1.50287 | +1.42e-02 | +1.42e-02 | above-record | gpu-pnorm+slp | autocorr1_n50.json |
+| autocorr1 | 95 | 1.51177119936813317222 (agree) | 1.51177119936813317222 | 1.50287 | +8.90e-03 | +8.90e-03 | above-record | gpu-pnorm+slp | autocorr1_n95.json |
+| autocorr1 | 150 | 1.51025673336093196533 (agree) | 1.51025673336093196533 | 1.50287 | +7.39e-03 | +7.39e-03 | above-record |  | C_N150.json |
+| autocorr1 | 200 | 1.50935354670643748758 (agree) | 1.50935354670643748758 | 1.50287 | +6.48e-03 | +6.48e-03 | above-record(beats-best-human) | gpu-pnorm+slp | autocorr1_n200.json |
+| autocorr1 | 300 | 1.50821262189435302254 (agree) | 1.50821262189435302254 | 1.50287 | +5.34e-03 | +5.34e-03 | above-record(beats-best-human) |  | C_N300.json |
+| autocorr1 | 600 | 1.50652518144379931669 (agree) | 1.50652518144379931669 | 1.50287 | +3.66e-03 | +3.66e-03 | above-record(beats-best-human) |  | C_N600.json |
+| autocorr1 | 600 | 1.50652518144379931669 (agree) | 1.50652518144379931669 | 1.50287 | +3.66e-03 | +3.66e-03 | above-record(beats-best-human) | gpu-pnorm+slp | autocorr1_n600.json |
+| autocorr1 | 1200 | 1.50581755650891434272 (agree) | 1.50581755650891434272 | 1.50287 | +2.95e-03 | +2.95e-03 | above-record(beats-best-human) |  | C_N1200.json |
+| autocorr1 | 1319 | 1.50749739555445378626 (agree) | 1.50749739555445378626 | 1.50287 | +4.63e-03 | +4.63e-03 | above-record(beats-best-human) | gpu-pnorm+slp | autocorr1_n1319.json |
+| autocorr1 | 2400 | 1.50593251899262663552 (agree) | 1.50593251899262663552 | 1.50287 | +3.06e-03 | +3.06e-03 | above-record(beats-best-human) |  | C_N2400.json |
+| autocorr1 | 4800 | 1.50533767789995493918 (agree) | 1.50533767789995493918 | 1.50287 | +2.47e-03 | +2.47e-03 | above-record(beats-best-human) |  | C_N4800.json |
+| autocorr1 | 9600 | 1.50529622994497592398 (agree) | 1.50529622994497592398 | 1.50287 | +2.43e-03 | +2.43e-03 | above-record(matches AlphaEvolve 1.50530) |  | C_N9600.json.gz |
+| autocorr1 | 19200 | 1.50527464366561842582 (agree) | 1.50527464366561842582 | 1.50287 | +2.40e-03 | +2.40e-03 | above-record(better than AlphaEvolve-v1 1.50530, not than V2) |  | C_N19200.json.gz |
+| autocorr1 | 38400 | 1.50527464367791917144 (agree) | 1.50527464367791917144 | 1.50287 | +2.40e-03 | +2.40e-03 | above-record(better than AlphaEvolve-v1 1.50530, not than V2) |  | C_N38400.json.gz |
+| min_distance | 10 | 0.42127954398390343276 (agree) | 0.42127954398390343276 | 0.421279543984 | -9.66e-14 | -9.66e-14 | match | basin_hopping | min_distance_n10.json |
+| min_distance | 15 | 0.34108137740210887763 (agree) | 0.34108137740210887763 | 0.341081377402 | +1.09e-13 | +1.09e-13 | match | multistart | min_distance_n15.json |
+| min_distance | 20 | 0.28661165235168155944 (agree) | 0.28661165235168155944 | 0.286611652352 | -3.18e-13 | -3.18e-13 | match | multistart | min_distance_n20.json |
+| min_distance | 25 | 0.25000000000000000000 (agree) | 0.25000000000000000000 | 0.25 | +0.00e+00 | +0.00e+00 | match | multistart | min_distance_n25.json |
+| min_distance | 30 | 0.22450296453108827557 (agree) | 0.22450296453108827557 | 0.224502964531 | +8.83e-14 | +8.83e-14 | match | multistart | min_distance_n30.json |
+| min_distance | 31 | 0.21754729161912445322 (agree) | 0.21754729161912445322 | 0.217547291619 | +1.24e-13 | +1.24e-13 | match | multistart | min_distance_n31.json |
+| min_distance | 32 | 0.21317456258987653267 (agree) | 0.21317456258987653267 | 0.21317456259 | -1.23e-13 | -1.23e-13 | match | multistart | min_distance_n32.json |
+| min_distance | 33 | 0.21132838414326313549 (agree) | 0.21132838414326313549 | 0.211328384143 | +2.63e-13 | +2.63e-13 | match | multistart | min_distance_n33.json |
+| min_distance | 34 | 0.20560464675956822469 (agree) | 0.20560464675956822469 | 0.20560464676 | -4.32e-13 | -4.32e-13 | match | multistart | min_distance_n34.json |
+| min_distance | 35 | 0.20276360086322704877 (agree) | 0.20276360086322704877 | 0.202763600863 | +2.27e-13 | +2.27e-13 | match | multistart | min_distance_n35.json |
+| min_distance | 36 | 0.20000000000000000000 (agree) | 0.20000000000000000000 | 0.2 | +0.00e+00 | +0.00e+00 | match | multistart | min_distance_n36.json |
+| min_distance | 37 | 0.19642918462956899783 (agree) | 0.19642918462956899783 | 0.19642918463 | -4.31e-13 | -4.31e-13 | match | basin_hopping | min_distance_n37.json |
+| min_distance | 38 | 0.19534230412690590027 (agree) | 0.19534230412690590027 | 0.195342304127 | -9.41e-14 | -9.41e-14 | match | multistart | min_distance_n38.json |
+| min_distance | 39 | 0.19436506316151001569 (agree) | 0.19436506316151001569 | 0.194365063162 | -4.90e-13 | -4.90e-13 | match | multistart | min_distance_n39.json |
+| min_distance | 40 | 0.18817552201831545378 (agree) | 0.18817552201831545378 | 0.188175522018 | +3.15e-13 | +3.15e-13 | match | multistart | min_distance_n40.json |
+| min_distance | 41 | 0.18609951184812455612 (agree) | 0.18609951184812455612 | 0.186099511848 | +1.25e-13 | +1.25e-13 | match | multistart | min_distance_n41.json |
+| min_distance | 42 | 0.18427707211709892647 (agree) | 0.18427707211709892647 | 0.184277072117 | +9.89e-14 | +9.89e-14 | match | multistart | min_distance_n42.json |
+| min_distance | 43 | 0.18019113545742595679 (agree) | 0.18019113545742595679 | 0.180191135457 | +4.26e-13 | +4.26e-13 | match | basin_hopping | min_distance_n43.json |
+| min_distance | 44 | 0.17863924567120088965 (agree) | 0.17863924567120088965 | 0.178639245671 | +2.01e-13 | +2.01e-13 | match | evo | min_distance_n44.json |
+| min_distance | 45 | 0.17571631417558984601 (agree) | 0.17571631417558984601 | 0.175716314176 | -4.10e-13 | -4.10e-13 | match | basin_hopping | min_distance_n45.json |
+| min_distance | 46 | 0.17445936087241320323 (agree) | 0.17445936087241320323 | 0.174459360872 | +4.13e-13 | +4.13e-13 | match | multistart | min_distance_n46.json |
+| min_distance | 47 | 0.17127056382298722013 (agree) | 0.17127056382298722013 | 0.171270563823 | -1.28e-14 | -1.28e-14 | match | basin_hopping | min_distance_n47.json |
+| min_distance | 48 | 0.16940542937028809685 (agree) | 0.16940542937028809685 | 0.16940542937 | +2.88e-13 | +2.88e-13 | match | basin_hopping | min_distance_n48.json |
+| min_distance | 49 | 0.16738607686832540794 (agree) | 0.16738607686832540794 | 0.167386076868 | +3.25e-13 | +3.25e-13 | match | evo | min_distance_n49.json |
+| min_distance | 50 | 0.16652657734355070760 (agree) | 0.16652657734355070760 | 0.166526577344 | -4.49e-13 | -4.49e-13 | match | multistart | min_distance_n50.json |
+| min_distance | 51 | 0.16561837431259479732 (agree) | 0.16561837431259479732 | 0.165618374313 | -4.05e-13 | -4.05e-13 | match | basin_hopping | min_distance_n51.json |
+| min_distance | 52 | 0.16538623796964052986 (agree) | 0.16538623796964052986 | 0.16538623797 | -3.59e-13 | -3.59e-13 | match | multistart | min_distance_n52.json |
+| min_distance | 53 | 0.16264807742477023876 (agree) | 0.16264807742477023876 | 0.162648077425 | -2.30e-13 | -2.30e-13 | match | multistart | min_distance_n53.json |
+| min_distance | 54 | 0.15913951630718974575 (agree) | 0.15913951630718974575 | 0.159139516307 | +1.90e-13 | +1.90e-13 | match | basin_hopping | min_distance_n54.json |
+| min_distance | 55 | 0.15755574752972190077 (agree) | 0.15755574752972190077 | 0.15755574753 | -2.78e-13 | -2.78e-13 | match | basin_hopping | min_distance_n55.json |
+| min_distance | 56 | 0.15615650046214717801 (agree) | 0.15615650046214717801 | 0.156156500462 | +1.47e-13 | +1.47e-13 | match | multistart | min_distance_n56.json |
+| min_distance | 57 | 0.15474740694357515719 (agree) | 0.15474740694357515719 | 0.154747406944 | -4.25e-13 | -4.25e-13 | match | evo | min_distance_n57.json |
+| min_distance | 58 | 0.15269253139122337792 (agree) | 0.15269253139122337792 | 0.152692531391 | +2.23e-13 | +2.23e-13 | match | evo | min_distance_n58.json |
+| min_distance | 59 | 0.15156295061361420247 (agree) | 0.15156295061361420247 | 0.151562950614 | -3.86e-13 | -3.86e-13 | match | evo | min_distance_n59.json |
+| min_distance | 60 | 0.14950565404866753888 (agree) | 0.14950565404866753888 | 0.149505654049 | -3.32e-13 | -3.32e-13 | match | basin_hopping | min_distance_n60.json |
+| sum_radii | 26 | 2.63598308489160778318 (agree) | 2.63598308491760778318 | 2.63598308492 | -2.74e-11 | -1.39e-12 | match | evo | sum_radii_n26.json |
+| sum_radii | 27 | 2.68597868419834622822 (agree) | 2.68597868422534622822 | 2.6859786842 | +3.46e-13 | +2.73e-11 | match | gpu-multistart | sum_radii_n27.json |
+| sum_radii | 28 | 2.73773998550467165700 (agree) | 2.73773998553267165700 | 2.73773998554 | -3.13e-11 | -3.33e-12 | match | gpu-multistart | sum_radii_n28.json |
+| sum_radii | 29 | 2.79034415459665410211 (agree) | 2.79034415462565410211 | 2.79034415463 | -3.43e-11 | -5.35e-12 | match | gpu-multistart | sum_radii_n29.json |
+| sum_radii | 30 | 2.84266874743410132272 (agree) | 2.84266874746410132272 | 2.84266874746 | -2.79e-11 | +2.10e-12 | match | gpu-multistart | sum_radii_n30.json |
+| sum_radii | 31 | 2.88996985190119689821 (agree) | 2.88996985193219689821 | 2.88996985193 | -3.18e-11 | -8.03e-13 | match | gpu-multistart | sum_radii_n31.json |
+| sum_radii | 32 | 2.93957277117432363499 (agree) | 2.93957277120632363499 | 2.9395727712 | -3.07e-11 | +1.32e-12 | match | evo | sum_radii_n32.json |
+| sum_radii | 33 | 2.98728500855827416953 (agree) | 2.98728500859127416953 | 2.98728500859 | -3.37e-11 | -7.26e-13 | match | gpu-multistart | sum_radii_n33.json |
+| sum_radii | 34 | 3.02979927115386596976 (agree) | 3.02979927118786596976 | 3.02979927119 | -3.21e-11 | +1.87e-12 | match | gpu-multistart | sum_radii_n34.json |
+| sum_radii | 35 | 3.07403636369278197256 (agree) | 3.07403636372778197256 | 3.07403636373 | -3.72e-11 | -2.22e-12 | match | gpu-multistart | sum_radii_n35.json |
+| sum_radii | 36 | 3.12175448606467809404 (agree) | 3.12175448610067809404 | 3.1217544861 | -3.73e-11 | -1.32e-12 | match | gpu-multistart | sum_radii_n36.json |
+| sum_radii | 37 | 3.16149891614046330064 (agree) | 3.16149891617746330064 | 3.16149891618 | -3.85e-11 | -1.54e-12 | match | evo | sum_radii_n37.json |
+| sum_radii | 38 | 3.20594562793409869070 (agree) | 3.20594562797209869070 | 3.20594562797 | -3.99e-11 | -1.90e-12 | match | gpu-multistart | sum_radii_n38.json |
+| sum_radii | 39 | 3.24811079813439558851 (agree) | 3.24811079817339558851 | 3.24811079817 | -4.06e-11 | -1.60e-12 | match | evo | sum_radii_n39.json |
+| sum_radii | 40 | 3.29239157256894998401 (agree) | 3.29239157260894998401 | 3.29239157261 | -3.91e-11 | +9.50e-13 | match | gpu-multistart | sum_radii_n40.json |
+| sum_radii | 100 | 5.26027452866104235842 (agree) | 5.26027452876104235842 | 5.26374444184 | -3.47e-03 | -3.47e-03 | below | evo | A_n100.json |
+| sum_radii | 110 | 5.53191953629551338158 (agree) | 5.53191953640551338158 | 5.5319195364 | -1.05e-10 | +4.51e-12 | match | evo | A_n110.json |
+| sum_radii | 116 | 5.67435031013620931990 (agree) | 5.67435031025220931990 | 5.67657313751 | -2.22e-03 | -2.22e-03 | below | evo | A_n116.json |
+| sum_radii | 120 | 5.77730309732486381328 (agree) | 5.77730309744486381328 | 5.7769997462 | +3.03e-04 | +3.03e-04 | IMPROVEMENT (certified, vs table of last record check) | evo | A_n120.json |
+| sum_radii | 130 | 6.02205109518384595062 (agree) | 6.02205109531384595062 | 6.02242407708 | -3.73e-04 | -3.73e-04 | below | evo | A_n130.json |
+| sum_radii | 138 | 6.20057136973228623266 (agree) | 6.20057136987028623266 | 6.20119620742 | -6.25e-04 | -6.25e-04 | below | evo | A_n138.json |
+| sum_radii | 139 | 6.22219755867845314862 (agree) | 6.22219755881745314862 | 6.22404851118 | -1.85e-03 | -1.85e-03 | below | evo | A_n139.json |
+| sum_radii | 140 | 6.24717708053327800805 (agree) | 6.24717708067327800805 | 6.24828628997 | -1.11e-03 | -1.11e-03 | below | evo | A_n140.json |
+| sum_radii | 150 | 6.47638612925187238991 (agree) | 6.47638612940187238991 | 6.47818927305 | -1.80e-03 | -1.80e-03 | below | evo | A_n150.json |
+| sum_radii | 159 | 6.66130227327353031411 (agree) | 6.66130227343253031411 | 6.66389176348 | -2.59e-03 | -2.59e-03 | below | evo | A_n159.json |
+| sum_radii | 160 | 6.68541910985367678427 (agree) | 6.68541911001367678427 | 6.68637748477 | -9.58e-04 | -9.58e-04 | below | evo | A_n160.json |
+| sum_radii | 170 | 6.90052731686858820190 (agree) | 6.90052731703858820190 | 6.90161511607 | -1.09e-03 | -1.09e-03 | below | evo | A_n170.json |
+| sum_radii | 180 | 7.09902831137848234094 (agree) | 7.09902831155848234094 | 7.09994175649 | -9.13e-04 | -9.13e-04 | below | evo | A_n180.json |
+| sum_radii | 188 | 7.25506534487458238811 (agree) | 7.25506534506258238811 | 7.2568067798 | -1.74e-03 | -1.74e-03 | below | evo | A_n188.json |
+| sum_radii | 200 | 7.48945388246189662291 (agree) | 7.48945388266189662291 | 7.49381530462 | -4.36e-03 | -4.36e-03 | below | evo | A_n200.json |
+| sum_radii | 250 | 8.38997353258768227131 (agree) | 8.38997353283768227131 | 8.38977507749 | +1.98e-04 | +1.98e-04 | IMPROVEMENT (certified, vs table of last record check) | evo | A_n250.json |
+| sum_radii | 275 | 8.79375091465119104384 (agree) | 8.79375091492619104384 | 8.79910003287 | -5.35e-03 | -5.35e-03 | below | evo | A_n275.json |
+| sum_radii | 297 | 9.14225932577732774242 (agree) | 9.14225932607432774242 | 9.14713978047 | -4.88e-03 | -4.88e-03 | below | evo | A_n297.json |
+| sum_radii | 300 | 9.19103330699883949075 (agree) | 9.19103330729883949075 | 9.19271716219 | -1.68e-03 | -1.68e-03 | below | evo | A_n300.json |
+| sum_radii | 301 | 9.20580066752327560776 (agree) | 9.20580066782427560776 | 9.20670695712 | -9.06e-04 | -9.06e-04 | below | evo | A_n301.json |
+
+python -m search.report figures
+reproduce_exit=0

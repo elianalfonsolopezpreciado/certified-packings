@@ -1,0 +1,526 @@
+[sweep_gpu_multistart_sum_radii_n27] r1 t=30.6s gpu_best=2.681832 med=2.6571 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r2 t=59.1s gpu_best=2.681199 med=2.6573 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r3 t=87.0s gpu_best=2.681151 med=2.6571 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r4 t=115.0s gpu_best=2.681235 med=2.6570 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r5 t=142.9s gpu_best=2.682160 med=2.6570 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r6 t=170.8s gpu_best=2.681051 med=2.6570 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r7 t=198.7s gpu_best=2.680962 med=2.6572 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r8 t=226.7s gpu_best=2.681021 med=2.6571 polished_best=2.685978684
+[sweep_gpu_multistart_sum_radii_n27] r9 t=256.3s gpu_best=2.681871 med=2.6571 polished_best=2.685978684
+{
+ "name": "sweep_gpu_multistart_sum_radii_n27",
+ "problem": "sum_radii",
+ "n": 27,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 256.31210827827454,
+ "best_score": 2.6859786842386693,
+ "status": "IMPROVEMENT-CANDIDATE(uncertified)",
+ "record": 2.685978684198,
+ "iters": 0,
+ "polished_scores_top20": [
+  2.6859786842386693,
+  2.6859786842253635,
+  2.685978684225354,
+  2.6859786842253492,
+  2.685978684225349,
+  2.6859786842253484,
+  2.6859786842253475,
+  2.685978684225346,
+  2.6859786842253435,
+  2.685978684225343,
+  2.6859786842253426,
+  2.6859786842253417,
+  2.685978684225341,
+  2.6859786842253404,
+  2.6859786842253395,
+  2.685978684225339,
+  2.685978684225339,
+  2.685978684225329,
+  2.685978684225327,
+  2.6853500252283395
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n28] r1 t=30.2s gpu_best=2.733731 med=2.7078 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r2 t=59.5s gpu_best=2.732075 med=2.7078 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r3 t=89.1s gpu_best=2.733923 med=2.7077 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r4 t=118.9s gpu_best=2.732533 med=2.7076 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r5 t=149.0s gpu_best=2.732873 med=2.7078 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r6 t=178.4s gpu_best=2.733959 med=2.7079 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r7 t=207.7s gpu_best=2.732246 med=2.7078 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r8 t=237.9s gpu_best=2.732956 med=2.7078 polished_best=2.737739986
+[sweep_gpu_multistart_sum_radii_n28] r9 t=267.2s gpu_best=2.732453 med=2.7079 polished_best=2.737739986
+{
+ "name": "sweep_gpu_multistart_sum_radii_n28",
+ "problem": "sum_radii",
+ "n": 28,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 267.26397466659546,
+ "best_score": 2.7377399855327207,
+ "status": "match",
+ "record": 2.737739985536,
+ "iters": 0,
+ "polished_scores_top20": [
+  2.7377399855327207,
+  2.737739985532683,
+  2.737739985532682,
+  2.7377399855326785,
+  2.737739985532677,
+  2.737739985532675,
+  2.7377399855326723,
+  2.7377399855326714,
+  2.737739985532671,
+  2.7377399855326705,
+  2.73773998553267,
+  2.73773998553267,
+  2.7377399855326696,
+  2.7377399855326696,
+  2.737739985532669,
+  2.7377399855326687,
+  2.737739985532667,
+  2.737739985532666,
+  2.7377399855326656,
+  2.7377399855326656
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n29] r1 t=32.6s gpu_best=2.786042 med=2.7583 polished_best=2.790344155
+[sweep_gpu_multistart_sum_radii_n29] r2 t=64.5s gpu_best=2.786033 med=2.7581 polished_best=2.790344155
+[sweep_gpu_multistart_sum_radii_n29] r3 t=96.2s gpu_best=2.785726 med=2.7583 polished_best=2.790344155
+[sweep_gpu_multistart_sum_radii_n29] r4 t=128.0s gpu_best=2.785406 med=2.7583 polished_best=2.790344155
+[sweep_gpu_multistart_sum_radii_n29] r5 t=159.9s gpu_best=2.785641 med=2.7584 polished_best=2.790344155
+[sweep_gpu_multistart_sum_radii_n29] r6 t=191.6s gpu_best=2.786414 med=2.7583 polished_best=2.790344155
+[sweep_gpu_multistart_sum_radii_n29] r7 t=224.0s gpu_best=2.786076 med=2.7585 polished_best=2.790344155
+[sweep_gpu_multistart_sum_radii_n29] r8 t=255.8s gpu_best=2.785952 med=2.7581 polished_best=2.790344155
+{
+ "name": "sweep_gpu_multistart_sum_radii_n29",
+ "problem": "sum_radii",
+ "n": 29,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 255.80282545089722,
+ "best_score": 2.7903441546260854,
+ "status": "match",
+ "record": 2.790344154631,
+ "iters": 0,
+ "polished_scores_top20": [
+  2.7903441546260854,
+  2.7903441546256875,
+  2.7903441546256764,
+  2.79034415462567,
+  2.7903441546256684,
+  2.790344154625666,
+  2.7903441546256653,
+  2.7903441546256653,
+  2.7903441546256644,
+  2.7903441546256644,
+  2.790344154625662,
+  2.790344154625662,
+  2.7903441546256618,
+  2.7903441546256618,
+  2.7903441546256604,
+  2.79034415462566,
+  2.7903441546256595,
+  2.7903441546256595,
+  2.790344154625659,
+  2.790344154625658
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n30] r1 t=34.9s gpu_best=2.837910 med=2.8078 polished_best=2.842668747
+[sweep_gpu_multistart_sum_radii_n30] r2 t=68.2s gpu_best=2.838185 med=2.8079 polished_best=2.842668747
+[sweep_gpu_multistart_sum_radii_n30] r3 t=102.1s gpu_best=2.838435 med=2.8080 polished_best=2.842668747
+[sweep_gpu_multistart_sum_radii_n30] r4 t=135.5s gpu_best=2.837968 med=2.8079 polished_best=2.842668747
+[sweep_gpu_multistart_sum_radii_n30] r5 t=169.2s gpu_best=2.838119 med=2.8081 polished_best=2.842668747
+[sweep_gpu_multistart_sum_radii_n30] r6 t=202.4s gpu_best=2.838236 med=2.8082 polished_best=2.842668747
+[sweep_gpu_multistart_sum_radii_n30] r7 t=237.0s gpu_best=2.839190 med=2.8078 polished_best=2.842668747
+[sweep_gpu_multistart_sum_radii_n30] r8 t=270.4s gpu_best=2.839276 med=2.8081 polished_best=2.842668747
+{
+ "name": "sweep_gpu_multistart_sum_radii_n30",
+ "problem": "sum_radii",
+ "n": 30,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 270.4591574668884,
+ "best_score": 2.8426687474641104,
+ "status": "match",
+ "record": 2.842668747462,
+ "iters": 0,
+ "polished_scores_top20": [
+  2.8426687474641104,
+  2.842668747464102,
+  2.8426687474641015,
+  2.842668747464101,
+  2.8426687474641006,
+  2.8426687474641006,
+  2.8426687474640997,
+  2.8426687474640997,
+  2.8426687474640993,
+  2.8426687474640993,
+  2.842668747464099,
+  2.8426687474640984,
+  2.8426687474640984,
+  2.842668747464098,
+  2.842668747464098,
+  2.8426687474640975,
+  2.8426687474640975,
+  2.8426687474640975,
+  2.8426687474640975,
+  2.842668747464097
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n31] r1 t=38.3s gpu_best=2.885472 med=2.8552 polished_best=2.889969852
+[sweep_gpu_multistart_sum_radii_n31] r2 t=74.8s gpu_best=2.885528 med=2.8555 polished_best=2.889969852
+[sweep_gpu_multistart_sum_radii_n31] r3 t=110.8s gpu_best=2.884874 med=2.8556 polished_best=2.889969852
+[sweep_gpu_multistart_sum_radii_n31] r4 t=146.9s gpu_best=2.885465 med=2.8552 polished_best=2.889969852
+[sweep_gpu_multistart_sum_radii_n31] r5 t=183.0s gpu_best=2.884755 med=2.8553 polished_best=2.889969852
+[sweep_gpu_multistart_sum_radii_n31] r6 t=219.1s gpu_best=2.885093 med=2.8550 polished_best=2.889969852
+[sweep_gpu_multistart_sum_radii_n31] r7 t=255.1s gpu_best=2.885019 med=2.8554 polished_best=2.889969852
+{
+ "name": "sweep_gpu_multistart_sum_radii_n31",
+ "problem": "sum_radii",
+ "n": 31,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 255.07932138442993,
+ "best_score": 2.889969851932637,
+ "status": "match",
+ "record": 2.889969851933,
+ "iters": 0,
+ "polished_scores_top20": [
+  2.889969851932637,
+  2.8899698519325527,
+  2.8899698519325097,
+  2.889969851932363,
+  2.8899698519323316,
+  2.8899698519323227,
+  2.889969851932314,
+  2.8899698519322583,
+  2.8899698519322476,
+  2.8899698519322374,
+  2.889969851932227,
+  2.8899698519322143,
+  2.8899698519322135,
+  2.889969851932213,
+  2.88996985193221,
+  2.889969851932203,
+  2.889969851932201,
+  2.8899698519322006,
+  2.8899698519321997,
+  2.8899698519321992
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n33] r1 t=42.4s gpu_best=2.982064 med=2.9497 polished_best=2.987285009
+[sweep_gpu_multistart_sum_radii_n33] r2 t=83.8s gpu_best=2.981550 med=2.9501 polished_best=2.987285009
+[sweep_gpu_multistart_sum_radii_n33] r3 t=125.4s gpu_best=2.981802 med=2.9496 polished_best=2.987285009
+[sweep_gpu_multistart_sum_radii_n33] r4 t=167.0s gpu_best=2.981638 med=2.9500 polished_best=2.987285009
+[sweep_gpu_multistart_sum_radii_n33] r5 t=208.8s gpu_best=2.981696 med=2.9497 polished_best=2.987285009
+[sweep_gpu_multistart_sum_radii_n33] r6 t=250.6s gpu_best=2.982662 med=2.9494 polished_best=2.987285009
+{
+ "name": "sweep_gpu_multistart_sum_radii_n33",
+ "problem": "sum_radii",
+ "n": 33,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 250.61502981185913,
+ "best_score": 2.987285008591501,
+ "status": "match",
+ "record": 2.987285008592,
+ "iters": 0,
+ "polished_scores_top20": [
+  2.987285008591501,
+  2.98728500859134,
+  2.987285008591331,
+  2.987285008591284,
+  2.987285008591282,
+  2.9872850085912788,
+  2.9872850085912783,
+  2.9872850085912765,
+  2.9872850085912765,
+  2.9872850085912765,
+  2.987285008591276,
+  2.9872850085912757,
+  2.987285008591275,
+  2.987285008591275,
+  2.9872850085912748,
+  2.9872850085912748,
+  2.9872850085912748,
+  2.9872850085912743,
+  2.987285008591274,
+  2.987285008591273
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n34] r1 t=43.8s gpu_best=3.024299 med=2.9945 polished_best=3.029683805
+[sweep_gpu_multistart_sum_radii_n34] r2 t=86.9s gpu_best=3.024800 med=2.9949 polished_best=3.029683805
+[sweep_gpu_multistart_sum_radii_n34] r3 t=130.5s gpu_best=3.024694 med=2.9950 polished_best=3.029683805
+[sweep_gpu_multistart_sum_radii_n34] r4 t=173.4s gpu_best=3.024588 med=2.9947 polished_best=3.029683805
+[sweep_gpu_multistart_sum_radii_n34] r5 t=216.2s gpu_best=3.025481 med=2.9950 polished_best=3.029799271
+[sweep_gpu_multistart_sum_radii_n34] r6 t=259.2s gpu_best=3.023946 med=2.9945 polished_best=3.029799271
+{
+ "name": "sweep_gpu_multistart_sum_radii_n34",
+ "problem": "sum_radii",
+ "n": 34,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 259.23786449432373,
+ "best_score": 3.0297992711878527,
+ "status": "match",
+ "record": 3.029799271186,
+ "iters": 0,
+ "polished_scores_top20": [
+  3.0297992711878527,
+  3.029683804795726,
+  3.029683804795475,
+  3.0296838047954706,
+  3.029683804795465,
+  3.0296838047954635,
+  3.0296838047954617,
+  3.029683804795455,
+  3.029683804795454,
+  3.0296838047954466,
+  3.029683804795444,
+  3.0296838047954435,
+  3.029683804795443,
+  3.029683804795442,
+  3.029683804795439,
+  3.0296838047954258,
+  3.029683804795359,
+  3.029499182009317,
+  3.0294991820093076,
+  3.0294991820093067
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n35] r1 t=47.0s gpu_best=3.067258 med=3.0392 polished_best=3.073190041
+[sweep_gpu_multistart_sum_radii_n35] r2 t=93.3s gpu_best=3.068708 med=3.0397 polished_best=3.074036364
+[sweep_gpu_multistart_sum_radii_n35] r3 t=139.6s gpu_best=3.067571 med=3.0395 polished_best=3.074036364
+[sweep_gpu_multistart_sum_radii_n35] r4 t=186.7s gpu_best=3.067874 med=3.0390 polished_best=3.074036364
+[sweep_gpu_multistart_sum_radii_n35] r5 t=232.9s gpu_best=3.067032 med=3.0394 polished_best=3.074036364
+[sweep_gpu_multistart_sum_radii_n35] r6 t=279.2s gpu_best=3.065879 med=3.0395 polished_best=3.074036364
+{
+ "name": "sweep_gpu_multistart_sum_radii_n35",
+ "problem": "sum_radii",
+ "n": 35,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 279.24296736717224,
+ "best_score": 3.0740363637277732,
+ "status": "match",
+ "record": 3.07403636373,
+ "iters": 0,
+ "polished_scores_top20": [
+  3.0740363637277732,
+  3.0740363637277626,
+  3.074036363727733,
+  3.0740363637273296,
+  3.0733544884693176,
+  3.073354488469305,
+  3.073190040940728,
+  3.073190040940713,
+  3.073190040940707,
+  3.0731900409406983,
+  3.073190040940698,
+  3.073190040940695,
+  3.0726172738808204,
+  3.0726172738807893,
+  3.0725906928981637,
+  3.0725516338595558,
+  3.0725516338595464,
+  3.07255163385953,
+  3.0725516338594274,
+  3.0721355543337623
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n36] r1 t=50.7s gpu_best=3.114649 med=3.0827 polished_best=3.120325815
+[sweep_gpu_multistart_sum_radii_n36] r2 t=100.8s gpu_best=3.110333 med=3.0823 polished_best=3.120325815
+[sweep_gpu_multistart_sum_radii_n36] r3 t=149.1s gpu_best=3.114027 med=3.0827 polished_best=3.121754486
+[sweep_gpu_multistart_sum_radii_n36] r4 t=197.1s gpu_best=3.110671 med=3.0826 polished_best=3.121754486
+[sweep_gpu_multistart_sum_radii_n36] r5 t=245.7s gpu_best=3.114116 med=3.0825 polished_best=3.121754486
+{
+ "name": "sweep_gpu_multistart_sum_radii_n36",
+ "problem": "sum_radii",
+ "n": 36,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 245.736576795578,
+ "best_score": 3.1217544861006723,
+ "status": "match",
+ "record": 3.121754486102,
+ "iters": 0,
+ "polished_scores_top20": [
+  3.1217544861006723,
+  3.121754486100669,
+  3.121003908437901,
+  3.1203258148509,
+  3.1203258148508835,
+  3.1203258148508675,
+  3.119346633112184,
+  3.1193466331121753,
+  3.1193466331121704,
+  3.119346633112168,
+  3.1188287222136504,
+  3.1188287222136473,
+  3.118302964698681,
+  3.117212004344509,
+  3.1172120043444975,
+  3.1167540035422734,
+  3.1167223852336994,
+  3.1167223852336923,
+  3.1163519339648538,
+  3.116351933964852
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n37] r1 t=52.2s gpu_best=3.152466 med=3.1249 polished_best=3.159854911
+[sweep_gpu_multistart_sum_radii_n37] r2 t=104.1s gpu_best=3.152825 med=3.1251 polished_best=3.160760245
+[sweep_gpu_multistart_sum_radii_n37] r3 t=155.6s gpu_best=3.153221 med=3.1253 polished_best=3.160760245
+[sweep_gpu_multistart_sum_radii_n37] r4 t=207.0s gpu_best=3.153094 med=3.1253 polished_best=3.160831751
+[sweep_gpu_multistart_sum_radii_n37] r5 t=258.5s gpu_best=3.152877 med=3.1251 polished_best=3.160831751
+{
+ "name": "sweep_gpu_multistart_sum_radii_n37",
+ "problem": "sum_radii",
+ "n": 37,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 258.5846908092499,
+ "best_score": 3.160831751021159,
+ "status": "below",
+ "record": 3.161498916179,
+ "iters": 0,
+ "polished_scores_top20": [
+  3.160831751021159,
+  3.160760244953993,
+  3.160760244953287,
+  3.1607602449532717,
+  3.160760244953268,
+  3.1598928773394466,
+  3.1598549105266174,
+  3.1598549105264486,
+  3.1596781139605703,
+  3.1596560933217246,
+  3.159656093321716,
+  3.159656093321711,
+  3.159245971840482,
+  3.1592459718404786,
+  3.1590142657220266,
+  3.158972212273821,
+  3.1588947259101747,
+  3.1588873877189334,
+  3.158870231269121,
+  3.1588702312688
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n38] r1 t=55.7s gpu_best=3.196299 med=3.1678 polished_best=3.204146899
+[sweep_gpu_multistart_sum_radii_n38] r2 t=109.3s gpu_best=3.197726 med=3.1678 polished_best=3.204146899
+[sweep_gpu_multistart_sum_radii_n38] r3 t=162.7s gpu_best=3.196741 med=3.1682 polished_best=3.205945628
+[sweep_gpu_multistart_sum_radii_n38] r4 t=217.5s gpu_best=3.197598 med=3.1681 polished_best=3.205945628
+[sweep_gpu_multistart_sum_radii_n38] r5 t=271.5s gpu_best=3.197202 med=3.1682 polished_best=3.205945628
+{
+ "name": "sweep_gpu_multistart_sum_radii_n38",
+ "problem": "sum_radii",
+ "n": 38,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 271.55453157424927,
+ "best_score": 3.205945627972097,
+ "status": "match",
+ "record": 3.205945627974,
+ "iters": 0,
+ "polished_scores_top20": [
+  3.205945627972097,
+  3.205464476644482,
+  3.2049899552130054,
+  3.2041468988296455,
+  3.2041468988296367,
+  3.2041468988296353,
+  3.2035938707519653,
+  3.20332931284879,
+  3.2030548912239905,
+  3.2028793144662604,
+  3.2028762731788882,
+  3.202876058869672,
+  3.202618154679924,
+  3.2025615385063233,
+  3.201958123063058,
+  3.2016601890597,
+  3.201660189059698,
+  3.2015937447865808,
+  3.2015937447865706,
+  3.201593744786542
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n39] r1 t=57.7s gpu_best=3.238964 med=3.2106 polished_best=3.247045281
+[sweep_gpu_multistart_sum_radii_n39] r2 t=114.7s gpu_best=3.239577 med=3.2107 polished_best=3.247045281
+[sweep_gpu_multistart_sum_radii_n39] r3 t=171.6s gpu_best=3.239032 med=3.2110 polished_best=3.247045281
+[sweep_gpu_multistart_sum_radii_n39] r4 t=228.7s gpu_best=3.240417 med=3.2108 polished_best=3.247415321
+[sweep_gpu_multistart_sum_radii_n39] r5 t=285.6s gpu_best=3.239367 med=3.2109 polished_best=3.247415321
+{
+ "name": "sweep_gpu_multistart_sum_radii_n39",
+ "problem": "sum_radii",
+ "n": 39,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 285.63983964920044,
+ "best_score": 3.247415320665409,
+ "status": "below",
+ "record": 3.248110798175,
+ "iters": 0,
+ "polished_scores_top20": [
+  3.247415320665409,
+  3.2470452805821988,
+  3.246784466531472,
+  3.2467844665314702,
+  3.24678446653147,
+  3.246784466531463,
+  3.246655782709488,
+  3.2466557827094644,
+  3.2464686159533733,
+  3.2464405204926314,
+  3.246279504199623,
+  3.246104258615595,
+  3.245725951377347,
+  3.2456529353597516,
+  3.2456404459202055,
+  3.2455986631494955,
+  3.245598663149476,
+  3.245561205594249,
+  3.245529832611761,
+  3.24547767675303
+ ]
+}
+[sweep_gpu_multistart_sum_radii_n40] r1 t=62.4s gpu_best=3.283751 med=3.2527 polished_best=3.292391573
+[sweep_gpu_multistart_sum_radii_n40] r2 t=121.7s gpu_best=3.285115 med=3.2529 polished_best=3.292391573
+[sweep_gpu_multistart_sum_radii_n40] r3 t=180.7s gpu_best=3.283308 med=3.2529 polished_best=3.292391573
+[sweep_gpu_multistart_sum_radii_n40] r4 t=239.8s gpu_best=3.282838 med=3.2529 polished_best=3.292391573
+[sweep_gpu_multistart_sum_radii_n40] r5 t=298.9s gpu_best=3.283132 med=3.2530 polished_best=3.292391573
+{
+ "name": "sweep_gpu_multistart_sum_radii_n40",
+ "problem": "sum_radii",
+ "n": 40,
+ "method": "gpu-multistart",
+ "seed": 31,
+ "elapsed_s": 298.959303855896,
+ "best_score": 3.292391572608934,
+ "status": "match",
+ "record": 3.292391572608,
+ "iters": 0,
+ "polished_scores_top20": [
+  3.292391572608934,
+  3.2912357557822705,
+  3.2901842730552584,
+  3.2901842730552557,
+  3.2901842730552557,
+  3.2900573078759567,
+  3.2900573078759554,
+  3.290057307875947,
+  3.290057307875945,
+  3.2900573078759408,
+  3.290057307875936,
+  3.290057307875919,
+  3.289970968544022,
+  3.2899709685437792,
+  3.2899709685437397,
+  3.289970968543722,
+  3.289968562459222,
+  3.289959923016701,
+  3.2899599230166965,
+  3.289803864264243
+ ]
+}

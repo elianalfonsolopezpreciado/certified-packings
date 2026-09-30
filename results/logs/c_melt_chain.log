@@ -1,0 +1,10 @@
+[upsample 1200->2400] 151s start ratio 1.506210183  best 1.505932519 (row 29)
+best float at N: 1.5059325189926265
+[upsample 2400->4800] 143s start ratio 1.505932519  best 1.505794010 (row 18)
+best float at N: 1.5057940097655478
+[upsample 4800->9600] 150s start ratio 1.505794010  best 1.505756647 (row 13)
+best float at N: 1.5057566472251023
+[upsample 9600->19200] 140s start ratio 1.505756647  best 1.505756647 (row 0)
+best float at N: 1.5057566471493762
+[upsample 19200->38400] 153s start ratio 1.505756647  best 1.505756647 (row 0)
+best float at N: 1.5057566471493768

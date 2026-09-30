@@ -1,0 +1,50 @@
+{"name": "mainA_sum_radii_n300_evo_s505", "n": 300, "method": "evo", "chunk": 1, "wall_s": 302, "best": 9.188095862517029, "record": 9.192717162187, "status": "below", "stalled": 0, "t": "17:25:17"}
+{"name": "mainA_sum_radii_n300_evo_s505", "n": 300, "method": "evo", "chunk": 2, "wall_s": 301, "best": 9.188192837955178, "record": 9.192717162187, "status": "below", "stalled": 0, "t": "17:30:19"}
+{"name": "mainA_sum_radii_n300_evo_s505", "n": 300, "method": "evo", "chunk": 3, "wall_s": 331, "best": 9.188322764964024, "record": 9.192717162187, "status": "below", "stalled": 0, "t": "17:35:50"}
+{"name": "mainA_sum_radii_n300_evo_s505", "n": 300, "method": "evo", "chunk": 4, "wall_s": 301, "best": 9.191005234411474, "record": 9.192717162187, "status": "below", "stalled": 0, "t": "17:40:51"}
+{"name": "mainA_sum_radii_n300_evo_s505", "n": 300, "method": "evo", "chunk": 5, "wall_s": 285, "best": 9.191033307299035, "record": 9.192717162187, "status": "below", "stalled": 0, "t": "17:45:36"}
+{"name": "mainA_sum_radii_n297_evo_s505", "n": 297, "method": "evo", "chunk": 1, "wall_s": 312, "best": 9.127120371980189, "record": 9.147139780469, "status": "below", "stalled": 0, "t": "17:50:48"}
+{"name": "mainA_sum_radii_n297_evo_s505", "n": 297, "method": "evo", "chunk": 2, "wall_s": 320, "best": 9.132117956642134, "record": 9.147139780469, "status": "below", "stalled": 0, "t": "17:56:08"}
+{"name": "mainA_sum_radii_n297_evo_s505", "n": 297, "method": "evo", "chunk": 3, "wall_s": 286, "best": 9.132117956642134, "record": 9.147139780469, "status": "below", "stalled": 1, "t": "18:00:54"}
+{"name": "mainA_sum_radii_n297_evo_s505", "n": 297, "method": "evo", "chunk": 4, "wall_s": 294, "best": 9.137842991504014, "record": 9.147139780469, "status": "below", "stalled": 0, "t": "18:05:48"}
+{"name": "mainA_sum_radii_n297_evo_s505", "n": 297, "method": "evo", "chunk": 5, "wall_s": 301, "best": 9.142259326074598, "record": 9.147139780469, "status": "below", "stalled": 0, "t": "18:10:49"}
+{"name": "mainA_sum_radii_n301_evo_s505", "n": 301, "method": "evo", "chunk": 1, "wall_s": 317, "best": 9.201740777388276, "record": 9.206706957124, "status": "below", "stalled": 0, "t": "18:16:06"}
+{"name": "mainA_sum_radii_n301_evo_s505", "n": 301, "method": "evo", "chunk": 2, "wall_s": 288, "best": 9.202355020300883, "record": 9.206706957124, "status": "below", "stalled": 0, "t": "18:20:54"}
+{"name": "mainA_sum_radii_n301_evo_s505", "n": 301, "method": "evo", "chunk": 3, "wall_s": 307, "best": 9.20404082074392, "record": 9.206706957124, "status": "below", "stalled": 0, "t": "18:26:01"}
+{"name": "mainA_sum_radii_n301_evo_s505", "n": 301, "method": "evo", "chunk": 4, "wall_s": 299, "best": 9.204098917597566, "record": 9.206706957124, "status": "below", "stalled": 0, "t": "18:31:00"}
+{"name": "mainA_sum_radii_n301_evo_s505", "n": 301, "method": "evo", "chunk": 5, "wall_s": 296, "best": 9.205800667824443, "record": 9.206706957124, "status": "below", "stalled": 0, "t": "18:35:56"}
+{"name": "mainA_sum_radii_n275_evo_s505", "n": 275, "method": "evo", "chunk": 1, "wall_s": 315, "best": 8.775633066984852, "record": 8.799100032873, "status": "below", "stalled": 0, "t": "18:41:11"}
+{"name": "mainA_sum_radii_n275_evo_s505", "n": 275, "method": "evo", "chunk": 2, "wall_s": 292, "best": 8.78417586477541, "record": 8.799100032873, "status": "below", "stalled": 0, "t": "18:46:03"}
+{"name": "mainA_sum_radii_n275_evo_s505", "n": 275, "method": "evo", "chunk": 3, "wall_s": 301, "best": 8.789221381576448, "record": 8.799100032873, "status": "below", "stalled": 0, "t": "18:51:04"}
+{"name": "mainA_sum_radii_n275_evo_s505", "n": 275, "method": "evo", "chunk": 4, "wall_s": 301, "best": 8.792955767748662, "record": 8.799100032873, "status": "below", "stalled": 0, "t": "18:56:05"}
+{"name": "mainA_sum_radii_n275_evo_s505", "n": 275, "method": "evo", "chunk": 5, "wall_s": 293, "best": 8.793750914926722, "record": 8.799100032873, "status": "below", "stalled": 0, "t": "19:00:58"}
+[
+ {
+  "n": 300,
+  "method": "evo",
+  "best": 9.191033307299035,
+  "status": "budget",
+  "name": "mainA_sum_radii_n300_evo_s505"
+ },
+ {
+  "n": 297,
+  "method": "evo",
+  "best": 9.142259326074598,
+  "status": "budget",
+  "name": "mainA_sum_radii_n297_evo_s505"
+ },
+ {
+  "n": 301,
+  "method": "evo",
+  "best": 9.205800667824443,
+  "status": "budget",
+  "name": "mainA_sum_radii_n301_evo_s505"
+ },
+ {
+  "n": 275,
+  "method": "evo",
+  "best": 8.793750914926722,
+  "status": "budget",
+  "name": "mainA_sum_radii_n275_evo_s505"
+ }
+]

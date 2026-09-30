@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\C_N600.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "autocorr1",
+      "n": 600,
+      "backend": "mpmath-60dps",
+      "valid": true,
+      "certified_score": "1.50652518144379931669782646039",
+      "raw_score": "1.50652518144379931669782646039",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

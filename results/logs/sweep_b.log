@@ -1,0 +1,363 @@
+{"name": "sweepB_min_distance_n31_multistart_s61", "n": 31, "method": "multistart", "chunk": 1, "wall_s": 31, "best": 0.21754729161912412, "record": 0.217547291619, "status": "match", "stalled": 0, "t": "22:43:11"}
+{"name": "sweepB_min_distance_n31_multistart_s61", "n": 31, "method": "multistart", "chunk": 2, "wall_s": 31, "best": 0.21754729161912423, "record": 0.217547291619, "status": "match", "stalled": 1, "t": "22:43:43"}
+{"name": "sweepB_min_distance_n31_multistart_s61", "n": 31, "method": "multistart", "chunk": 3, "wall_s": 31, "best": 0.21754729161912423, "record": 0.217547291619, "status": "match", "stalled": 2, "t": "22:44:13"}
+{"name": "sweepB_min_distance_n31_multistart_s61", "n": 31, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.21754729161912423, "record": 0.217547291619, "status": "match", "stalled": 3, "t": "22:44:43"}
+{"name": "sweepB_min_distance_n32_multistart_s61", "n": 32, "method": "multistart", "chunk": 1, "wall_s": 31, "best": 0.21317456258987594, "record": 0.21317456259, "status": "match", "stalled": 0, "t": "22:45:14"}
+{"name": "sweepB_min_distance_n32_multistart_s61", "n": 32, "method": "multistart", "chunk": 2, "wall_s": 30, "best": 0.21317456258987613, "record": 0.21317456259, "status": "match", "stalled": 1, "t": "22:45:44"}
+{"name": "sweepB_min_distance_n32_multistart_s61", "n": 32, "method": "multistart", "chunk": 3, "wall_s": 30, "best": 0.21317456258987613, "record": 0.21317456259, "status": "match", "stalled": 2, "t": "22:46:14"}
+{"name": "sweepB_min_distance_n32_multistart_s61", "n": 32, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.21317456258987613, "record": 0.21317456259, "status": "match", "stalled": 3, "t": "22:46:44"}
+{"name": "sweepB_min_distance_n33_multistart_s61", "n": 33, "method": "multistart", "chunk": 1, "wall_s": 33, "best": 0.21132838414326272, "record": 0.211328384143, "status": "match", "stalled": 0, "t": "22:47:18"}
+{"name": "sweepB_min_distance_n33_multistart_s61", "n": 33, "method": "multistart", "chunk": 2, "wall_s": 29, "best": 0.21132838414326285, "record": 0.211328384143, "status": "match", "stalled": 1, "t": "22:47:47"}
+{"name": "sweepB_min_distance_n33_multistart_s61", "n": 33, "method": "multistart", "chunk": 3, "wall_s": 29, "best": 0.21132838414326285, "record": 0.211328384143, "status": "match", "stalled": 2, "t": "22:48:16"}
+{"name": "sweepB_min_distance_n33_multistart_s61", "n": 33, "method": "multistart", "chunk": 4, "wall_s": 31, "best": 0.21132838414326285, "record": 0.211328384143, "status": "match", "stalled": 3, "t": "22:48:47"}
+{"name": "sweepB_min_distance_n34_multistart_s61", "n": 34, "method": "multistart", "chunk": 1, "wall_s": 32, "best": 0.20560464675956722, "record": 0.20560464676, "status": "match", "stalled": 0, "t": "22:49:19"}
+{"name": "sweepB_min_distance_n34_multistart_s61", "n": 34, "method": "multistart", "chunk": 2, "wall_s": 30, "best": 0.2056046467595678, "record": 0.20560464676, "status": "match", "stalled": 1, "t": "22:49:49"}
+{"name": "sweepB_min_distance_n34_multistart_s61", "n": 34, "method": "multistart", "chunk": 3, "wall_s": 29, "best": 0.2056046467595678, "record": 0.20560464676, "status": "match", "stalled": 2, "t": "22:50:18"}
+{"name": "sweepB_min_distance_n34_multistart_s61", "n": 34, "method": "multistart", "chunk": 4, "wall_s": 31, "best": 0.2056046467595678, "record": 0.20560464676, "status": "match", "stalled": 3, "t": "22:50:48"}
+{"name": "sweepB_min_distance_n35_multistart_s61", "n": 35, "method": "multistart", "chunk": 1, "wall_s": 32, "best": 0.20276360086322603, "record": 0.202763600863, "status": "match", "stalled": 0, "t": "22:51:21"}
+{"name": "sweepB_min_distance_n35_multistart_s61", "n": 35, "method": "multistart", "chunk": 2, "wall_s": 30, "best": 0.20276360086322603, "record": 0.202763600863, "status": "match", "stalled": 1, "t": "22:51:51"}
+{"name": "sweepB_min_distance_n35_multistart_s61", "n": 35, "method": "multistart", "chunk": 3, "wall_s": 28, "best": 0.2027636008632264, "record": 0.202763600863, "status": "match", "stalled": 2, "t": "22:52:19"}
+{"name": "sweepB_min_distance_n35_multistart_s61", "n": 35, "method": "multistart", "chunk": 4, "wall_s": 31, "best": 0.20276360086322653, "record": 0.202763600863, "status": "match", "stalled": 3, "t": "22:52:51"}
+{"name": "sweepB_min_distance_n36_multistart_s61", "n": 36, "method": "multistart", "chunk": 1, "wall_s": 33, "best": 0.19999999999999968, "record": 0.2, "status": "match", "stalled": 0, "t": "22:53:23"}
+{"name": "sweepB_min_distance_n36_multistart_s61", "n": 36, "method": "multistart", "chunk": 2, "wall_s": 32, "best": 0.19999999999999968, "record": 0.2, "status": "match", "stalled": 1, "t": "22:53:55"}
+{"name": "sweepB_min_distance_n36_multistart_s61", "n": 36, "method": "multistart", "chunk": 3, "wall_s": 29, "best": 0.1999999999999997, "record": 0.2, "status": "match", "stalled": 2, "t": "22:54:24"}
+{"name": "sweepB_min_distance_n36_multistart_s61", "n": 36, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.1999999999999997, "record": 0.2, "status": "match", "stalled": 3, "t": "22:54:53"}
+{"name": "sweepB_min_distance_n37_multistart_s61", "n": 37, "method": "multistart", "chunk": 1, "wall_s": 35, "best": 0.19639169499475892, "record": 0.19642918463, "status": "below", "stalled": 0, "t": "22:55:28"}
+{"name": "sweepB_min_distance_n37_multistart_s61", "n": 37, "method": "multistart", "chunk": 2, "wall_s": 29, "best": 0.19642918424665987, "record": 0.19642918463, "status": "below", "stalled": 0, "t": "22:55:56"}
+{"name": "sweepB_min_distance_n37_multistart_s61", "n": 37, "method": "multistart", "chunk": 3, "wall_s": 31, "best": 0.19642918424665987, "record": 0.19642918463, "status": "below", "stalled": 1, "t": "22:56:27"}
+{"name": "sweepB_min_distance_n37_multistart_s61", "n": 37, "method": "multistart", "chunk": 4, "wall_s": 28, "best": 0.19642918424665987, "record": 0.19642918463, "status": "below", "stalled": 2, "t": "22:56:56"}
+{"name": "sweepB_min_distance_n37_multistart_s61", "n": 37, "method": "multistart", "chunk": 5, "wall_s": 30, "best": 0.19642918424665987, "record": 0.19642918463, "status": "below", "stalled": 3, "t": "22:57:26"}
+{"name": "sweepB_min_distance_n38_multistart_s61", "n": 38, "method": "multistart", "chunk": 1, "wall_s": 36, "best": 0.19534230412690562, "record": 0.195342304127, "status": "match", "stalled": 0, "t": "22:58:02"}
+{"name": "sweepB_min_distance_n38_multistart_s61", "n": 38, "method": "multistart", "chunk": 2, "wall_s": 28, "best": 0.19534230412690562, "record": 0.195342304127, "status": "match", "stalled": 1, "t": "22:58:30"}
+{"name": "sweepB_min_distance_n38_multistart_s61", "n": 38, "method": "multistart", "chunk": 3, "wall_s": 28, "best": 0.19534230412690562, "record": 0.195342304127, "status": "match", "stalled": 2, "t": "22:58:58"}
+{"name": "sweepB_min_distance_n38_multistart_s61", "n": 38, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.19534230412690562, "record": 0.195342304127, "status": "match", "stalled": 3, "t": "22:59:29"}
+{"name": "sweepB_min_distance_n39_multistart_s61", "n": 39, "method": "multistart", "chunk": 1, "wall_s": 31, "best": 0.19436506316150964, "record": 0.194365063162, "status": "match", "stalled": 0, "t": "23:00:00"}
+{"name": "sweepB_min_distance_n39_multistart_s61", "n": 39, "method": "multistart", "chunk": 2, "wall_s": 29, "best": 0.19436506316150964, "record": 0.194365063162, "status": "match", "stalled": 1, "t": "23:00:29"}
+{"name": "sweepB_min_distance_n39_multistart_s61", "n": 39, "method": "multistart", "chunk": 3, "wall_s": 32, "best": 0.19436506316150964, "record": 0.194365063162, "status": "match", "stalled": 2, "t": "23:01:01"}
+{"name": "sweepB_min_distance_n39_multistart_s61", "n": 39, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.19436506316150964, "record": 0.194365063162, "status": "match", "stalled": 3, "t": "23:01:31"}
+{"name": "sweepB_min_distance_n40_multistart_s61", "n": 40, "method": "multistart", "chunk": 1, "wall_s": 35, "best": 0.18817507710607376, "record": 0.188175522018, "status": "below", "stalled": 0, "t": "23:02:06"}
+{"name": "sweepB_min_distance_n40_multistart_s61", "n": 40, "method": "multistart", "chunk": 2, "wall_s": 27, "best": 0.188175522018312, "record": 0.188175522018, "status": "match", "stalled": 0, "t": "23:02:33"}
+{"name": "sweepB_min_distance_n40_multistart_s61", "n": 40, "method": "multistart", "chunk": 3, "wall_s": 34, "best": 0.188175522018312, "record": 0.188175522018, "status": "match", "stalled": 1, "t": "23:03:08"}
+{"name": "sweepB_min_distance_n40_multistart_s61", "n": 40, "method": "multistart", "chunk": 4, "wall_s": 29, "best": 0.188175522018312, "record": 0.188175522018, "status": "match", "stalled": 2, "t": "23:03:36"}
+{"name": "sweepB_min_distance_n40_multistart_s61", "n": 40, "method": "multistart", "chunk": 5, "wall_s": 26, "best": 0.18817552201831378, "record": 0.188175522018, "status": "match", "stalled": 3, "t": "23:04:02"}
+{"name": "sweepB_min_distance_n41_multistart_s61", "n": 41, "method": "multistart", "chunk": 1, "wall_s": 31, "best": 0.18607266703890707, "record": 0.186099511848, "status": "below", "stalled": 0, "t": "23:04:33"}
+{"name": "sweepB_min_distance_n41_multistart_s61", "n": 41, "method": "multistart", "chunk": 2, "wall_s": 34, "best": 0.1860726670389073, "record": 0.186099511848, "status": "below", "stalled": 1, "t": "23:05:08"}
+{"name": "sweepB_min_distance_n41_multistart_s61", "n": 41, "method": "multistart", "chunk": 3, "wall_s": 29, "best": 0.18609951184812157, "record": 0.186099511848, "status": "match", "stalled": 0, "t": "23:05:36"}
+{"name": "sweepB_min_distance_n41_multistart_s61", "n": 41, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.18609951184812157, "record": 0.186099511848, "status": "match", "stalled": 1, "t": "23:06:06"}
+{"name": "sweepB_min_distance_n41_multistart_s61", "n": 41, "method": "multistart", "chunk": 5, "wall_s": 29, "best": 0.18609951184812157, "record": 0.186099511848, "status": "match", "stalled": 2, "t": "23:06:35"}
+{"name": "sweepB_min_distance_n41_multistart_s61", "n": 41, "method": "multistart", "chunk": 6, "wall_s": 30, "best": 0.18609951184812157, "record": 0.186099511848, "status": "match", "stalled": 3, "t": "23:07:05"}
+{"name": "sweepB_min_distance_n42_multistart_s61", "n": 42, "method": "multistart", "chunk": 1, "wall_s": 35, "best": 0.1842770721170986, "record": 0.184277072117, "status": "match", "stalled": 0, "t": "23:07:40"}
+{"name": "sweepB_min_distance_n42_multistart_s61", "n": 42, "method": "multistart", "chunk": 2, "wall_s": 28, "best": 0.1842770721170986, "record": 0.184277072117, "status": "match", "stalled": 1, "t": "23:08:09"}
+{"name": "sweepB_min_distance_n42_multistart_s61", "n": 42, "method": "multistart", "chunk": 3, "wall_s": 28, "best": 0.1842770721170986, "record": 0.184277072117, "status": "match", "stalled": 2, "t": "23:08:37"}
+{"name": "sweepB_min_distance_n42_multistart_s61", "n": 42, "method": "multistart", "chunk": 4, "wall_s": 32, "best": 0.1842770721170986, "record": 0.184277072117, "status": "match", "stalled": 3, "t": "23:09:09"}
+{"name": "sweepB_min_distance_n43_multistart_s61", "n": 43, "method": "multistart", "chunk": 1, "wall_s": 37, "best": 0.18006702380421005, "record": 0.180191135457, "status": "below", "stalled": 0, "t": "23:09:46"}
+{"name": "sweepB_min_distance_n43_multistart_s61", "n": 43, "method": "multistart", "chunk": 2, "wall_s": 29, "best": 0.18006702380421005, "record": 0.180191135457, "status": "below", "stalled": 1, "t": "23:10:14"}
+{"name": "sweepB_min_distance_n43_multistart_s61", "n": 43, "method": "multistart", "chunk": 3, "wall_s": 30, "best": 0.18006702380421005, "record": 0.180191135457, "status": "below", "stalled": 2, "t": "23:10:44"}
+{"name": "sweepB_min_distance_n43_multistart_s61", "n": 43, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.18006702380421005, "record": 0.180191135457, "status": "below", "stalled": 3, "t": "23:11:14"}
+{"name": "sweepB_min_distance_n44_multistart_s61", "n": 44, "method": "multistart", "chunk": 1, "wall_s": 33, "best": 0.17790957257219672, "record": 0.178639245671, "status": "below", "stalled": 0, "t": "23:11:47"}
+{"name": "sweepB_min_distance_n44_multistart_s61", "n": 44, "method": "multistart", "chunk": 2, "wall_s": 31, "best": 0.17790957257219672, "record": 0.178639245671, "status": "below", "stalled": 1, "t": "23:12:18"}
+{"name": "sweepB_min_distance_n44_multistart_s61", "n": 44, "method": "multistart", "chunk": 3, "wall_s": 30, "best": 0.17790957257219672, "record": 0.178639245671, "status": "below", "stalled": 2, "t": "23:12:49"}
+{"name": "sweepB_min_distance_n44_multistart_s61", "n": 44, "method": "multistart", "chunk": 4, "wall_s": 30, "best": 0.17790957257219672, "record": 0.178639245671, "status": "below", "stalled": 3, "t": "23:13:19"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 1, "wall_s": 30, "best": 0.17527475415614907, "record": 0.175716314176, "status": "below", "stalled": 0, "t": "23:13:49"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 2, "wall_s": 32, "best": 0.17527475415614907, "record": 0.175716314176, "status": "below", "stalled": 1, "t": "23:14:20"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 3, "wall_s": 38, "best": 0.17536969032473884, "record": 0.175716314176, "status": "below", "stalled": 0, "t": "23:14:59"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 4, "wall_s": 26, "best": 0.17536969032473884, "record": 0.175716314176, "status": "below", "stalled": 1, "t": "23:15:25"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 5, "wall_s": 30, "best": 0.17536969032473884, "record": 0.175716314176, "status": "below", "stalled": 2, "t": "23:15:55"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 6, "wall_s": 25, "best": 0.17567248754174536, "record": 0.175716314176, "status": "below", "stalled": 0, "t": "23:16:20"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 7, "wall_s": 35, "best": 0.1756795372707487, "record": 0.175716314176, "status": "below", "stalled": 0, "t": "23:16:55"}
+{"name": "sweepB_min_distance_n45_multistart_s61", "n": 45, "method": "multistart", "chunk": 8, "wall_s": 31, "best": 0.1757046843441914, "record": 0.175716314176, "status": "below", "stalled": 0, "t": "23:17:25"}
+{"name": "sweepB_min_distance_n46_multistart_s61", "n": 46, "method": "multistart", "chunk": 1, "wall_s": 34, "best": 0.17445763018700455, "record": 0.174459360872, "status": "below", "stalled": 0, "t": "23:18:00"}
+{"name": "sweepB_min_distance_n46_multistart_s61", "n": 46, "method": "multistart", "chunk": 2, "wall_s": 27, "best": 0.1744593608724122, "record": 0.174459360872, "status": "match", "stalled": 0, "t": "23:18:27"}
+{"name": "sweepB_min_distance_n46_multistart_s61", "n": 46, "method": "multistart", "chunk": 3, "wall_s": 35, "best": 0.1744593608724122, "record": 0.174459360872, "status": "match", "stalled": 1, "t": "23:19:02"}
+{"name": "sweepB_min_distance_n46_multistart_s61", "n": 46, "method": "multistart", "chunk": 4, "wall_s": 27, "best": 0.1744593608724122, "record": 0.174459360872, "status": "match", "stalled": 2, "t": "23:19:28"}
+{"name": "sweepB_min_distance_n46_multistart_s61", "n": 46, "method": "multistart", "chunk": 5, "wall_s": 35, "best": 0.17445936087241265, "record": 0.174459360872, "status": "match", "stalled": 3, "t": "23:20:03"}
+{"name": "sweepB_min_distance_n47_multistart_s61", "n": 47, "method": "multistart", "chunk": 1, "wall_s": 41, "best": 0.17110701011248888, "record": 0.171270563823, "status": "below", "stalled": 0, "t": "23:20:45"}
+{"name": "sweepB_min_distance_n47_multistart_s61", "n": 47, "method": "multistart", "chunk": 2, "wall_s": 21, "best": 0.17110701011248888, "record": 0.171270563823, "status": "below", "stalled": 1, "t": "23:21:06"}
+{"name": "sweepB_min_distance_n47_multistart_s61", "n": 47, "method": "multistart", "chunk": 3, "wall_s": 37, "best": 0.17110701011248888, "record": 0.171270563823, "status": "below", "stalled": 2, "t": "23:21:43"}
+{"name": "sweepB_min_distance_n47_multistart_s61", "n": 47, "method": "multistart", "chunk": 4, "wall_s": 23, "best": 0.17110701710173462, "record": 0.171270563823, "status": "below", "stalled": 0, "t": "23:22:06"}
+{"name": "sweepB_min_distance_n47_multistart_s61", "n": 47, "method": "multistart", "chunk": 5, "wall_s": 30, "best": 0.17110701710173462, "record": 0.171270563823, "status": "below", "stalled": 1, "t": "23:22:37"}
+{"name": "sweepB_min_distance_n47_multistart_s61", "n": 47, "method": "multistart", "chunk": 6, "wall_s": 29, "best": 0.17110701710173462, "record": 0.171270563823, "status": "below", "stalled": 2, "t": "23:23:06"}
+{"name": "sweepB_min_distance_n47_multistart_s61", "n": 47, "method": "multistart", "chunk": 7, "wall_s": 36, "best": 0.17110701710173462, "record": 0.171270563823, "status": "below", "stalled": 3, "t": "23:23:42"}
+{"name": "sweepB_min_distance_n48_multistart_s61", "n": 48, "method": "multistart", "chunk": 1, "wall_s": 41, "best": 0.1693317026855076, "record": 0.16940542937, "status": "below", "stalled": 0, "t": "23:24:23"}
+{"name": "sweepB_min_distance_n48_multistart_s61", "n": 48, "method": "multistart", "chunk": 2, "wall_s": 21, "best": 0.16933170268550762, "record": 0.16940542937, "status": "below", "stalled": 1, "t": "23:24:43"}
+{"name": "sweepB_min_distance_n48_multistart_s61", "n": 48, "method": "multistart", "chunk": 3, "wall_s": 31, "best": 0.16933170268550762, "record": 0.16940542937, "status": "below", "stalled": 2, "t": "23:25:14"}
+{"name": "sweepB_min_distance_n48_multistart_s61", "n": 48, "method": "multistart", "chunk": 4, "wall_s": 37, "best": 0.16933170268550762, "record": 0.16940542937, "status": "below", "stalled": 3, "t": "23:25:51"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 1, "wall_s": 35, "best": 0.16669430294204168, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "23:26:26"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 2, "wall_s": 32, "best": 0.16669430294204168, "record": 0.167386076868, "status": "below", "stalled": 1, "t": "23:26:58"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 3, "wall_s": 35, "best": 0.16722452820094497, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "23:27:33"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 4, "wall_s": 26, "best": 0.16722452820094497, "record": 0.167386076868, "status": "below", "stalled": 1, "t": "23:27:59"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 5, "wall_s": 27, "best": 0.16726118622232425, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "23:28:26"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 6, "wall_s": 34, "best": 0.16726118622232425, "record": 0.167386076868, "status": "below", "stalled": 1, "t": "23:29:00"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 7, "wall_s": 26, "best": 0.16726118622232425, "record": 0.167386076868, "status": "below", "stalled": 2, "t": "23:29:27"}
+{"name": "sweepB_min_distance_n49_multistart_s61", "n": 49, "method": "multistart", "chunk": 8, "wall_s": 31, "best": 0.16726118622232425, "record": 0.167386076868, "status": "below", "stalled": 3, "t": "23:29:57"}
+{"name": "sweepB_min_distance_n50_multistart_s61", "n": 50, "method": "multistart", "chunk": 1, "wall_s": 39, "best": 0.16645462588273502, "record": 0.166526577344, "status": "below", "stalled": 0, "t": "23:30:36"}
+{"name": "sweepB_min_distance_n50_multistart_s61", "n": 50, "method": "multistart", "chunk": 2, "wall_s": 36, "best": 0.16645462588273502, "record": 0.166526577344, "status": "below", "stalled": 1, "t": "23:31:12"}
+{"name": "sweepB_min_distance_n50_multistart_s61", "n": 50, "method": "multistart", "chunk": 3, "wall_s": 27, "best": 0.16645462588273502, "record": 0.166526577344, "status": "below", "stalled": 2, "t": "23:31:39"}
+{"name": "sweepB_min_distance_n50_multistart_s61", "n": 50, "method": "multistart", "chunk": 4, "wall_s": 27, "best": 0.16645462588273502, "record": 0.166526577344, "status": "below", "stalled": 3, "t": "23:32:07"}
+{"name": "sweepB_min_distance_n51_multistart_s61", "n": 51, "method": "multistart", "chunk": 1, "wall_s": 41, "best": 0.16561511379862356, "record": 0.165618374313, "status": "below", "stalled": 0, "t": "23:32:48"}
+{"name": "sweepB_min_distance_n51_multistart_s61", "n": 51, "method": "multistart", "chunk": 2, "wall_s": 31, "best": 0.16561824762916263, "record": 0.165618374313, "status": "below", "stalled": 0, "t": "23:33:18"}
+{"name": "sweepB_min_distance_n51_multistart_s61", "n": 51, "method": "multistart", "chunk": 3, "wall_s": 26, "best": 0.16561824762916263, "record": 0.165618374313, "status": "below", "stalled": 1, "t": "23:33:45"}
+{"name": "sweepB_min_distance_n51_multistart_s61", "n": 51, "method": "multistart", "chunk": 4, "wall_s": 26, "best": 0.16561824762916263, "record": 0.165618374313, "status": "below", "stalled": 2, "t": "23:34:11"}
+{"name": "sweepB_min_distance_n51_multistart_s61", "n": 51, "method": "multistart", "chunk": 5, "wall_s": 38, "best": 0.16561824762916263, "record": 0.165618374313, "status": "below", "stalled": 3, "t": "23:34:49"}
+{"name": "sweepB_min_distance_n52_multistart_s61", "n": 52, "method": "multistart", "chunk": 1, "wall_s": 43, "best": 0.16314490239711585, "record": 0.16538623797, "status": "below", "stalled": 0, "t": "23:35:32"}
+{"name": "sweepB_min_distance_n52_multistart_s61", "n": 52, "method": "multistart", "chunk": 2, "wall_s": 27, "best": 0.16359829741512283, "record": 0.16538623797, "status": "below", "stalled": 0, "t": "23:35:59"}
+{"name": "sweepB_min_distance_n52_multistart_s61", "n": 52, "method": "multistart", "chunk": 3, "wall_s": 34, "best": 0.16359829741512283, "record": 0.16538623797, "status": "below", "stalled": 1, "t": "23:36:33"}
+{"name": "sweepB_min_distance_n52_multistart_s61", "n": 52, "method": "multistart", "chunk": 4, "wall_s": 24, "best": 0.16538623796963986, "record": 0.16538623797, "status": "match", "stalled": 0, "t": "23:36:57"}
+{"name": "sweepB_min_distance_n52_multistart_s61", "n": 52, "method": "multistart", "chunk": 5, "wall_s": 26, "best": 0.16538623796963986, "record": 0.16538623797, "status": "match", "stalled": 1, "t": "23:37:23"}
+{"name": "sweepB_min_distance_n52_multistart_s61", "n": 52, "method": "multistart", "chunk": 6, "wall_s": 30, "best": 0.16538623796963986, "record": 0.16538623797, "status": "match", "stalled": 2, "t": "23:37:53"}
+{"name": "sweepB_min_distance_n52_multistart_s61", "n": 52, "method": "multistart", "chunk": 7, "wall_s": 36, "best": 0.16538623796964008, "record": 0.16538623797, "status": "match", "stalled": 3, "t": "23:38:29"}
+{"name": "sweepB_min_distance_n53_multistart_s61", "n": 53, "method": "multistart", "chunk": 1, "wall_s": 41, "best": 0.16264807742476906, "record": 0.162648077425, "status": "match", "stalled": 0, "t": "23:39:10"}
+{"name": "sweepB_min_distance_n53_multistart_s61", "n": 53, "method": "multistart", "chunk": 2, "wall_s": 30, "best": 0.16264807742476906, "record": 0.162648077425, "status": "match", "stalled": 1, "t": "23:39:40"}
+{"name": "sweepB_min_distance_n53_multistart_s61", "n": 53, "method": "multistart", "chunk": 3, "wall_s": 28, "best": 0.16264807742476906, "record": 0.162648077425, "status": "match", "stalled": 2, "t": "23:40:08"}
+{"name": "sweepB_min_distance_n53_multistart_s61", "n": 53, "method": "multistart", "chunk": 4, "wall_s": 26, "best": 0.16264807742476906, "record": 0.162648077425, "status": "match", "stalled": 3, "t": "23:40:33"}
+{"name": "sweepB_min_distance_n54_multistart_s61", "n": 54, "method": "multistart", "chunk": 1, "wall_s": 33, "best": 0.15876506809419802, "record": 0.159139516307, "status": "below", "stalled": 0, "t": "23:41:07"}
+{"name": "sweepB_min_distance_n54_multistart_s61", "n": 54, "method": "multistart", "chunk": 2, "wall_s": 28, "best": 0.1590055447748073, "record": 0.159139516307, "status": "below", "stalled": 0, "t": "23:41:34"}
+{"name": "sweepB_min_distance_n54_multistart_s61", "n": 54, "method": "multistart", "chunk": 3, "wall_s": 31, "best": 0.1590055447748073, "record": 0.159139516307, "status": "below", "stalled": 1, "t": "23:42:05"}
+{"name": "sweepB_min_distance_n54_multistart_s61", "n": 54, "method": "multistart", "chunk": 4, "wall_s": 32, "best": 0.15911251218826505, "record": 0.159139516307, "status": "below", "stalled": 0, "t": "23:42:38"}
+{"name": "sweepB_min_distance_n54_multistart_s61", "n": 54, "method": "multistart", "chunk": 5, "wall_s": 37, "best": 0.15911251218826505, "record": 0.159139516307, "status": "below", "stalled": 1, "t": "23:43:15"}
+{"name": "sweepB_min_distance_n54_multistart_s61", "n": 54, "method": "multistart", "chunk": 6, "wall_s": 30, "best": 0.15911251218826505, "record": 0.159139516307, "status": "below", "stalled": 2, "t": "23:43:45"}
+{"name": "sweepB_min_distance_n54_multistart_s61", "n": 54, "method": "multistart", "chunk": 7, "wall_s": 32, "best": 0.15911251218826505, "record": 0.159139516307, "status": "below", "stalled": 3, "t": "23:44:17"}
+{"name": "sweepB_min_distance_n55_multistart_s61", "n": 55, "method": "multistart", "chunk": 1, "wall_s": 35, "best": 0.15745145882092926, "record": 0.15755574753, "status": "below", "stalled": 0, "t": "23:44:52"}
+{"name": "sweepB_min_distance_n55_multistart_s61", "n": 55, "method": "multistart", "chunk": 2, "wall_s": 36, "best": 0.1574514588209322, "record": 0.15755574753, "status": "below", "stalled": 1, "t": "23:45:28"}
+{"name": "sweepB_min_distance_n55_multistart_s61", "n": 55, "method": "multistart", "chunk": 3, "wall_s": 34, "best": 0.1574514588209322, "record": 0.15755574753, "status": "below", "stalled": 2, "t": "23:46:02"}
+{"name": "sweepB_min_distance_n55_multistart_s61", "n": 55, "method": "multistart", "chunk": 4, "wall_s": 20, "best": 0.1574514588209322, "record": 0.15755574753, "status": "below", "stalled": 3, "t": "23:46:23"}
+{"name": "sweepB_min_distance_n56_multistart_s61", "n": 56, "method": "multistart", "chunk": 1, "wall_s": 40, "best": 0.15615650046214669, "record": 0.156156500462, "status": "match", "stalled": 0, "t": "23:47:02"}
+{"name": "sweepB_min_distance_n56_multistart_s61", "n": 56, "method": "multistart", "chunk": 2, "wall_s": 24, "best": 0.15615650046214669, "record": 0.156156500462, "status": "match", "stalled": 1, "t": "23:47:26"}
+{"name": "sweepB_min_distance_n56_multistart_s61", "n": 56, "method": "multistart", "chunk": 3, "wall_s": 38, "best": 0.15615650046214669, "record": 0.156156500462, "status": "match", "stalled": 2, "t": "23:48:04"}
+{"name": "sweepB_min_distance_n56_multistart_s61", "n": 56, "method": "multistart", "chunk": 4, "wall_s": 36, "best": 0.15615650046214674, "record": 0.156156500462, "status": "match", "stalled": 3, "t": "23:48:40"}
+{"name": "sweepB_min_distance_n57_multistart_s61", "n": 57, "method": "multistart", "chunk": 1, "wall_s": 39, "best": 0.1538648014070343, "record": 0.154747406944, "status": "below", "stalled": 0, "t": "23:49:18"}
+{"name": "sweepB_min_distance_n57_multistart_s61", "n": 57, "method": "multistart", "chunk": 2, "wall_s": 29, "best": 0.1538648014070343, "record": 0.154747406944, "status": "below", "stalled": 1, "t": "23:49:48"}
+{"name": "sweepB_min_distance_n57_multistart_s61", "n": 57, "method": "multistart", "chunk": 3, "wall_s": 41, "best": 0.1538648014070343, "record": 0.154747406944, "status": "below", "stalled": 2, "t": "23:50:28"}
+{"name": "sweepB_min_distance_n57_multistart_s61", "n": 57, "method": "multistart", "chunk": 4, "wall_s": 24, "best": 0.1538648014070343, "record": 0.154747406944, "status": "below", "stalled": 3, "t": "23:50:53"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 1, "wall_s": 45, "best": 0.15235708853426966, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "23:51:38"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 2, "wall_s": 15, "best": 0.15235708853426966, "record": 0.152692531391, "status": "below", "stalled": 1, "t": "23:51:53"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 3, "wall_s": 38, "best": 0.15235708853426966, "record": 0.152692531391, "status": "below", "stalled": 2, "t": "23:52:31"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 4, "wall_s": 38, "best": 0.1524399616151518, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "23:53:09"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 5, "wall_s": 21, "best": 0.1524399616151518, "record": 0.152692531391, "status": "below", "stalled": 1, "t": "23:53:30"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 6, "wall_s": 28, "best": 0.1524421634675453, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "23:53:58"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 7, "wall_s": 27, "best": 0.1524421634675453, "record": 0.152692531391, "status": "below", "stalled": 1, "t": "23:54:26"}
+{"name": "sweepB_min_distance_n58_multistart_s61", "n": 58, "method": "multistart", "chunk": 8, "wall_s": 48, "best": 0.1524880296326544, "record": 0.152692531391, "status": "below", "stalled": 0, "t": "23:55:14"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 1, "wall_s": 40, "best": 0.1497780146091764, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "23:55:54"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 2, "wall_s": 24, "best": 0.15013607941664986, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "23:56:17"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 3, "wall_s": 50, "best": 0.15013607941664986, "record": 0.151562950614, "status": "below", "stalled": 1, "t": "23:57:08"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 4, "wall_s": 18, "best": 0.15013607941664986, "record": 0.151562950614, "status": "below", "stalled": 2, "t": "23:57:25"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 5, "wall_s": 23, "best": 0.15033906207020742, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "23:57:49"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 6, "wall_s": 29, "best": 0.15033906207020742, "record": 0.151562950614, "status": "below", "stalled": 1, "t": "23:58:18"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 7, "wall_s": 44, "best": 0.15082647019990325, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "23:59:03"}
+{"name": "sweepB_min_distance_n59_multistart_s61", "n": 59, "method": "multistart", "chunk": 8, "wall_s": 29, "best": 0.15082647019990325, "record": 0.151562950614, "status": "below", "stalled": 1, "t": "23:59:31"}
+{"name": "sweepB_min_distance_n60_multistart_s61", "n": 60, "method": "multistart", "chunk": 1, "wall_s": 52, "best": 0.14897452822613283, "record": 0.149505654049, "status": "below", "stalled": 0, "t": "00:00:24"}
+{"name": "sweepB_min_distance_n60_multistart_s61", "n": 60, "method": "multistart", "chunk": 2, "wall_s": 20, "best": 0.14897452822613283, "record": 0.149505654049, "status": "below", "stalled": 1, "t": "00:00:44"}
+{"name": "sweepB_min_distance_n60_multistart_s61", "n": 60, "method": "multistart", "chunk": 3, "wall_s": 28, "best": 0.14897452822613283, "record": 0.149505654049, "status": "below", "stalled": 2, "t": "00:01:12"}
+{"name": "sweepB_min_distance_n60_multistart_s61", "n": 60, "method": "multistart", "chunk": 4, "wall_s": 22, "best": 0.14897452822613283, "record": 0.149505654049, "status": "below", "stalled": 3, "t": "00:01:34"}
+[
+ {
+  "n": 31,
+  "method": "multistart",
+  "best": 0.21754729161912423,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n31_multistart_s61"
+ },
+ {
+  "n": 32,
+  "method": "multistart",
+  "best": 0.21317456258987613,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n32_multistart_s61"
+ },
+ {
+  "n": 33,
+  "method": "multistart",
+  "best": 0.21132838414326285,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n33_multistart_s61"
+ },
+ {
+  "n": 34,
+  "method": "multistart",
+  "best": 0.2056046467595678,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n34_multistart_s61"
+ },
+ {
+  "n": 35,
+  "method": "multistart",
+  "best": 0.20276360086322653,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n35_multistart_s61"
+ },
+ {
+  "n": 36,
+  "method": "multistart",
+  "best": 0.1999999999999997,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n36_multistart_s61"
+ },
+ {
+  "n": 37,
+  "method": "multistart",
+  "best": 0.19642918424665987,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n37_multistart_s61"
+ },
+ {
+  "n": 38,
+  "method": "multistart",
+  "best": 0.19534230412690562,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n38_multistart_s61"
+ },
+ {
+  "n": 39,
+  "method": "multistart",
+  "best": 0.19436506316150964,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n39_multistart_s61"
+ },
+ {
+  "n": 40,
+  "method": "multistart",
+  "best": 0.18817552201831378,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n40_multistart_s61"
+ },
+ {
+  "n": 41,
+  "method": "multistart",
+  "best": 0.18609951184812157,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n41_multistart_s61"
+ },
+ {
+  "n": 42,
+  "method": "multistart",
+  "best": 0.1842770721170986,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n42_multistart_s61"
+ },
+ {
+  "n": 43,
+  "method": "multistart",
+  "best": 0.18006702380421005,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n43_multistart_s61"
+ },
+ {
+  "n": 44,
+  "method": "multistart",
+  "best": 0.17790957257219672,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n44_multistart_s61"
+ },
+ {
+  "n": 45,
+  "method": "multistart",
+  "best": 0.1757046843441914,
+  "status": "budget",
+  "name": "sweepB_min_distance_n45_multistart_s61"
+ },
+ {
+  "n": 46,
+  "method": "multistart",
+  "best": 0.17445936087241265,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n46_multistart_s61"
+ },
+ {
+  "n": 47,
+  "method": "multistart",
+  "best": 0.17110701710173462,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n47_multistart_s61"
+ },
+ {
+  "n": 48,
+  "method": "multistart",
+  "best": 0.16933170268550762,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n48_multistart_s61"
+ },
+ {
+  "n": 49,
+  "method": "multistart",
+  "best": 0.16726118622232425,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n49_multistart_s61"
+ },
+ {
+  "n": 50,
+  "method": "multistart",
+  "best": 0.16645462588273502,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n50_multistart_s61"
+ },
+ {
+  "n": 51,
+  "method": "multistart",
+  "best": 0.16561824762916263,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n51_multistart_s61"
+ },
+ {
+  "n": 52,
+  "method": "multistart",
+  "best": 0.16538623796964008,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n52_multistart_s61"
+ },
+ {
+  "n": 53,
+  "method": "multistart",
+  "best": 0.16264807742476906,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n53_multistart_s61"
+ },
+ {
+  "n": 54,
+  "method": "multistart",
+  "best": 0.15911251218826505,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n54_multistart_s61"
+ },
+ {
+  "n": 55,
+  "method": "multistart",
+  "best": 0.1574514588209322,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n55_multistart_s61"
+ },
+ {
+  "n": 56,
+  "method": "multistart",
+  "best": 0.15615650046214674,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n56_multistart_s61"
+ },
+ {
+  "n": 57,
+  "method": "multistart",
+  "best": 0.1538648014070343,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n57_multistart_s61"
+ },
+ {
+  "n": 58,
+  "method": "multistart",
+  "best": 0.1524880296326544,
+  "status": "budget",
+  "name": "sweepB_min_distance_n58_multistart_s61"
+ },
+ {
+  "n": 59,
+  "method": "multistart",
+  "best": 0.15082647019990325,
+  "status": "budget",
+  "name": "sweepB_min_distance_n59_multistart_s61"
+ },
+ {
+  "n": 60,
+  "method": "multistart",
+  "best": 0.14897452822613283,
+  "status": "stalled",
+  "name": "sweepB_min_distance_n60_multistart_s61"
+ }
+]

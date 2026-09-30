@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verify a circle packing in your browser</title>
+<style>
+  :root { --bg:#fafafa; --fg:#1b1b1b; --muted:#666; --ok:#0a7a3d; --bad:#b3261e; --card:#fff; --line:#ddd; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#16181a; --fg:#e8e8e8; --muted:#9aa; --ok:#4cc38a; --bad:#ff7b72; --card:#1e2124; --line:#333; } }
+  body { background:var(--bg); color:var(--fg); font:15px/1.5 system-ui,Segoe UI,Roboto,sans-serif; margin:0; padding:16px; }
+  main { max-width:860px; margin:0 auto; }
+  h1 { font-size:1.35rem; margin:.2em 0; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:14px; margin:12px 0; }
+  textarea { width:100%; height:130px; font:12px/1.3 ui-monospace,Consolas,monospace; box-sizing:border-box; }
+  input[type=text] { width:9em; }
+  button { padding:6px 12px; margin:2px 4px 2px 0; cursor:pointer; }
+  pre { white-space:pre-wrap; word-break:break-all; font:12.5px/1.4 ui-monospace,Consolas,monospace; margin:0; }
+  .ok { color:var(--ok); font-weight:600; } .bad { color:var(--bad); font-weight:600; } .muted { color:var(--muted); font-size:.9em; }
+</style>
+</head>
+<body>
+<main>
+<h1>Verify a sum-of-radii circle packing in your browser</h1>
+<p class="muted">Static page, no server, no upload. All arithmetic is exact (JavaScript <code>BigInt</code> on the decimal text of the file; no floating point).
+It re-implements the checks of <code>verify/</code> (JSON certificate) and of <code>validator/validate_pck.py</code> (Packomania <code>.pck</code>) independently, in a third language.</p>
+
+<div class="card">
+  <p><b>1. Load a file</b> (JSON certificate <code>{"problem":"sum_radii","circles":[[x,y,r],...]}</code> with the container [0,1]², or a Packomania <code>.pck</code> with the container centred at 0):</p>
+  <input type="file" id="file" accept=".json,.pck,.txt">
+  <span class="muted">or paste text below.</span>
+  <textarea id="text" spellcheck="false" placeholder="paste a certificate JSON or .pck text here"></textarea>
+  <p>Shrink applied to every radius before the check (JSON mode; the published certificates use 1e-12, use 0 for zero tolerance):
+     <input type="text" id="eps" value="1e-12"></p>
+  <button id="run">Verify</button>
+  <button data-ex="../certificates/A_n120.json">load example: A_n120.json</button>
+  <button data-ex="../certificates/A_n250.json">load example: A_n250.json</button>
+  <button data-ex="../submission/csqv120.pck">load example: csqv120.pck</button>
+</div>
+
+<div class="card"><b>2. Result</b><pre id="out">(nothing verified yet)</pre></div>
+<p class="muted">Rule: the shrunk configuration must satisfy every constraint exactly (violation ≤ 0): containment, and (x<sub>i</sub>−x<sub>j</sub>)²+(y<sub>i</sub>−y<sub>j</sub>)² ≥ (r<sub>i</sub>+r<sub>j</sub>)² for ALL pairs.
+The certified sum is Σ(r<sub>i</sub>−shrink). A result on this page is one more independent check; the archived certificates and verifier outputs are in the repository.</p>
+</main>
+
+<script>
+(function (root) {
+  "use strict";
+  // ---- exact decimal parsing: text -> {m: BigInt mantissa, e: int} with value = m * 10^e ----
+  function parseDec(tok) {
+    const s = String(tok).trim();
+    const m = /^([+-]?)(\d*)(?:\.(\d*))?(?:[eE]([+-]?\d+))?$/.exec(s);
+    if (!m || (m[2] === "" && (m[3] === undefined || m[3] === ""))) throw new Error("not a finite decimal: " + JSON.stringify(s));
+    const frac = m[3] || "";
+    let mant = BigInt((m[2] || "0") + frac);
+    if (m[1] === "-") mant = -mant;
+    return { m: mant, e: (m[4] ? parseInt(m[4], 10) : 0) - frac.length };
+  }
+  function scaleTo(p, S) {           // exact integer p * 10^S (S >= -p.e required)
+    const k = S + p.e;
+    if (k < 0) throw new Error("internal: scale too small");
+    return p.m * 10n ** BigInt(k);
+  }
+  function fmt(v, S, digits) {       // BigInt v / 10^S as decimal string with `digits` decimals
+    const neg = v < 0n; if (neg) v = -v;
+    let s = v.toString().padStart(S + 1, "0");
+    let ip = s.slice(0, s.length - S) || "0", fp = s.slice(s.length - S);
+    fp = (fp + "0".repeat(digits)).slice(0, digits);
+    return (neg ? "-" : "") + ip + (digits ? "." + fp : "");
+  }
+  function chooseScale(parsed, extra) {
+    let S = extra || 0;
+    for (const p of parsed) S = Math.max(S, -p.e);
+    return S;
+  }
+  // ---- core: circles = [[x,y,r] as decimal text], container square [lo,hi]^2 given as BigInt-scaled bounds ----
+  function checkPacking(rows, opts) {
+    // rows: array of [x,y,r] strings. opts: {shrink:'1e-12', centered:false, tolContact:'3e-12'}
+    const shrink = parseDec(opts.shrink || "0");
+    const tolp = parseDec(opts.tolContact || "3e-12");
+    const P = rows.map(r => r.map(parseDec));
+    const flat = P.flat().concat([shrink, tolp]);
+    const S = chooseScale(flat, 0);
+    const eps = scaleTo(shrink, S), tol = scaleTo(tolp, S);
+    const one = 10n ** BigInt(S);
+    const half = one / 2n;                       // S >= 1 whenever any decimals exist; else handled below
+    if (S === 0) throw new Error("need at least one decimal place");
+    const n = P.length;
+    const X = new Array(n), Y = new Array(n), R = new Array(n), R0 = new Array(n);
+    let negRadius = 0;
+    for (let i = 0; i < n; i++) {
+      X[i] = scaleTo(P[i][0], S); Y[i] = scaleTo(P[i][1], S); R0[i] = scaleTo(P[i][2], S);
+      if (R0[i] < 0n) negRadius++;
+      R[i] = R0[i] - eps; if (R[i] < 0n) R[i] = 0n;
+    }
+    const messages = []; let nviol = negRadius; let worst = null;   // worst = max violation (>0 infeasible), scale 10^S (walls) / 10^(2S) (pairs, squared)
+    const note = (m) => { if (messages.length < 8) messages.push(m); };
+    for (let i = 0; i < n; i++) {
+      let lo, hi;
+      if (opts.centered) { lo = -half; hi = half; } else { lo = 0n; hi = one; }
+      const g = [X[i] - R[i] - lo, hi - X[i] - R[i], Y[i] - R[i] - lo, hi - Y[i] - R[i]];
+      for (let k = 0; k < 4; k++) if (g[k] < 0n) { nviol++; note("circle " + (i + 1) + " leaves the square by " + fmt(-g[k], S, 3)); }
+    }
+    let minSlack = null, contacts = 0;
+    for (let i = 0; i < n; i++) {
+      for (let j = i + 1; j < n; j++) {
+        const dx = X[i] - X[j], dy = Y[i] - Y[j], s = R[i] + R[j];
+        const slack = dx * dx + dy * dy - s * s;          // exact, scaled by 10^(2S)
+        if (minSlack === null || slack < minSlack) minSlack = slack;
+        if (slack < 0n) { nviol++; note("circles " + (i + 1) + "," + (j + 1) + " overlap (squared-distance deficit " + fmt(-slack, 2 * S, 3) + ")"); }
+        const t = s + tol; if (dx * dx + dy * dy <= t * t) contacts++;
+      }
+    }
+    let sum = 0n, sum0 = 0n;
+    for (let i = 0; i < n; i++) { sum += R[i]; sum0 += R0[i]; }
+    // wall contacts within tolerance (informational)
+    for (let i = 0; i < n; i++) {
+      let lo, hi; if (opts.centered) { lo = -half; hi = half; } else { lo = 0n; hi = one; }
+      const g = [X[i] - R[i] - lo, hi - X[i] - R[i], Y[i] - R[i] - lo, hi - Y[i] - R[i]];
+      for (let k = 0; k < 4; k++) if (g[k] >= 0n && g[k] <= tol) contacts++;
+    }
+    return { n, valid: nviol === 0, violations: nviol, messages, certified: fmt(sum, S, 25), raw: fmt(sum0, S, 25),
+             minPairSlack: minSlack === null ? null : fmt(minSlack, 2 * S, 20), contactsWithinTol: contacts, threeN: 3 * n,
+             shrink: opts.shrink || "0", digitsScale: S };
+  }
+  function verifyCertificateText(text, opts) {
+    opts = opts || {};
+    const t = text.trim();
+    if (t[0] === "{") {
+      const obj = JSON.parse(t);
+      if (obj.problem !== "sum_radii" || !Array.isArray(obj.circles)) throw new Error("JSON must be a sum_radii certificate");
+      const warn = obj.circles.some(r => r.some(v => typeof v === "number"));
+      const rows = obj.circles.map(r => r.map(v => String(v)));
+      const res = checkPacking(rows, { shrink: opts.shrink === undefined ? "1e-12" : opts.shrink, centered: false });
+      res.format = "json sum_radii, container [0,1]^2"; res.warning = warn ? "some numbers were JSON numbers (read via their shortest decimal text)" : null;
+      return res;
+    }
+    // .pck: line 1 largest radius, line 2 author, then x y r (container side 1 centred at 0), zero tolerance by default
+    const lines = t.split(/\r?\n/).filter((l, i) => i < 2 || l.trim() !== "");
+    const rows = lines.slice(2).map(l => l.trim().split(/\s+/));
+    for (const r of rows) if (r.length !== 3) throw new Error("bad .pck row: " + r.join(" "));
+    const res = checkPacking(rows, { shrink: opts.shrink === undefined ? "0" : opts.shrink, centered: true });
+    const radii = rows.map(r => parseDec(r[2])); const S = res.digitsScale;
+    const sc = radii.map(p => scaleTo(p, S)); const mx = sc.reduce((a, b) => (a > b ? a : b), 0n);
+    const l1 = scaleTo(parseDec(lines[0].trim()), S);
+    res.format = ".pck (container centred at 0)"; res.line1IsLargest = (l1 === mx);
+    res.sorted = sc.every((v, i) => i === 0 || sc[i - 1] <= v); res.author = lines[1];
+    if (!res.line1IsLargest || !res.sorted) { res.valid = false; res.messages.push("format: line 1 must be the largest radius and rows sorted by increasing radius"); }
+    return res;
+  }
+  root.PackVerify = { parseDec, checkPacking, verifyCertificateText };
+  if (typeof document === "undefined") return;
+
+  // ---- UI ----
+  const $ = (id) => document.getElementById(id);
+  function show(res) {
+    const lines = [];
+    lines.push((res.valid ? "VALID" : "INVALID") + "   n = " + res.n + "   (" + res.format + ")");
+    lines.push("certified sum of radii (after shrink " + res.shrink + "): " + res.certified);
+    lines.push("raw sum of radii of the file:                    " + res.raw);
+    lines.push("minimum pair slack (squared distance, exact):    " + res.minPairSlack);
+    lines.push("contacts within 3e-12: " + res.contactsWithinTol + "   (3N = " + res.threeN + ")   violations: " + res.violations);
+    if (res.warning) lines.push("note: " + res.warning);
+    if (res.format.startsWith(".pck")) lines.push("line 1 is the largest radius: " + res.line1IsLargest + "; sorted by increasing radius: " + res.sorted + "; author: " + res.author);
+    res.messages.forEach(m => lines.push("  ! " + m));
+    $("out").innerHTML = "";
+    const head = document.createElement("span"); head.className = res.valid ? "ok" : "bad"; head.textContent = lines[0];
+    $("out").appendChild(head); $("out").appendChild(document.createTextNode("\n" + lines.slice(1).join("\n")));
+  }
+  function run() {
+    const t0 = performance.now();
+    try { const res = verifyCertificateText($("text").value, { shrink: $("eps").value.trim() === "" ? undefined : $("eps").value.trim() });
+          show(res); $("out").appendChild(document.createTextNode("\n(" + (performance.now() - t0).toFixed(0) + " ms)")); }
+    catch (e) { $("out").innerHTML = ""; const b = document.createElement("span"); b.className = "bad"; b.textContent = "ERROR: " + e.message; $("out").appendChild(b); }
+  }
+  $("run").onclick = run;
+  $("file").onchange = (ev) => { const f = ev.target.files[0]; if (!f) return; const r = new FileReader(); r.onload = () => { $("text").value = r.result; run(); }; r.readAsText(f); };
+  document.querySelectorAll("button[data-ex]").forEach(b => b.onclick = async () => {
+    try { const resp = await fetch(b.dataset.ex); $("text").value = await resp.text();
+          if (b.dataset.ex.endsWith(".pck")) $("eps").value = "0"; else $("eps").value = "1e-12"; run(); }
+    catch (e) { $("out").textContent = "could not fetch " + b.dataset.ex + " (open the page from the repository root or GitHub Pages): " + e.message; } });
+})(typeof window !== "undefined" ? window : globalThis);
+</script>
+</body>
+</html>

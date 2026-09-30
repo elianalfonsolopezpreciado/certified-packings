@@ -1,0 +1,8 @@
+{
+ "name": "autocorr1_n600",
+ "ok": true,
+ "certified_score_fraction": "1.50652518144379931669782646039",
+ "certified_score_mpmath": "1.50652518144379931669782646039",
+ "record": 1.50287,
+ "status": "above-record(beats-best-human)"
+}

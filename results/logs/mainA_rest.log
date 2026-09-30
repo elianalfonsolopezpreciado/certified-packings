@@ -1,0 +1,87 @@
+{"name": "mainA_sum_radii_n120_evo_s502", "n": 120, "method": "evo", "chunk": 1, "wall_s": 303, "best": 5.7773030974448165, "record": 5.7769997462, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 0, "t": "10:38:07"}
+{"name": "mainA_sum_radii_n150_evo_s502", "n": 150, "method": "evo", "chunk": 1, "wall_s": 302, "best": 6.474951648099985, "record": 6.476248191885, "status": "below", "stalled": 0, "t": "10:43:08"}
+{"name": "mainA_sum_radii_n150_evo_s502", "n": 150, "method": "evo", "chunk": 2, "wall_s": 301, "best": 6.476248191885982, "record": 6.476248191885, "status": "match", "stalled": 0, "t": "10:48:10"}
+{"name": "mainA_sum_radii_n150_evo_s502", "n": 150, "method": "evo", "chunk": 3, "wall_s": 298, "best": 6.476248191886528, "record": 6.476248191885, "status": "match", "stalled": 1, "t": "10:53:08"}
+{"name": "mainA_sum_radii_n150_evo_s502", "n": 150, "method": "evo", "chunk": 4, "wall_s": 301, "best": 6.476386129402151, "record": 6.476248191885, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 0, "t": "10:58:09"}
+{"name": "mainA_sum_radii_n200_evo_s502", "n": 200, "method": "evo", "chunk": 1, "wall_s": 306, "best": 7.481978302685398, "record": 7.486828249103, "status": "below", "stalled": 0, "t": "11:03:15"}
+{"name": "mainA_sum_radii_n200_evo_s502", "n": 200, "method": "evo", "chunk": 2, "wall_s": 301, "best": 7.485695439119892, "record": 7.486828249103, "status": "below", "stalled": 0, "t": "11:08:16"}
+{"name": "mainA_sum_radii_n200_evo_s502", "n": 200, "method": "evo", "chunk": 3, "wall_s": 307, "best": 7.489453882662113, "record": 7.486828249103, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 0, "t": "11:13:23"}
+{"name": "mainA_sum_radii_n116_evo_s502", "n": 116, "method": "evo", "chunk": 1, "wall_s": 303, "best": 5.673309793510076, "record": 5.676573137511, "status": "below", "stalled": 0, "t": "11:18:26"}
+{"name": "mainA_sum_radii_n116_evo_s502", "n": 116, "method": "evo", "chunk": 2, "wall_s": 300, "best": 5.673923904789423, "record": 5.676573137511, "status": "below", "stalled": 0, "t": "11:23:26"}
+{"name": "mainA_sum_radii_n116_evo_s502", "n": 116, "method": "evo", "chunk": 3, "wall_s": 302, "best": 5.673923904789423, "record": 5.676573137511, "status": "below", "stalled": 1, "t": "11:28:28"}
+{"name": "mainA_sum_radii_n116_evo_s502", "n": 116, "method": "evo", "chunk": 4, "wall_s": 300, "best": 5.674350310252333, "record": 5.676573137511, "status": "below", "stalled": 0, "t": "11:33:28"}
+{"name": "mainA_sum_radii_n116_evo_s502", "n": 116, "method": "evo", "chunk": 5, "wall_s": 299, "best": 5.674350310252333, "record": 5.676573137511, "status": "below", "stalled": 1, "t": "11:38:27"}
+{"name": "mainA_sum_radii_n138_evo_s502", "n": 138, "method": "evo", "chunk": 1, "wall_s": 304, "best": 6.198377864878116, "record": 6.200577843371, "status": "below", "stalled": 0, "t": "11:43:31"}
+{"name": "mainA_sum_radii_n138_evo_s502", "n": 138, "method": "evo", "chunk": 2, "wall_s": 300, "best": 6.199540736484446, "record": 6.200577843371, "status": "below", "stalled": 0, "t": "11:48:31"}
+{"name": "mainA_sum_radii_n138_evo_s502", "n": 138, "method": "evo", "chunk": 3, "wall_s": 301, "best": 6.200571369870311, "record": 6.200577843371, "status": "below", "stalled": 0, "t": "11:53:32"}
+{"name": "mainA_sum_radii_n138_evo_s502", "n": 138, "method": "evo", "chunk": 4, "wall_s": 301, "best": 6.200571369870311, "record": 6.200577843371, "status": "below", "stalled": 1, "t": "11:58:33"}
+{"name": "mainA_sum_radii_n138_evo_s502", "n": 138, "method": "evo", "chunk": 5, "wall_s": 298, "best": 6.200571369870311, "record": 6.200577843371, "status": "below", "stalled": 2, "t": "12:03:31"}
+{"name": "mainA_sum_radii_n139_evo_s502", "n": 139, "method": "evo", "chunk": 1, "wall_s": 305, "best": 6.221832249077377, "record": 6.223117653709, "status": "below", "stalled": 0, "t": "12:08:36"}
+{"name": "mainA_sum_radii_n139_evo_s502", "n": 139, "method": "evo", "chunk": 2, "wall_s": 298, "best": 6.221879616646744, "record": 6.223117653709, "status": "below", "stalled": 0, "t": "12:13:34"}
+{"name": "mainA_sum_radii_n139_evo_s502", "n": 139, "method": "evo", "chunk": 3, "wall_s": 300, "best": 6.221879616646744, "record": 6.223117653709, "status": "below", "stalled": 1, "t": "12:18:33"}
+{"name": "mainA_sum_radii_n139_evo_s502", "n": 139, "method": "evo", "chunk": 4, "wall_s": 299, "best": 6.221879616646744, "record": 6.223117653709, "status": "below", "stalled": 2, "t": "12:23:32"}
+{"name": "mainA_sum_radii_n139_evo_s502", "n": 139, "method": "evo", "chunk": 5, "wall_s": 305, "best": 6.222197558818101, "record": 6.223117653709, "status": "below", "stalled": 0, "t": "12:28:37"}
+{"name": "mainA_sum_radii_n159_evo_s502", "n": 159, "method": "evo", "chunk": 1, "wall_s": 306, "best": 6.6576338683162115, "record": 6.66389176348, "status": "below", "stalled": 0, "t": "12:33:42"}
+{"name": "mainA_sum_radii_n159_evo_s502", "n": 159, "method": "evo", "chunk": 2, "wall_s": 297, "best": 6.65852730235798, "record": 6.66389176348, "status": "below", "stalled": 0, "t": "12:38:39"}
+{"name": "mainA_sum_radii_n159_evo_s502", "n": 159, "method": "evo", "chunk": 3, "wall_s": 301, "best": 6.660606026237679, "record": 6.66389176348, "status": "below", "stalled": 0, "t": "12:43:40"}
+{"name": "mainA_sum_radii_n159_evo_s502", "n": 159, "method": "evo", "chunk": 4, "wall_s": 301, "best": 6.660795297123883, "record": 6.66389176348, "status": "below", "stalled": 0, "t": "12:48:41"}
+{"name": "mainA_sum_radii_n159_evo_s502", "n": 159, "method": "evo", "chunk": 5, "wall_s": 303, "best": 6.6613022734325, "record": 6.66389176348, "status": "below", "stalled": 0, "t": "12:53:44"}
+{"name": "mainA_sum_radii_n188_evo_s502", "n": 188, "method": "evo", "chunk": 1, "wall_s": 302, "best": 7.255065345062511, "record": 7.254438153287, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 0, "t": "12:58:46"}
+[
+ {
+  "n": 120,
+  "method": "evo",
+  "best": 5.7773030974448165,
+  "status": "improvement-candidate",
+  "name": "mainA_sum_radii_n120_evo_s502"
+ },
+ {
+  "n": 150,
+  "method": "evo",
+  "best": 6.476386129402151,
+  "status": "improvement-candidate",
+  "name": "mainA_sum_radii_n150_evo_s502"
+ },
+ {
+  "n": 200,
+  "method": "evo",
+  "best": 7.489453882662113,
+  "status": "improvement-candidate",
+  "name": "mainA_sum_radii_n200_evo_s502"
+ },
+ {
+  "n": 116,
+  "method": "evo",
+  "best": 5.674350310252333,
+  "status": "budget",
+  "name": "mainA_sum_radii_n116_evo_s502"
+ },
+ {
+  "n": 138,
+  "method": "evo",
+  "best": 6.200571369870311,
+  "status": "budget",
+  "name": "mainA_sum_radii_n138_evo_s502"
+ },
+ {
+  "n": 139,
+  "method": "evo",
+  "best": 6.222197558818101,
+  "status": "budget",
+  "name": "mainA_sum_radii_n139_evo_s502"
+ },
+ {
+  "n": 159,
+  "method": "evo",
+  "best": 6.6613022734325,
+  "status": "budget",
+  "name": "mainA_sum_radii_n159_evo_s502"
+ },
+ {
+  "n": 188,
+  "method": "evo",
+  "best": 7.255065345062511,
+  "status": "improvement-candidate",
+  "name": "mainA_sum_radii_n188_evo_s502"
+ }
+]

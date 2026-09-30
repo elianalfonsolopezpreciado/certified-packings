@@ -1,0 +1,25 @@
+{
+ "name": "sum_radii_n31",
+ "ok": true,
+ "polish": {
+  "n_active": 93,
+  "n_unknowns": 93,
+  "rank": 93,
+  "newton_residuals": [
+   3.608224830031759e-15,
+   3.232193136246957e-29,
+   4.1807237600115174e-57
+  ],
+  "max_active_residual": 4.1807237600115174e-57,
+  "shrink_applied": 8.033504338341124e-57,
+  "score_mp": "2.88996985193219689821630225999",
+  "score_float_in": 2.889969851932195,
+  "kkt_residual": 3.608224830031759e-15,
+  "min_lambda": 0.06692665781257931
+ },
+ "certified_score_mpmath": "2.889969851901196898216302",
+ "certified_score_fraction": "2.889969851901196898216302",
+ "agree_1e-20": true,
+ "record": 2.889969851933,
+ "status": "match"
+}

@@ -1,0 +1,6 @@
+[upsample 600->1200] 78s start ratio 1.506525181  best 1.506525181 (row 0)
+best float at N: 1.5065251814481033
+[upsample 1200->2400] 68s start ratio 1.506525181  best 1.506525181 (row 0)
+      0 [main] sh (20992) child_copy: cygheap read copy failed, 0x800000000..0x800011620, done 0, windows pid 20992, Win32 error 299
+   3454 [main] sh 1463 child_copy: dll data read copy failed, 0x210246000..0x21025FCB0, done 0, windows pid 20992, Win32 error 299
+   4828 [main] sh 1463 C:\Program Files\Git\usr\bin\sh.exe: *** fatal error in forked process - couldn't create signal pipe, Win32 error 5

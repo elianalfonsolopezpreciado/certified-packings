@@ -1,0 +1,13 @@
+{"name": "mainA_sum_radii_n100_evo_s501", "n": 100, "method": "evo", "chunk": 1, "wall_s": 304, "best": 5.260274528761042, "record": 5.263744441843, "status": "below", "stalled": 0, "t": "10:17:55"}
+{"name": "mainA_sum_radii_n100_evo_s501", "n": 100, "method": "evo", "chunk": 2, "wall_s": 297, "best": 5.260274528761042, "record": 5.263744441843, "status": "below", "stalled": 1, "t": "10:22:51"}
+{"name": "mainA_sum_radii_n100_evo_s501", "n": 100, "method": "evo", "chunk": 3, "wall_s": 301, "best": 5.260274528761042, "record": 5.263744441843, "status": "below", "stalled": 2, "t": "10:27:52"}
+{"name": "mainA_sum_radii_n100_evo_s501", "n": 100, "method": "evo", "chunk": 4, "wall_s": 303, "best": 5.260274528761042, "record": 5.263744441843, "status": "below", "stalled": 3, "t": "10:32:55"}
+[
+ {
+  "n": 100,
+  "method": "evo",
+  "best": 5.260274528761042,
+  "status": "stalled",
+  "name": "mainA_sum_radii_n100_evo_s501"
+ }
+]

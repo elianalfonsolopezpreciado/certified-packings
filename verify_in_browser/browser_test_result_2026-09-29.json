@@ -1,0 +1,11 @@
+{
+ "run": "verify_in_browser/browser_test.js executed in the in-app browser against a local static server (python -m http.server), 2026-09-29",
+ "cert_26": {"valid": true, "browser_certified": "2.6359830848916077831865694", "python_certified": "2.6359830848916077831865", "agree_24_digits": true},
+ "cert_120": {"valid": true, "browser_certified": "5.7773030973248638132812867", "python_certified": "5.7773030973248638132812", "agree_24_digits": true},
+ "cert_250": {"valid": true, "browser_certified": "8.3899735325876822713107462", "python_certified": "8.3899735325876822713107", "agree_24_digits": true},
+ "tampered_radius_valid": false,
+ "tampered_duplicate_valid": false,
+ "pck_120": {"valid": true, "sum": "5.7773030973248638133100000", "contacts": 360, "threeN": 360},
+ "pck_250": {"valid": true, "sum": "8.3899735325876822712800000", "contacts": 750, "threeN": 750},
+ "packomania_listed_120_zero_tolerance": {"valid": false, "violations": 52}
+}

@@ -1,0 +1,145 @@
+[gpuL_sum_radii_n300] r1 t=80.6s B=238 gpu_best=9.1733 polished_round_top=[9.176285, 9.173103, 9.172366] best=9.176285
+[gpuL_sum_radii_n300] r2 t=156.8s B=238 gpu_best=9.1758 polished_round_top=[9.178787, 9.178687, 9.172567] best=9.178787
+[gpuL_sum_radii_n300] r3 t=232.4s B=238 gpu_best=9.1803 polished_round_top=[9.183426, 9.17549, 9.17243] best=9.183426
+[gpuL_sum_radii_n300] r4 t=307.9s B=238 gpu_best=9.1742 polished_round_top=[9.177223, 9.176394, 9.175799] best=9.183426
+[gpuL_sum_radii_n300] r5 t=384.2s B=238 gpu_best=9.1747 polished_round_top=[9.177511, 9.176672, 9.175824] best=9.183426
+[gpuL_sum_radii_n300] r6 t=460.3s B=238 gpu_best=9.1751 polished_round_top=[9.178392, 9.17773, 9.177655] best=9.183426
+[gpuL_sum_radii_n300] r7 t=535.8s B=238 gpu_best=9.1723 polished_round_top=[9.175356, 9.173147, 9.173127] best=9.183426
+[gpuL_sum_radii_n300] r8 t=612.5s B=238 gpu_best=9.1831 polished_round_top=[9.186289, 9.181895, 9.177112] best=9.186289
+{
+ "name": "gpuL_sum_radii_n300",
+ "problem": "sum_radii",
+ "n": 300,
+ "method": "gpu-large",
+ "seed": 1100,
+ "elapsed_s": 612.6104354858398,
+ "best_score": 9.186289272489006,
+ "status": "below",
+ "record": 9.192717162187,
+ "rounds": 8,
+ "polished_scores_top20": [
+  9.186289272489006,
+  9.183425637145708,
+  9.18189467386114,
+  9.17878743525337,
+  9.178686549352397,
+  9.178391919005616,
+  9.177730050437422,
+  9.177654914220401,
+  9.177510929872245,
+  9.177478164221043,
+  9.177223363606425,
+  9.177171003756374,
+  9.177111703145892,
+  9.176671911851583,
+  9.176453628117716,
+  9.176393632343864,
+  9.176284812390136,
+  9.175823894265296,
+  9.175799374868571,
+  9.175690763783289
+ ]
+}
+[gpuL_sum_radii_n297] r1 t=77.0s B=242 gpu_best=9.1211 polished_round_top=[9.123735, 9.122351, 9.121355] best=9.123735
+[gpuL_sum_radii_n297] r2 t=152.7s B=242 gpu_best=9.1224 polished_round_top=[9.125014, 9.123389, 9.122766] best=9.125014
+[gpuL_sum_radii_n297] r3 t=227.4s B=242 gpu_best=9.1214 polished_round_top=[9.123905, 9.122895, 9.122867] best=9.125014
+[gpuL_sum_radii_n297] r4 t=302.1s B=242 gpu_best=9.1207 polished_round_top=[9.123529, 9.122678, 9.12247] best=9.125014
+[gpuL_sum_radii_n297] r5 t=377.6s B=242 gpu_best=9.1243 polished_round_top=[9.12712, 9.120708, 9.118633] best=9.127120
+[gpuL_sum_radii_n297] r6 t=452.4s B=242 gpu_best=9.1227 polished_round_top=[9.125434, 9.125278, 9.124022] best=9.127120
+[gpuL_sum_radii_n297] r7 t=527.7s B=242 gpu_best=9.1214 polished_round_top=[9.124403, 9.123957, 9.120987] best=9.127120
+[gpuL_sum_radii_n297] r8 t=602.5s B=242 gpu_best=9.1215 polished_round_top=[9.124728, 9.120923, 9.120356] best=9.127120
+{
+ "name": "gpuL_sum_radii_n297",
+ "problem": "sum_radii",
+ "n": 297,
+ "method": "gpu-large",
+ "seed": 1097,
+ "elapsed_s": 602.5521755218506,
+ "best_score": 9.12712037197969,
+ "status": "below",
+ "record": 9.147139780469,
+ "rounds": 8,
+ "polished_scores_top20": [
+  9.12712037197969,
+  9.12543378292129,
+  9.125277582523504,
+  9.125013753120793,
+  9.124728299788618,
+  9.124402917516864,
+  9.124021950164375,
+  9.12395690170511,
+  9.123905115162977,
+  9.123734868857664,
+  9.123529242347882,
+  9.123389297393775,
+  9.122894569607908,
+  9.122867430696111,
+  9.122765798322824,
+  9.12267801511366,
+  9.122615444863843,
+  9.12246985808958,
+  9.122351053825597,
+  9.122274754662701
+ ]
+}
+[gpuL_sum_radii_n301] r1 t=77.4s B=236 gpu_best=9.1942 polished_round_top=[9.197431, 9.195633, 9.195139] best=9.197431
+[gpuL_sum_radii_n301] r2 t=153.1s B=236 gpu_best=9.1968 polished_round_top=[9.199564, 9.197225, 9.194104] best=9.199564
+[gpuL_sum_radii_n301] r3 t=229.9s B=236 gpu_best=9.1950 polished_round_top=[9.197853, 9.195876, 9.194645] best=9.199564
+[gpuL_sum_radii_n301] r4 t=305.2s B=236 gpu_best=9.1931 polished_round_top=[9.196022, 9.195019, 9.192917] best=9.199564
+[gpuL_sum_radii_n301] r5 t=380.7s B=236 gpu_best=9.1969 polished_round_top=[9.199615, 9.198262, 9.197978] best=9.199615
+[gpuL_sum_radii_n301] r6 t=456.6s B=236 gpu_best=9.1914 polished_round_top=[9.194994, 9.194122, 9.193261] best=9.199615
+[gpuL_sum_radii_n301] r7 t=532.7s B=236 gpu_best=9.1992 polished_round_top=[9.201741, 9.19908, 9.195674] best=9.201741
+[gpuL_sum_radii_n301] r8 t=607.9s B=236 gpu_best=9.1964 polished_round_top=[9.198712, 9.194785, 9.192811] best=9.201741
+{
+ "name": "gpuL_sum_radii_n301",
+ "problem": "sum_radii",
+ "n": 301,
+ "method": "gpu-large",
+ "seed": 1101,
+ "elapsed_s": 607.9499359130859,
+ "best_score": 9.20174077738718,
+ "status": "below",
+ "record": 9.206706957124,
+ "rounds": 8,
+ "polished_scores_top20": [
+  9.20174077738718,
+  9.199614521040512,
+  9.199563846572715,
+  9.199079795434729,
+  9.198712059538153,
+  9.198261951110652,
+  9.197978169561628,
+  9.197852638799645,
+  9.197431051527394,
+  9.197224791808909,
+  9.196022255039148,
+  9.195875911900249,
+  9.195674432564175,
+  9.195632887724969,
+  9.195253431908268,
+  9.195138685242458,
+  9.195018931734008,
+  9.194994093143382,
+  9.194785136570513,
+  9.194645438089527
+ ]
+}
+[gpuL_sum_radii_n275] r1 t=74.7s B=283 gpu_best=8.7712 polished_round_top=[8.773775, 8.767099, 8.764944] best=8.773775
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\EXT\1\search\gpu.py", line 551, in <module>
+    print(json.dumps({k: v for k, v in run(c).items() if k != "cfg"}, indent=1))
+                                       ~~~^^^
+  File "D:\EXT\1\search\gpu.py", line 312, in run
+    return run_large(cfg)
+  File "D:\EXT\1\search\gpu.py", line 295, in run_large
+    update_leaderboard("sum_radii", n, best_s, "gpu-large", seed, time.time() - t0, best_z, P)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EXT\1\search\driver.py", line 171, in update_leaderboard
+    write_leaderboard(rows)
+    ~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\EXT\1\search\driver.py", line 138, in write_leaderboard
+    os.replace(tmp, p)
+    ~~~~~~~~~~^^^^^^^^
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'D:\\EXT\\1\\results\\leaderboard.tmp' -> 'D:\\EXT\\1\\results\\leaderboard.csv'

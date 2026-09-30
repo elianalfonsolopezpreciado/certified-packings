@@ -1,0 +1,12 @@
+name: pilot_gpu_large_sum_radii_n100
+problem: sum_radii
+n: 100
+mode: large
+seed: 201
+time_limit_s: 300
+batch: 2048
+steps32: 2500
+steps64: 600
+topk: 48
+workers: 6
+leaderboard: false

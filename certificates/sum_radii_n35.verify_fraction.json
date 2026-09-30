@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\sum_radii_n35.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "sum_radii",
+      "n": 35,
+      "backend": "fraction-exact",
+      "valid": true,
+      "certified_score": "3.074036363692781972568376",
+      "raw_score": "3.074036363727781972568376",
+      "max_violation": "-5.775660103024456592576426e-13",
+      "raw_max_violation": "4.000000000000000000000000e-41",
+      "eps": "1.00000e-12",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

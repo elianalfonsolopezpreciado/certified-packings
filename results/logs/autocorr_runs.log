@@ -1,0 +1,27 @@
+[N=95] GPU stage 35s best R=1.514768 median=1.5242
+[N=95] cand 0: GPU R=1.514768 -> SLP R=1.51261262
+[N=95] cand 1: GPU R=1.514922 -> SLP R=1.51177425
+[N=95] cand 2: GPU R=1.514992 -> SLP R=1.51265350
+[N=95] cand 3: GPU R=1.515152 -> SLP R=1.51327979
+[N=95] cand 4: GPU R=1.515295 -> SLP R=1.51289717
+[N=95] cand 5: GPU R=1.515365 -> SLP R=1.51283042
+[N=95] best float R = 1.511774251  (records: {'best_human_51': 1.50973, 'alphaevolve_95': 1.5053, 'alphaevolve_v2_1319': 1.50317, 'thetaevolve_1319': 1.50314, 'ttt_discover_30000': 1.50287})
+[N=95] GPU stage 35s best R=1.515093 median=1.5240
+[N=95] cand 0: GPU R=1.515093 -> SLP R=1.51318255
+[N=95] cand 1: GPU R=1.515268 -> SLP R=1.51265602
+[N=95] cand 2: GPU R=1.515420 -> SLP R=1.51286170
+[N=95] cand 3: GPU R=1.515469 -> SLP R=1.51332748
+[N=95] cand 4: GPU R=1.515666 -> SLP R=1.51318047
+[N=95] cand 5: GPU R=1.515699 -> SLP R=1.51317812
+[N=95] best float R = 1.512656021  (records: {'best_human_51': 1.50973, 'alphaevolve_95': 1.5053, 'alphaevolve_v2_1319': 1.50317, 'thetaevolve_1319': 1.50314, 'ttt_discover_30000': 1.50287})
+[N=200] GPU stage 30s best R=1.512137 median=1.5210
+[N=200] cand 0: GPU R=1.512137 -> SLP R=1.50948398
+[N=200] cand 1: GPU R=1.512276 -> SLP R=1.51003045
+[N=200] cand 2: GPU R=1.512308 -> SLP R=1.50943188
+[N=200] cand 3: GPU R=1.512368 -> SLP R=1.50935355
+[N=200] best float R = 1.509353547  (records: {'best_human_51': 1.50973, 'alphaevolve_95': 1.5053, 'alphaevolve_v2_1319': 1.50317, 'thetaevolve_1319': 1.50314, 'ttt_discover_30000': 1.50287})
+[N=600] GPU stage 20s best R=1.510785 median=1.5196
+[N=600] cand 0: GPU R=1.510785 -> SLP R=1.50756347
+[N=600] cand 1: GPU R=1.511417 -> SLP R=1.50652518
+[N=600] cand 2: GPU R=1.511853 -> SLP R=1.50723826
+[N=600] best float R = 1.506525181  (records: {'best_human_51': 1.50973, 'alphaevolve_95': 1.5053, 'alphaevolve_v2_1319': 1.50317, 'thetaevolve_1319': 1.50314, 'ttt_discover_30000': 1.50287})

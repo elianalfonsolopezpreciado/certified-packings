@@ -1,0 +1,19 @@
+{
+  "certificate": "certificates/sum_radii_n27.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "sum_radii",
+      "n": 27,
+      "backend": "fraction-exact",
+      "valid": true,
+      "certified_score": "2.685978684225346228226695",
+      "raw_score": "2.685978684225346228226695",
+      "max_violation": "-6.268235928907763029006147e-31",
+      "raw_max_violation": "6.195363724931777422824238e-41",
+      "eps": "1.00000e-30",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

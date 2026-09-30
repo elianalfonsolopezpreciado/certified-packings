@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\C_N38400.json.gz",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "autocorr1",
+      "n": 38400,
+      "backend": "fraction-exact-int",
+      "valid": true,
+      "certified_score": "1.50527464367791917144738802786",
+      "raw_score": "1.50527464367791917144738802786",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

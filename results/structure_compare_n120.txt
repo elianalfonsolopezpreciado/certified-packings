@@ -1,0 +1,14 @@
+n=120: listed sumradii (file) = 5.776999746200; exact sum of the listed radii = 5.776999746196; our raw exact sum (float view) = 5.777303097445
+gap (ours raw - listed sum of radii) = +3.033512e-04
+BEST symmetry (0, 1, 0): max coordinate/radius deviation 4.340e-02, median 5.535e-03, circles within 1e-6: 0/120, within 1e-3: 12/120, mean(our r - listed r) = +2.528e-06
+VERDICT: DIFFERENT structure
+
+all 8 symmetries:
+symmetry (swap,flipx,flipy)=(0, 0, 0): max dev 1.506e-01, median 1.659e-02, within 1e-6: 0/120, within 1e-3: 1/120
+symmetry (swap,flipx,flipy)=(0, 0, 1): max dev 4.709e-02, median 1.475e-02, within 1e-6: 0/120, within 1e-3: 0/120
+symmetry (swap,flipx,flipy)=(0, 1, 0): max dev 4.340e-02, median 5.535e-03, within 1e-6: 0/120, within 1e-3: 12/120
+symmetry (swap,flipx,flipy)=(0, 1, 1): max dev 9.875e-02, median 1.545e-02, within 1e-6: 0/120, within 1e-3: 3/120
+symmetry (swap,flipx,flipy)=(1, 0, 0): max dev 1.747e-01, median 1.399e-02, within 1e-6: 0/120, within 1e-3: 7/120
+symmetry (swap,flipx,flipy)=(1, 0, 1): max dev 6.508e-02, median 1.345e-02, within 1e-6: 0/120, within 1e-3: 1/120
+symmetry (swap,flipx,flipy)=(1, 1, 0): max dev 5.253e-02, median 1.660e-02, within 1e-6: 0/120, within 1e-3: 2/120
+symmetry (swap,flipx,flipy)=(1, 1, 1): max dev 9.235e-02, median 1.506e-02, within 1e-6: 0/120, within 1e-3: 5/120

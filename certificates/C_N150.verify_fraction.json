@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\C_N150.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "autocorr1",
+      "n": 150,
+      "backend": "fraction-exact-int",
+      "valid": true,
+      "certified_score": "1.51025673336093196533654805061",
+      "raw_score": "1.51025673336093196533654805061",
+      "max_violation": "0",
+      "raw_max_violation": "0",
+      "eps": "0",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

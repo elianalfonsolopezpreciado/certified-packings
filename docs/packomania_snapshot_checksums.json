@@ -1,0 +1,82 @@
+{
+ "note": "SHA-256 of the exact Packomania files our comparisons used. Packomania tables change often, so a fresh download will usually NOT match; these hashes only identify the snapshots. Files are NOT redistributed in this repository.",
+ "files": [
+  {
+   "file": "packomania_csq_distance.txt",
+   "url": "http://www.packomania.com/csq/txt/distance.txt",
+   "retrieved": "2026-09-28",
+   "bytes": 61892,
+   "sha256": "5e19fa96c45e9969dfc3569b56a874440c6ff4b8e03e20169a683618b45e4cc2"
+  },
+  {
+   "file": "packomania_csq_radius.txt",
+   "url": "http://www.packomania.com/csq/txt/radius.txt",
+   "retrieved": "2026-09-28",
+   "bytes": 61901,
+   "sha256": "621e5749187f6e7a43d4a1659f2ad15bb4faa11030420ca909501a09bd7fd192"
+  },
+  {
+   "file": "packomania_csqv_sumradii_2026-09-28.txt",
+   "url": "https://www.packomania.com/csqv/txt/sumradii.txt",
+   "retrieved": "2026-09-28 (evening)",
+   "bytes": 9390,
+   "sha256": "c356ff3c090ff507550b01303c2b577fe385e9a5c7763c7ae5233dc47aa2c236"
+  },
+  {
+   "file": "packomania_csqv_sumradii_2026-09-29_0924.txt",
+   "url": "https://www.packomania.com/csqv/txt/sumradii.txt",
+   "retrieved": "2026-09-29 09:24 (UTC-6)",
+   "bytes": 9390,
+   "sha256": "de1ddcd8a16c74ed7a4789840cb3fe839a12c8a7661910d1aeeb8e1412c85b06"
+  },
+  {
+   "file": "packomania_csqv_sumradii_2026-09-29_1546.txt",
+   "url": "https://www.packomania.com/csqv/txt/sumradii.txt",
+   "retrieved": "2026-09-29 15:46 (UTC-6)",
+   "bytes": 11730,
+   "sha256": "4a02dc961c8241ac72a08b255ff82971bcb0266597dd333204ceab962f5803c3"
+  },
+  {
+   "file": "packomania_csqv_sumradii_2026-09-29_1902.txt",
+   "url": "https://www.packomania.com/csqv/txt/sumradii.txt",
+   "retrieved": "2026-09-29 19:02 (UTC-6)",
+   "bytes": 11730,
+   "sha256": "4a02dc961c8241ac72a08b255ff82971bcb0266597dd333204ceab962f5803c3"
+  },
+  {
+   "file": "packomania_csqv_sumradii_2026-09-29_2132.txt",
+   "url": "https://www.packomania.com/csqv/txt/sumradii.txt",
+   "retrieved": "2026-09-29 21:32 (UTC-6)",
+   "bytes": 11730,
+   "sha256": "4a02dc961c8241ac72a08b255ff82971bcb0266597dd333204ceab962f5803c3"
+  },
+  {
+   "file": "packomania_files/csqv120.txt",
+   "url": "https://www.packomania.com/csqv/txt/csqv120.txt",
+   "retrieved": "2026-09-29 21:31 (UTC-6)",
+   "bytes": 6967,
+   "sha256": "7f28b4b4e045450ed51021ae1f2c114a5c110b647ba19dd1476738d1f6fc6eed"
+  },
+  {
+   "file": "packomania_files/csqv250.txt",
+   "url": "https://www.packomania.com/csqv/txt/csqv250.txt",
+   "retrieved": "2026-09-29 21:31 (UTC-6)",
+   "bytes": 14247,
+   "sha256": "7ce80df1766059ebf5ab9d4082e22c6bc9b44eac3191473878d32e9bc6d3d6ec"
+  },
+  {
+   "file": "packomania_files/csqv27.txt",
+   "url": "https://www.packomania.com/csqv/txt/csqv27.txt",
+   "retrieved": "2026-09-29 21:31 (UTC-6)",
+   "bytes": 1758,
+   "sha256": "067f44a3892fc7dc25f7b2632d4145dda313ea23d8c85c311c4d08f5b04245d9"
+  },
+  {
+   "file": "packomania_files/hints.html",
+   "url": "http://www.packomania.com/hints.html",
+   "retrieved": "2026-09-29 21:31 (UTC-6)",
+   "bytes": 5030,
+   "sha256": "3c7eb576ce43c98341c0d731c396ddb77cfab6f128da9e8cc7cd9e34ac80fd9d"
+  }
+ ]
+}

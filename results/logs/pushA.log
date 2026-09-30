@@ -1,0 +1,57 @@
+{"name": "pushA_sum_radii_n120_evo_s504", "n": 120, "method": "evo", "chunk": 1, "wall_s": 304, "best": 5.7773030974453725, "record": 5.7769997462, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 0, "t": "15:44:45"}
+{"name": "pushA_sum_radii_n120_evo_s504", "n": 120, "method": "evo", "chunk": 2, "wall_s": 301, "best": 5.7773030974453725, "record": 5.7769997462, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 1, "t": "15:49:46"}
+{"name": "pushA_sum_radii_n120_evo_s504", "n": 120, "method": "evo", "chunk": 3, "wall_s": 297, "best": 5.7773030974453725, "record": 5.7769997462, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 2, "t": "15:54:42"}
+{"name": "pushA_sum_radii_n120_evo_s504", "n": 120, "method": "evo", "chunk": 4, "wall_s": 303, "best": 5.7773030974453725, "record": 5.7769997462, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 3, "t": "15:59:45"}
+{"name": "pushA_sum_radii_n110_evo_s504", "n": 110, "method": "evo", "chunk": 1, "wall_s": 302, "best": 5.53191953640547, "record": 5.531919536401, "status": "match", "stalled": 0, "t": "16:04:48"}
+{"name": "pushA_sum_radii_n110_evo_s504", "n": 110, "method": "evo", "chunk": 2, "wall_s": 301, "best": 5.53191953640547, "record": 5.531919536401, "status": "match", "stalled": 1, "t": "16:09:48"}
+{"name": "pushA_sum_radii_n110_evo_s504", "n": 110, "method": "evo", "chunk": 3, "wall_s": 301, "best": 5.53191953640547, "record": 5.531919536401, "status": "match", "stalled": 2, "t": "16:14:49"}
+{"name": "pushA_sum_radii_n110_evo_s504", "n": 110, "method": "evo", "chunk": 4, "wall_s": 297, "best": 5.53191953640547, "record": 5.531919536401, "status": "match", "stalled": 3, "t": "16:19:47"}
+{"name": "pushA_sum_radii_n130_evo_s504", "n": 130, "method": "evo", "chunk": 1, "wall_s": 302, "best": 6.022051095315135, "record": 6.022424077079, "status": "below", "stalled": 0, "t": "16:24:49"}
+{"name": "pushA_sum_radii_n130_evo_s504", "n": 130, "method": "evo", "chunk": 2, "wall_s": 301, "best": 6.022051095315142, "record": 6.022424077079, "status": "below", "stalled": 1, "t": "16:29:50"}
+{"name": "pushA_sum_radii_n130_evo_s504", "n": 130, "method": "evo", "chunk": 3, "wall_s": 298, "best": 6.022051095315142, "record": 6.022424077079, "status": "below", "stalled": 2, "t": "16:34:48"}
+{"name": "pushA_sum_radii_n130_evo_s504", "n": 130, "method": "evo", "chunk": 4, "wall_s": 300, "best": 6.022051095315303, "record": 6.022424077079, "status": "below", "stalled": 3, "t": "16:39:48"}
+{"name": "pushA_sum_radii_n138_evo_s504", "n": 138, "method": "evo", "chunk": 1, "wall_s": 302, "best": 6.200571369870428, "record": 6.201196207424, "status": "below", "stalled": 0, "t": "16:44:50"}
+{"name": "pushA_sum_radii_n138_evo_s504", "n": 138, "method": "evo", "chunk": 2, "wall_s": 299, "best": 6.200571369870428, "record": 6.201196207424, "status": "below", "stalled": 1, "t": "16:49:48"}
+{"name": "pushA_sum_radii_n138_evo_s504", "n": 138, "method": "evo", "chunk": 3, "wall_s": 305, "best": 6.200571369870428, "record": 6.201196207424, "status": "below", "stalled": 2, "t": "16:54:54"}
+{"name": "pushA_sum_radii_n138_evo_s504", "n": 138, "method": "evo", "chunk": 4, "wall_s": 299, "best": 6.200571369870428, "record": 6.201196207424, "status": "below", "stalled": 3, "t": "16:59:53"}
+{"name": "pushA_sum_radii_n116_evo_s504", "n": 116, "method": "evo", "chunk": 1, "wall_s": 302, "best": 5.674350310252271, "record": 5.676573137511, "status": "below", "stalled": 0, "t": "17:04:55"}
+{"name": "pushA_sum_radii_n116_evo_s504", "n": 116, "method": "evo", "chunk": 2, "wall_s": 302, "best": 5.674350310252271, "record": 5.676573137511, "status": "below", "stalled": 1, "t": "17:09:57"}
+{"name": "pushA_sum_radii_n116_evo_s504", "n": 116, "method": "evo", "chunk": 3, "wall_s": 299, "best": 5.674350310252271, "record": 5.676573137511, "status": "below", "stalled": 2, "t": "17:14:56"}
+{"name": "pushA_sum_radii_n116_evo_s504", "n": 116, "method": "evo", "chunk": 4, "wall_s": 299, "best": 5.674350310252271, "record": 5.676573137511, "status": "below", "stalled": 3, "t": "17:19:55"}
+[
+ {
+  "n": 120,
+  "method": "evo",
+  "best": 5.7773030974453725,
+  "status": "stalled",
+  "name": "pushA_sum_radii_n120_evo_s504"
+ },
+ {
+  "n": 110,
+  "method": "evo",
+  "best": 5.53191953640547,
+  "status": "stalled",
+  "name": "pushA_sum_radii_n110_evo_s504"
+ },
+ {
+  "n": 130,
+  "method": "evo",
+  "best": 6.022051095315303,
+  "status": "stalled",
+  "name": "pushA_sum_radii_n130_evo_s504"
+ },
+ {
+  "n": 138,
+  "method": "evo",
+  "best": 6.200571369870428,
+  "status": "stalled",
+  "name": "pushA_sum_radii_n138_evo_s504"
+ },
+ {
+  "n": 116,
+  "method": "evo",
+  "best": 5.674350310252271,
+  "status": "stalled",
+  "name": "pushA_sum_radii_n116_evo_s504"
+ }
+]

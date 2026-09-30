@@ -1,0 +1,21 @@
+{
+  "title": "Two certified sum-of-radii circle packings exceeding the Packomania values listed on 29 September 2026, an exact large-N verifier for the first autocorrelation inequality, and documented negative results",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>Preprint with code, certificates, Packomania-format .pck files, logs and tables. Two certified packings for the maximum sum of radii of n disjoint circles in the unit square (n=120: 5.7773030974449; n=250: 8.3899735328377) exceed the values listed in the Packomania csqv table when it was downloaded on 2026-09-29 at 21:32 (UTC-6) (5.776999746200 and 8.389775077490). This is a time-stamped comparison: the table changes several times a day and three other packings of ours (n=150, 188, 200) that were ahead in the morning had been overtaken by the afternoon. Both packings are rigid (3n active constraints, positive multipliers), structurally different from the listed configurations, and pass an independent exact verifier (rational and 60-digit arithmetic) and a from-scratch third-party validator with zero tolerance.</p><p>For the first autocorrelation inequality we provide an exact-arithmetic verifier (no floating-point FFT) for step functions with up to N=38,400 pieces and show that partial re-melting reaches a certified 1.505274644 (N=19,200), which is better than the first AlphaEvolve bound (1.50530) but above the later 1.50317 and 1.50287 and is therefore not a record. Matched-only cases, overtaken cases, a tie (n=110), a precision artifact (n=27) and the overshoot of float scores (up to 5e-11) are documented.</p><p>AI-use disclosure: the software implementation, automated testing, experiment execution and a first draft of the documentation were produced with Claude Code using the Claude Sonnet 5.5 model (Anthropic), under the direction of the author, who defined the research goals, chose the problems and methods, reviewed the results and the manuscript, and takes full responsibility for the content. The AI system is not an author.</p>",
+  "creators": [
+    {"name": "López Preciado, Elian Alfonso", "affiliation": "Independent Researcher"}
+  ],
+  "keywords": ["circle packing", "sum of radii", "Packomania", "autocorrelation inequality", "exact verification", "certificates", "reproducibility"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0",
+  "notes": "Code is MIT-licensed (see LICENSE in the archive); data and paper are CC-BY-4.0; Packomania tables and coordinate files are not redistributed. Packomania data is NOT included in this deposition (see docs/packomania_data.md in the code archive for URLs and checksums). Comparisons with Packomania are valid only at the stated download time.",
+  "related_identifiers": [
+    {"identifier": "https://github.com/elianalfonsolopezpreciado/certified-packings", "relation": "isSupplementedBy", "resource_type": "software", "scheme": "url"},
+    {"identifier": "https://www.packomania.com/csqv/csqv.html", "relation": "references", "scheme": "url"},
+    {"identifier": "arXiv:2601.16175", "relation": "references", "scheme": "arxiv"},
+    {"identifier": "arXiv:2506.13131", "relation": "references", "scheme": "arxiv"}
+  ]
+}

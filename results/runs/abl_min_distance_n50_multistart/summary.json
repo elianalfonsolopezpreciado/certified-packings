@@ -1,0 +1,49 @@
+{
+ "name": "abl_min_distance_n50_multistart",
+ "problem": "min_distance",
+ "n": 50,
+ "method": "multistart",
+ "seed": 51,
+ "workers": 12,
+ "rounds": 6,
+ "elapsed_s": 136.3235945701599,
+ "best_score": 0.16652657734355034,
+ "status": "match",
+ "record": 0.166526577344,
+ "hist": [
+  [
+   25.024600744247437,
+   0.16578521118490255
+  ],
+  [
+   43.85003852844238,
+   0.16600877855040969
+  ],
+  [
+   67.18645286560059,
+   0.16652657734355034
+  ],
+  [
+   87.89568877220154,
+   0.16652657734355034
+  ],
+  [
+   113.42077136039734,
+   0.16652657734355034
+  ],
+  [
+   136.2905821800232,
+   0.16652657734355034
+  ]
+ ],
+ "cfg": {
+  "name": "abl_min_distance_n50_multistart",
+  "problem": "min_distance",
+  "n": 50,
+  "method": "multistart",
+  "seed": 51,
+  "workers": 12,
+  "iters_per_round": 20,
+  "time_limit_s": 120
+ }
+}

@@ -1,0 +1,240 @@
+== certificates/A_n100.json
+[fraction-exact] problem=sum_radii n=100 valid=True certified_score=5.260274528661042358423884 raw_score=5.260274528761042358423884 max_violation=-3.304235645902064518069732e-13
+[mpmath-60dps] problem=sum_radii n=100 valid=True certified_score=5.260274528661042358423884 raw_score=5.260274528761042358423884 max_violation=-3.304235645902064518069732e-13
+== certificates/A_n110.json
+[fraction-exact] problem=sum_radii n=110 valid=True certified_score=5.531919536295513381584940 raw_score=5.531919536405513381584940 max_violation=-2.825451827890790831518775e-13
+[mpmath-60dps] problem=sum_radii n=110 valid=True certified_score=5.531919536295513381584940 raw_score=5.531919536405513381584940 max_violation=-2.825451827890790831518775e-13
+== certificates/A_n116.json
+[fraction-exact] problem=sum_radii n=116 valid=True certified_score=5.674350310136209319906148 raw_score=5.674350310252209319906148 max_violation=-3.118067416370419315781831e-13
+[mpmath-60dps] problem=sum_radii n=116 valid=True certified_score=5.674350310136209319906148 raw_score=5.674350310252209319906148 max_violation=-3.118067416370419315781831e-13
+== certificates/A_n120.json
+[fraction-exact] problem=sum_radii n=120 valid=True certified_score=5.777303097324863813281287 raw_score=5.777303097444863813281287 max_violation=-3.050643653343149447957705e-13
+[mpmath-60dps] problem=sum_radii n=120 valid=True certified_score=5.777303097324863813281287 raw_score=5.777303097444863813281287 max_violation=-3.050643653343149447957705e-13
+== certificates/A_n130.json
+[fraction-exact] problem=sum_radii n=130 valid=True certified_score=6.022051095183845950627771 raw_score=6.022051095313845950627771 max_violation=-2.941194376412256878095635e-13
+[mpmath-60dps] problem=sum_radii n=130 valid=True certified_score=6.022051095183845950627771 raw_score=6.022051095313845950627771 max_violation=-2.941194376412256878095635e-13
+== certificates/A_n138.json
+[fraction-exact] problem=sum_radii n=138 valid=True certified_score=6.200571369732286232666737 raw_score=6.200571369870286232666737 max_violation=-2.781747241762462588309633e-13
+[mpmath-60dps] problem=sum_radii n=138 valid=True certified_score=6.200571369732286232666737 raw_score=6.200571369870286232666737 max_violation=-2.781747241762462588309633e-13
+== certificates/A_n139.json
+[fraction-exact] problem=sum_radii n=139 valid=True certified_score=6.222197558678453148625013 raw_score=6.222197558817453148625013 max_violation=-2.697399055581582933381720e-13
+[mpmath-60dps] problem=sum_radii n=139 valid=True certified_score=6.222197558678453148625013 raw_score=6.222197558817453148625013 max_violation=-2.697399055581582933381720e-13
+== certificates/A_n140.json
+[fraction-exact] problem=sum_radii n=140 valid=True certified_score=6.247177080533278008054160 raw_score=6.247177080673278008054160 max_violation=-2.742088824935713804139990e-13
+[mpmath-60dps] problem=sum_radii n=140 valid=True certified_score=6.247177080533278008054160 raw_score=6.247177080673278008054160 max_violation=-2.742088824935713804139990e-13
+== certificates/A_n150.json
+[fraction-exact] problem=sum_radii n=150 valid=True certified_score=6.476386129251872389911798 raw_score=6.476386129401872389911798 max_violation=-2.624597157427033388702453e-13
+[mpmath-60dps] problem=sum_radii n=150 valid=True certified_score=6.476386129251872389911798 raw_score=6.476386129401872389911798 max_violation=-2.624597157427033388702453e-13
+== certificates/A_n159.json
+[fraction-exact] problem=sum_radii n=159 valid=True certified_score=6.661302273273530314112986 raw_score=6.661302273432530314112986 max_violation=-2.650601771522627526045234e-13
+[mpmath-60dps] problem=sum_radii n=159 valid=True certified_score=6.661302273273530314112986 raw_score=6.661302273432530314112986 max_violation=-2.650601771522627526045234e-13
+== certificates/A_n160.json
+[fraction-exact] problem=sum_radii n=160 valid=True certified_score=6.685419109853676784276513 raw_score=6.685419110013676784276513 max_violation=-2.633058446388802479711695e-13
+[mpmath-60dps] problem=sum_radii n=160 valid=True certified_score=6.685419109853676784276513 raw_score=6.685419110013676784276513 max_violation=-2.633058446388802479711695e-13
+== certificates/A_n170.json
+[fraction-exact] problem=sum_radii n=170 valid=True certified_score=6.900527316868588201902049 raw_score=6.900527317038588201902049 max_violation=-2.539700663388702809175137e-13
+[mpmath-60dps] problem=sum_radii n=170 valid=True certified_score=6.900527316868588201902049 raw_score=6.900527317038588201902049 max_violation=-2.539700663388702809175137e-13
+== certificates/A_n180.json
+[fraction-exact] problem=sum_radii n=180 valid=True certified_score=7.099028311378482340948869 raw_score=7.099028311558482340948869 max_violation=-2.452369630436097619424272e-13
+[mpmath-60dps] problem=sum_radii n=180 valid=True certified_score=7.099028311378482340948869 raw_score=7.099028311558482340948869 max_violation=-2.452369630436097619424272e-13
+== certificates/A_n188.json
+[fraction-exact] problem=sum_radii n=188 valid=True certified_score=7.255065344874582388118641 raw_score=7.255065345062582388118641 max_violation=-2.309218459982692088820647e-13
+[mpmath-60dps] problem=sum_radii n=188 valid=True certified_score=7.255065344874582388118641 raw_score=7.255065345062582388118641 max_violation=-2.309218459982692088820647e-13
+== certificates/A_n200.json
+[fraction-exact] problem=sum_radii n=200 valid=True certified_score=7.489453882461896622919492 raw_score=7.489453882661896622919492 max_violation=-2.391357867543604941528280e-13
+[mpmath-60dps] problem=sum_radii n=200 valid=True certified_score=7.489453882461896622919492 raw_score=7.489453882661896622919492 max_violation=-2.391357867543604941528280e-13
+== certificates/A_n250.json
+[fraction-exact] problem=sum_radii n=250 valid=True certified_score=8.389973532587682271310746 raw_score=8.389973532837682271310746 max_violation=-2.234076419409456284015323e-13
+[mpmath-60dps] problem=sum_radii n=250 valid=True certified_score=8.389973532587682271310746 raw_score=8.389973532837682271310746 max_violation=-2.234076419409456284015323e-13
+== certificates/autocorr1_n1319.json
+[fraction-exact-int] problem=autocorr1 n=1319 valid=True certified_score=1.50749739555445378626478803223 raw_score=1.50749739555445378626478803223 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=1319 valid=True certified_score=1.50749739555445378626478803223 raw_score=1.50749739555445378626478803223 max_violation=0
+== certificates/autocorr1_n200.json
+[fraction-exact-int] problem=autocorr1 n=200 valid=True certified_score=1.50935354670643748758433184664 raw_score=1.50935354670643748758433184664 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=200 valid=True certified_score=1.50935354670643748758433184664 raw_score=1.50935354670643748758433184664 max_violation=0
+== certificates/autocorr1_n50.json
+[fraction-exact-int] problem=autocorr1 n=50 valid=True certified_score=1.51706933905971775063001587462 raw_score=1.51706933905971775063001587462 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=50 valid=True certified_score=1.51706933905971775063001587462 raw_score=1.51706933905971775063001587462 max_violation=0
+== certificates/autocorr1_n600.json
+[fraction-exact-int] problem=autocorr1 n=600 valid=True certified_score=1.50652518144379931669782646039 raw_score=1.50652518144379931669782646039 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=600 valid=True certified_score=1.50652518144379931669782646039 raw_score=1.50652518144379931669782646039 max_violation=0
+== certificates/autocorr1_n95.json
+[fraction-exact-int] problem=autocorr1 n=95 valid=True certified_score=1.51177119936813317222553285451 raw_score=1.51177119936813317222553285451 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=95 valid=True certified_score=1.51177119936813317222553285451 raw_score=1.51177119936813317222553285451 max_violation=0
+== certificates/min_distance_n10.json
+[fraction-exact] problem=min_distance n=10 valid=True certified_score=0.421279543983903432768821760650 raw_score=0.421279543983903432768821760650 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=10 valid=True certified_score=0.421279543983903432768821760650 raw_score=0.421279543983903432768821760650 max_violation=0
+== certificates/min_distance_n15.json
+[fraction-exact] problem=min_distance n=15 valid=True certified_score=0.341081377402108877637121191352 raw_score=0.341081377402108877637121191352 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=15 valid=True certified_score=0.341081377402108877637121191352 raw_score=0.341081377402108877637121191352 max_violation=0
+== certificates/min_distance_n20.json
+[fraction-exact] problem=min_distance n=20 valid=True certified_score=0.286611652351681559449894454737 raw_score=0.286611652351681559449894454737 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=20 valid=True certified_score=0.286611652351681559449894454737 raw_score=0.286611652351681559449894454737 max_violation=0
+== certificates/min_distance_n25.json
+[fraction-exact] problem=min_distance n=25 valid=True certified_score=0.250000000000000000000000000000 raw_score=0.250000000000000000000000000000 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=25 valid=True certified_score=0.250000000000000000000000000000 raw_score=0.250000000000000000000000000000 max_violation=0
+== certificates/min_distance_n30.json
+[fraction-exact] problem=min_distance n=30 valid=True certified_score=0.224502964531088275573348086074 raw_score=0.224502964531088275573348086074 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=30 valid=True certified_score=0.224502964531088275573348086074 raw_score=0.224502964531088275573348086074 max_violation=0
+== certificates/min_distance_n31.json
+[fraction-exact] problem=min_distance n=31 valid=True certified_score=0.217547291619124453229498484723 raw_score=0.217547291619124453229498484723 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=31 valid=True certified_score=0.217547291619124453229498484723 raw_score=0.217547291619124453229498484723 max_violation=0
+== certificates/min_distance_n32.json
+[fraction-exact] problem=min_distance n=32 valid=True certified_score=0.213174562589876532673591443375 raw_score=0.213174562589876532673591443375 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=32 valid=True certified_score=0.213174562589876532673591443375 raw_score=0.213174562589876532673591443375 max_violation=0
+== certificates/min_distance_n33.json
+[fraction-exact] problem=min_distance n=33 valid=True certified_score=0.211328384143263135492079924874 raw_score=0.211328384143263135492079924874 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=33 valid=True certified_score=0.211328384143263135492079924874 raw_score=0.211328384143263135492079924874 max_violation=0
+== certificates/min_distance_n34.json
+[fraction-exact] problem=min_distance n=34 valid=True certified_score=0.205604646759568224693193969093 raw_score=0.205604646759568224693193969093 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=34 valid=True certified_score=0.205604646759568224693193969093 raw_score=0.205604646759568224693193969093 max_violation=0
+== certificates/min_distance_n35.json
+[fraction-exact] problem=min_distance n=35 valid=True certified_score=0.202763600863227048777929545753 raw_score=0.202763600863227048777929545753 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=35 valid=True certified_score=0.202763600863227048777929545753 raw_score=0.202763600863227048777929545753 max_violation=0
+== certificates/min_distance_n36.json
+[fraction-exact] problem=min_distance n=36 valid=True certified_score=0.200000000000000000000000000000 raw_score=0.200000000000000000000000000000 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=36 valid=True certified_score=0.200000000000000000000000000000 raw_score=0.200000000000000000000000000000 max_violation=0
+== certificates/min_distance_n37.json
+[fraction-exact] problem=min_distance n=37 valid=True certified_score=0.196429184629568997838626302562 raw_score=0.196429184629568997838626302562 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=37 valid=True certified_score=0.196429184629568997838626302562 raw_score=0.196429184629568997838626302562 max_violation=0
+== certificates/min_distance_n38.json
+[fraction-exact] problem=min_distance n=38 valid=True certified_score=0.195342304126905900273112801034 raw_score=0.195342304126905900273112801034 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=38 valid=True certified_score=0.195342304126905900273112801034 raw_score=0.195342304126905900273112801034 max_violation=0
+== certificates/min_distance_n39.json
+[fraction-exact] problem=min_distance n=39 valid=True certified_score=0.194365063161510015695805095918 raw_score=0.194365063161510015695805095918 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=39 valid=True certified_score=0.194365063161510015695805095918 raw_score=0.194365063161510015695805095918 max_violation=0
+== certificates/min_distance_n40.json
+[fraction-exact] problem=min_distance n=40 valid=True certified_score=0.188175522018315453787532891212 raw_score=0.188175522018315453787532891212 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=40 valid=True certified_score=0.188175522018315453787532891212 raw_score=0.188175522018315453787532891212 max_violation=0
+== certificates/min_distance_n41.json
+[fraction-exact] problem=min_distance n=41 valid=True certified_score=0.186099511848124556123865658327 raw_score=0.186099511848124556123865658327 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=41 valid=True certified_score=0.186099511848124556123865658327 raw_score=0.186099511848124556123865658327 max_violation=0
+== certificates/min_distance_n42.json
+[fraction-exact] problem=min_distance n=42 valid=True certified_score=0.184277072117098926478785467479 raw_score=0.184277072117098926478785467479 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=42 valid=True certified_score=0.184277072117098926478785467479 raw_score=0.184277072117098926478785467479 max_violation=0
+== certificates/min_distance_n43.json
+[fraction-exact] problem=min_distance n=43 valid=True certified_score=0.180191135457425956798065671241 raw_score=0.180191135457425956798065671241 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=43 valid=True certified_score=0.180191135457425956798065671241 raw_score=0.180191135457425956798065671241 max_violation=0
+== certificates/min_distance_n44.json
+[fraction-exact] problem=min_distance n=44 valid=True certified_score=0.178639245671200889655388983438 raw_score=0.178639245671200889655388983438 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=44 valid=True certified_score=0.178639245671200889655388983438 raw_score=0.178639245671200889655388983438 max_violation=0
+== certificates/min_distance_n45.json
+[fraction-exact] problem=min_distance n=45 valid=True certified_score=0.175716314175589846017156317742 raw_score=0.175716314175589846017156317742 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=45 valid=True certified_score=0.175716314175589846017156317742 raw_score=0.175716314175589846017156317742 max_violation=0
+== certificates/min_distance_n46.json
+[fraction-exact] problem=min_distance n=46 valid=True certified_score=0.174459360872413203234903861303 raw_score=0.174459360872413203234903861303 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=46 valid=True certified_score=0.174459360872413203234903861303 raw_score=0.174459360872413203234903861303 max_violation=0
+== certificates/min_distance_n47.json
+[fraction-exact] problem=min_distance n=47 valid=True certified_score=0.171270563822987220137903144197 raw_score=0.171270563822987220137903144197 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=47 valid=True certified_score=0.171270563822987220137903144197 raw_score=0.171270563822987220137903144197 max_violation=0
+== certificates/min_distance_n48.json
+[fraction-exact] problem=min_distance n=48 valid=True certified_score=0.169405429370288096853431066357 raw_score=0.169405429370288096853431066357 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=48 valid=True certified_score=0.169405429370288096853431066357 raw_score=0.169405429370288096853431066357 max_violation=0
+== certificates/min_distance_n49.json
+[fraction-exact] problem=min_distance n=49 valid=True certified_score=0.167386076868325407948667740525 raw_score=0.167386076868325407948667740525 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=49 valid=True certified_score=0.167386076868325407948667740525 raw_score=0.167386076868325407948667740525 max_violation=0
+== certificates/min_distance_n50.json
+[fraction-exact] problem=min_distance n=50 valid=True certified_score=0.166526577343550707602077799846 raw_score=0.166526577343550707602077799846 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=50 valid=True certified_score=0.166526577343550707602077799846 raw_score=0.166526577343550707602077799846 max_violation=0
+== certificates/min_distance_n51.json
+[fraction-exact] problem=min_distance n=51 valid=True certified_score=0.165618374312594797328771838599 raw_score=0.165618374312594797328771838599 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=51 valid=True certified_score=0.165618374312594797328771838599 raw_score=0.165618374312594797328771838599 max_violation=0
+== certificates/min_distance_n52.json
+[fraction-exact] problem=min_distance n=52 valid=True certified_score=0.165386237969640529862292226679 raw_score=0.165386237969640529862292226679 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=52 valid=True certified_score=0.165386237969640529862292226679 raw_score=0.165386237969640529862292226679 max_violation=0
+== certificates/min_distance_n53.json
+[fraction-exact] problem=min_distance n=53 valid=True certified_score=0.162648077424770238765761023445 raw_score=0.162648077424770238765761023445 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=53 valid=True certified_score=0.162648077424770238765761023445 raw_score=0.162648077424770238765761023445 max_violation=0
+== certificates/min_distance_n54.json
+[fraction-exact] problem=min_distance n=54 valid=True certified_score=0.159139516307189745750491914975 raw_score=0.159139516307189745750491914975 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=54 valid=True certified_score=0.159139516307189745750491914975 raw_score=0.159139516307189745750491914975 max_violation=0
+== certificates/min_distance_n55.json
+[fraction-exact] problem=min_distance n=55 valid=True certified_score=0.157555747529721900779385929688 raw_score=0.157555747529721900779385929688 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=55 valid=True certified_score=0.157555747529721900779385929688 raw_score=0.157555747529721900779385929688 max_violation=0
+== certificates/min_distance_n56.json
+[fraction-exact] problem=min_distance n=56 valid=True certified_score=0.156156500462147178018025515378 raw_score=0.156156500462147178018025515378 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=56 valid=True certified_score=0.156156500462147178018025515378 raw_score=0.156156500462147178018025515378 max_violation=0
+== certificates/min_distance_n57.json
+[fraction-exact] problem=min_distance n=57 valid=True certified_score=0.154747406943575157196228417844 raw_score=0.154747406943575157196228417844 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=57 valid=True certified_score=0.154747406943575157196228417844 raw_score=0.154747406943575157196228417844 max_violation=0
+== certificates/min_distance_n58.json
+[fraction-exact] problem=min_distance n=58 valid=True certified_score=0.152692531391223377922003488297 raw_score=0.152692531391223377922003488297 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=58 valid=True certified_score=0.152692531391223377922003488297 raw_score=0.152692531391223377922003488297 max_violation=0
+== certificates/min_distance_n59.json
+[fraction-exact] problem=min_distance n=59 valid=True certified_score=0.151562950613614202473276994896 raw_score=0.151562950613614202473276994896 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=59 valid=True certified_score=0.151562950613614202473276994896 raw_score=0.151562950613614202473276994896 max_violation=0
+== certificates/min_distance_n60.json
+[fraction-exact] problem=min_distance n=60 valid=True certified_score=0.149505654048667538884669306102 raw_score=0.149505654048667538884669306102 max_violation=0.0
+[mpmath-60dps] problem=min_distance n=60 valid=True certified_score=0.149505654048667538884669306102 raw_score=0.149505654048667538884669306102 max_violation=0
+== certificates/sum_radii_n26.json
+[fraction-exact] problem=sum_radii n=26 valid=True certified_score=2.635983084891607783186569 raw_score=2.635983084917607783186569 max_violation=-6.462889117087733353270514e-13
+[mpmath-60dps] problem=sum_radii n=26 valid=True certified_score=2.635983084891607783186569 raw_score=2.635983084917607783186569 max_violation=-6.462889117087733353270514e-13
+== certificates/sum_radii_n27.json
+[fraction-exact] problem=sum_radii n=27 valid=True certified_score=2.685978684198346228226695 raw_score=2.685978684225346228226695 max_violation=-6.268235928959022119865652e-13
+[mpmath-60dps] problem=sum_radii n=27 valid=True certified_score=2.685978684198346228226695 raw_score=2.685978684225346228226695 max_violation=-6.268235928959022119865652e-13
+== certificates/sum_radii_n28.json
+[fraction-exact] problem=sum_radii n=28 valid=True certified_score=2.737739985504671657006017 raw_score=2.737739985532671657006017 max_violation=-6.476719069830128788584256e-13
+[mpmath-60dps] problem=sum_radii n=28 valid=True certified_score=2.737739985504671657006017 raw_score=2.737739985532671657006017 max_violation=-6.476719069830128788584256e-13
+== certificates/sum_radii_n29.json
+[fraction-exact] problem=sum_radii n=29 valid=True certified_score=2.790344154596654102112663 raw_score=2.790344154625654102112663 max_violation=-6.235012083238109319579629e-13
+[mpmath-60dps] problem=sum_radii n=29 valid=True certified_score=2.790344154596654102112663 raw_score=2.790344154625654102112663 max_violation=-6.235012083238109319579629e-13
+== certificates/sum_radii_n30.json
+[fraction-exact] problem=sum_radii n=30 valid=True certified_score=2.842668747434101322725139 raw_score=2.842668747464101322725139 max_violation=-6.170897324183566122613148e-13
+[mpmath-60dps] problem=sum_radii n=30 valid=True certified_score=2.842668747434101322725139 raw_score=2.842668747464101322725139 max_violation=-6.170897324183566122613148e-13
+== certificates/sum_radii_n31.json
+[fraction-exact] problem=sum_radii n=31 valid=True certified_score=2.889969851901196898216302 raw_score=2.889969851932196898216302 max_violation=-6.245785027314759950146321e-13
+[mpmath-60dps] problem=sum_radii n=31 valid=True certified_score=2.889969851901196898216302 raw_score=2.889969851932196898216302 max_violation=-6.245785027314759950146321e-13
+== certificates/sum_radii_n32.json
+[fraction-exact] problem=sum_radii n=32 valid=True certified_score=2.939572771174323634996322 raw_score=2.939572771206323634996322 max_violation=-6.154850134547274223648891e-13
+[mpmath-60dps] problem=sum_radii n=32 valid=True certified_score=2.939572771174323634996322 raw_score=2.939572771206323634996322 max_violation=-6.154850134547274223648891e-13
+== certificates/sum_radii_n33.json
+[fraction-exact] problem=sum_radii n=33 valid=True certified_score=2.987285008558274169537954 raw_score=2.987285008591274169537954 max_violation=-6.161391574744713923937969e-13
+[mpmath-60dps] problem=sum_radii n=33 valid=True certified_score=2.987285008558274169537954 raw_score=2.987285008591274169537954 max_violation=-6.161391574744713923937969e-13
+== certificates/sum_radii_n34.json
+[fraction-exact] problem=sum_radii n=34 valid=True certified_score=3.029799271153865969767692 raw_score=3.029799271187865969767692 max_violation=-5.751981686875971347033282e-13
+[mpmath-60dps] problem=sum_radii n=34 valid=True certified_score=3.029799271153865969767692 raw_score=3.029799271187865969767692 max_violation=-5.751981686875971347033282e-13
+== certificates/sum_radii_n35.json
+[fraction-exact] problem=sum_radii n=35 valid=True certified_score=3.074036363692781972568376 raw_score=3.074036363727781972568376 max_violation=-5.775660103024456592576426e-13
+[mpmath-60dps] problem=sum_radii n=35 valid=True certified_score=3.074036363692781972568376 raw_score=3.074036363727781972568376 max_violation=-5.775660103024456592576426e-13
+== certificates/sum_radii_n36.json
+[fraction-exact] problem=sum_radii n=36 valid=True certified_score=3.121754486064678094044373 raw_score=3.121754486100678094044373 max_violation=-5.514290630443198458093993e-13
+[mpmath-60dps] problem=sum_radii n=36 valid=True certified_score=3.121754486064678094044373 raw_score=3.121754486100678094044373 max_violation=-5.514290630443198458093993e-13
+== certificates/sum_radii_n37.json
+[fraction-exact] problem=sum_radii n=37 valid=True certified_score=3.161498916140463300640420 raw_score=3.161498916177463300640420 max_violation=-5.479401139530704832253323e-13
+[mpmath-60dps] problem=sum_radii n=37 valid=True certified_score=3.161498916140463300640420 raw_score=3.161498916177463300640420 max_violation=-5.479401139530704832253323e-13
+== certificates/sum_radii_n38.json
+[fraction-exact] problem=sum_radii n=38 valid=True certified_score=3.205945627934098690702457 raw_score=3.205945627972098690702457 max_violation=-5.332071062468582583909943e-13
+[mpmath-60dps] problem=sum_radii n=38 valid=True certified_score=3.205945627934098690702457 raw_score=3.205945627972098690702457 max_violation=-5.332071062468582583909943e-13
+== certificates/sum_radii_n39.json
+[fraction-exact] problem=sum_radii n=39 valid=True certified_score=3.248110798134395588514718 raw_score=3.248110798173395588514718 max_violation=-5.322406104637023014519932e-13
+[mpmath-60dps] problem=sum_radii n=39 valid=True certified_score=3.248110798134395588514718 raw_score=3.248110798173395588514718 max_violation=-5.322406104637023014519932e-13
+== certificates/sum_radii_n40.json
+[fraction-exact] problem=sum_radii n=40 valid=True certified_score=3.292391572568949984013321 raw_score=3.292391572608949984013321 max_violation=-5.383309174202408085350298e-13
+[mpmath-60dps] problem=sum_radii n=40 valid=True certified_score=3.292391572568949984013321 raw_score=3.292391572608949984013321 max_violation=-5.383309174202408085350298e-13
+== certificates/C_N1200.json
+[fraction-exact-int] problem=autocorr1 n=1200 valid=True certified_score=1.50652518144810291326719275121 raw_score=1.50652518144810291326719275121 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=1200 valid=True certified_score=1.50652518144810291326719275121 raw_score=1.50652518144810291326719275121 max_violation=0
+== certificates/C_N150.json
+[fraction-exact-int] problem=autocorr1 n=150 valid=True certified_score=1.51025673336093196533654805061 raw_score=1.51025673336093196533654805061 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=150 valid=True certified_score=1.51025673336093196533654805061 raw_score=1.51025673336093196533654805061 max_violation=0
+== certificates/C_N2400.json
+[fraction-exact-int] problem=autocorr1 n=2400 valid=True certified_score=1.50652518144810291441124189245 raw_score=1.50652518144810291441124189245 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=2400 valid=True certified_score=1.50652518144810291441124189245 raw_score=1.50652518144810291441124189245 max_violation=0
+== certificates/C_N300.json
+[fraction-exact-int] problem=autocorr1 n=300 valid=True certified_score=1.50821262189435302254054738241 raw_score=1.50821262189435302254054738241 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=300 valid=True certified_score=1.50821262189435302254054738241 raw_score=1.50821262189435302254054738241 max_violation=0
+== certificates/C_N4800.json
+[fraction-exact-int] problem=autocorr1 n=4800 valid=True certified_score=1.50652518144810290332397243741 raw_score=1.50652518144810290332397243741 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=4800 valid=True certified_score=1.50652518144810290332397243741 raw_score=1.50652518144810290332397243741 max_violation=0
+== certificates/C_N600.json
+[fraction-exact-int] problem=autocorr1 n=600 valid=True certified_score=1.50652518144379931669782646039 raw_score=1.50652518144379931669782646039 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=600 valid=True certified_score=1.50652518144379931669782646039 raw_score=1.50652518144379931669782646039 max_violation=0
+== certificates/C_N19200.json.gz
+[fraction-exact-int] problem=autocorr1 n=19200 valid=True certified_score=1.50652518144810292785157720816 raw_score=1.50652518144810292785157720816 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=19200 valid=True certified_score=1.50652518144810292785157720816 raw_score=1.50652518144810292785157720816 max_violation=0
+== certificates/C_N38400.json.gz
+[fraction-exact-int] problem=autocorr1 n=38400 valid=True certified_score=1.50652518144810291503154186845 raw_score=1.50652518144810291503154186845 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=38400 valid=True certified_score=1.50652518144810291503154186845 raw_score=1.50652518144810291503154186845 max_violation=0
+== certificates/C_N9600.json.gz
+[fraction-exact-int] problem=autocorr1 n=9600 valid=True certified_score=1.50652518144810293394303275078 raw_score=1.50652518144810293394303275078 max_violation=0
+[mpmath-60dps] problem=autocorr1 n=9600 valid=True certified_score=1.50652518144810293394303275078 raw_score=1.50652518144810293394303275078 max_violation=0

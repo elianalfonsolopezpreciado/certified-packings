@@ -1,0 +1,16 @@
+[upsample 4800->4800] 147s start ratio 1.505794010  best 1.505794010 (row 0)
+best float at N: 1.5057940097655478
+[upsample 4800->4800] 151s start ratio 1.505794010  best 1.505789635 (row 8)
+best float at N: 1.5057896352627926
+[upsample 4800->4800] 149s start ratio 1.505789635  best 1.505686664 (row 7)
+best float at N: 1.505686663787386
+[upsample 4800->4800] 150s start ratio 1.505686664  best 1.505648220 (row 19)
+best float at N: 1.5056482198121097
+[upsample 4800->4800] 143s start ratio 1.505648220  best 1.505648220 (row 0)
+best float at N: 1.5056482198121097
+[upsample 4800->4800] 138s start ratio 1.505648220  best 1.505630633 (row 14)
+best float at N: 1.505630632643441
+[upsample 4800->4800] 155s start ratio 1.505630633  best 1.505561587 (row 4)
+best float at N: 1.505561586621512
+[upsample 4800->4800] 166s start ratio 1.505561587  best 1.505544301 (row 22)
+best float at N: 1.505544301345968

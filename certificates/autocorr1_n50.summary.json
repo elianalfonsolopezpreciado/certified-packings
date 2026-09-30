@@ -1,0 +1,8 @@
+{
+ "name": "autocorr1_n50",
+ "ok": true,
+ "certified_score_fraction": "1.51706933905971775063001587462",
+ "certified_score_mpmath": "1.51706933905971775063001587462",
+ "record": 1.50287,
+ "status": "above-record"
+}

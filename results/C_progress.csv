@@ -1,0 +1,68 @@
+time,N,kind,method,seed,ratio,note
+2026-09-29 (task 1),50,certified,gpu-pnorm+slp,,1.517069339059,Task 1 certificate autocorr1_n50.json
+2026-09-29 (task 1),95,certified,gpu-pnorm+slp,,1.511771199368,Task 1 certificate autocorr1_n95.json
+2026-09-29 (task 1),200,certified,gpu-pnorm+slp,,1.509353546706,Task 1 certificate autocorr1_n200.json
+2026-09-29 (task 1),600,certified,gpu-pnorm+slp,,1.506525181443,Task 1 certificate autocorr1_n600.json
+2026-09-29 (task 1),1319,certified,gpu-pnorm+slp,,1.507497395554,Task 1 certificate autocorr1_n1319.json
+2026-09-29 09:43:36,75,float,gpu-multilevel,5,1.519047524311,N0=75 levels=4 B=64
+2026-09-29 09:44:38,150,float,gpu-multilevel,5,1.513985436294,N0=75 levels=4 B=64
+2026-09-29 09:45:38,300,float,gpu-multilevel,5,1.513985436294,N0=75 levels=4 B=64
+2026-09-29 09:48:06,2400,float,gpu-homotopy,102,1.514046359895,B=16 stages=60 steps=1500
+2026-09-29 10:03:16,300,float,gpu-homotopy,111,1.508871126115,B=384 stages=30 steps=800
+2026-09-29 10:04:39,300,float,gpu-homotopy+slp,111,1.508275220913,B=384 stages=30 steps=800
+2026-09-29 10:05:34,300,float,gpu-homotopy+slp,111,1.508212621894,B=384 stages=30 steps=800
+2026-09-29 10:11:27,150,float,gpu-homotopy,112,1.511005148346,B=768 stages=30 steps=800
+2026-09-29 10:11:28,150,float,gpu-homotopy+slp,112,1.510256733361,B=768 stages=30 steps=800
+2026-09-29 10:13:54,1200,float,gpu-upsample,7,1.506525181448,600->1200 noise=0.003
+2026-09-29 10:27:05,2400,float,gpu-upsample,7,1.506525181448,1200->2400 noise=0.003
+2026-09-29 11:19:41,150,certified,verify(kronecker|limbs),,1.510256733361,exact; both backends agree
+2026-09-29 11:19:43,300,certified,verify(kronecker|limbs),,1.508212621894,exact; both backends agree
+2026-09-29 11:19:46,600,certified,verify(kronecker|limbs),,1.506525181444,exact; both backends agree
+2026-09-29 11:19:48,1200,certified,verify(kronecker|limbs),,1.506525181448,exact; both backends agree
+2026-09-29 11:19:50,2400,certified,verify(kronecker|limbs),,1.506525181448,exact; both backends agree
+2026-09-29 11:20:43,4800,float,gpu-upsample,7,1.506525181448,2400->4800 noise=0.003
+2026-09-29 11:22:19,9600,float,gpu-upsample,7,1.506525181448,4800->9600 noise=0.003
+2026-09-29 11:23:26,19200,float,gpu-upsample,7,1.506525181448,9600->19200 noise=0.003
+2026-09-29 11:25:11,38400,float,gpu-upsample,7,1.506525181448,19200->38400 noise=0.003
+2026-09-29 17:23:09,4800,certified,verify(kronecker|limbs),,1.506525181448,exact; both backends agree
+2026-09-29 17:23:12,9600,certified,verify(kronecker|limbs),,1.506525181448,exact; both backends agree
+2026-09-29 17:23:17,19200,certified,verify(kronecker|limbs),,1.506525181448,exact; both backends agree
+2026-09-29 17:23:31,38400,certified,verify(kronecker|limbs),,1.506525181448,exact; both backends agree
+2026-09-29 17:27:43,1200,float,gpu-upsample,201,1.506210182952,600->1200 noise=0.05
+2026-09-29 17:41:21,2400,float,gpu-upsample,301,1.505932518993,1200->2400 noise=0.05
+2026-09-29 17:43:48,4800,float,gpu-upsample,301,1.505794009766,2400->4800 noise=0.05
+2026-09-29 17:46:39,9600,float,gpu-upsample,301,1.505756647225,4800->9600 noise=0.05
+2026-09-29 17:48:17,1200,float,gpu-upsample,202,1.505817556509,600->1200 noise=0.1
+2026-09-29 17:50:08,19200,float,gpu-upsample,301,1.505756647149,9600->19200 noise=0.05
+2026-09-29 17:53:08,38400,float,gpu-upsample,301,1.505756647149,19200->38400 noise=0.05
+2026-09-29 17:59:03,4800,float,gpu-upsample,402,1.505789635263,4800->4800 noise=0.05
+2026-09-29 18:01:54,4800,float,gpu-upsample,403,1.505686663787,4800->4800 noise=0.05
+2026-09-29 18:04:28,4800,float,gpu-upsample,404,1.505648219812,4800->4800 noise=0.1
+2026-09-29 18:09:16,4800,float,gpu-upsample,406,1.505630632643,4800->4800 noise=0.05
+2026-09-29 18:12:06,4800,float,gpu-upsample,407,1.505561586622,4800->4800 noise=0.05
+2026-09-29 18:15:14,4800,float,gpu-upsample,408,1.505544301346,4800->4800 noise=0.1
+2026-09-29 18:16:41,9600,float,gpu-upsample,601,1.505649407558,9600->9600 noise=0.05
+2026-09-29 18:17:55,4800,float,gpu-upsample,501,1.505528754771,4800->4800 noise=0.05
+2026-09-29 18:19:21,9600,float,gpu-upsample,602,1.505508413743,9600->9600 noise=0.05
+2026-09-29 18:20:32,4800,float,gpu-upsample,502,1.505477964609,4800->4800 noise=0.05
+2026-09-29 18:21:53,9600,float,gpu-upsample,603,1.505381104701,9600->9600 noise=0.03
+2026-09-29 18:23:01,4800,float,gpu-upsample,503,1.505434002708,4800->4800 noise=0.03
+2026-09-29 18:24:30,9600,float,gpu-upsample,604,1.505370828690,9600->9600 noise=0.08
+2026-09-29 18:25:33,4800,float,gpu-upsample,504,1.505434002628,4800->4800 noise=0.08
+2026-09-29 18:27:10,9600,float,gpu-upsample,605,1.505323316559,9600->9600 noise=0.05
+2026-09-29 18:28:10,4800,float,gpu-upsample,505,1.505369012897,4800->4800 noise=0.05
+2026-09-29 18:30:44,4800,float,gpu-upsample,506,1.505369012829,4800->4800 noise=0.05
+2026-09-29 18:32:44,9600,float,gpu-upsample,607,1.505296229945,9600->9600 noise=0.03
+2026-09-29 18:33:16,4800,float,gpu-upsample,507,1.505337677967,4800->4800 noise=0.03
+2026-09-29 18:35:39,4800,float,gpu-upsample,508,1.505337677900,4800->4800 noise=0.08
+2026-09-29 18:36:55,1200,certified,verify(kronecker|limbs),,1.505817556509,exact; both backends agree
+2026-09-29 18:37:04,2400,certified,verify(kronecker|limbs),,1.505932518993,exact; both backends agree
+2026-09-29 18:37:33,4800,certified,verify(kronecker|limbs),,1.505337677900,exact; both backends agree
+2026-09-29 18:38:40,9600,float,gpu-upsample,609,1.505254783878,9600->9600 noise=0.05
+2026-09-29 18:38:41,9600,certified,verify(kronecker|limbs),,1.505296229945,exact; both backends agree
+2026-09-29 18:40:37,19200,float,gpu-upsample,701,1.505296230034,9600->19200 noise=0.05
+2026-09-29 18:42:26,9600,float,gpu-upsample,610,1.505254783804,9600->9600 noise=0.05
+2026-09-29 18:43:59,19200,float,gpu-upsample,701,1.505274643666,19200->19200 noise=0.05
+2026-09-29 19:00:23,38400,float,gpu-upsample,799,1.505274643678,19200->38400 noise=0.05
+2026-09-29 19:02:20,19200,certified,verify(kronecker|limbs),,1.505274643666,exact; both backends agree
+2026-09-29 19:02:31,38400,certified,verify(kronecker|limbs),,1.505274643678,exact; both backends agree

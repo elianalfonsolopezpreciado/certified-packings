@@ -1,0 +1,9 @@
+- {name: gpuL_sum_radii_n100, problem: sum_radii, n: 100, mode: large, seed: 401, time_limit_s: 420, batch: 2048, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n120, problem: sum_radii, n: 120, mode: large, seed: 402, time_limit_s: 420, batch: 1536, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n150, problem: sum_radii, n: 150, mode: large, seed: 403, time_limit_s: 420, batch: 1024, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n200, problem: sum_radii, n: 200, mode: large, seed: 404, time_limit_s: 480, batch: 512, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n116, problem: sum_radii, n: 116, mode: large, seed: 405, time_limit_s: 420, batch: 1536, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n138, problem: sum_radii, n: 138, mode: large, seed: 406, time_limit_s: 420, batch: 1024, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n139, problem: sum_radii, n: 139, mode: large, seed: 407, time_limit_s: 420, batch: 1024, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n159, problem: sum_radii, n: 159, mode: large, seed: 408, time_limit_s: 420, batch: 768, topk: 48, workers: 6}
+- {name: gpuL_sum_radii_n188, problem: sum_radii, n: 188, mode: large, seed: 409, time_limit_s: 480, batch: 512, topk: 48, workers: 6}

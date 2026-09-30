@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\A_n138.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "sum_radii",
+      "n": 138,
+      "backend": "fraction-exact",
+      "valid": true,
+      "certified_score": "6.200571369732286232666737",
+      "raw_score": "6.200571369870286232666737",
+      "max_violation": "-2.781747241762462588309633e-13",
+      "raw_max_violation": "5.000000000000000000000000e-41",
+      "eps": "1.00000e-12",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

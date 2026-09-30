@@ -1,0 +1,9 @@
+{
+ "name": "C_N150",
+ "N": 150,
+ "ok": true,
+ "verify_seconds": 0.6,
+ "certified_score_fraction": "1.51025673336093196533654805061",
+ "certified_score_mpmath": "1.51025673336093196533654805061",
+ "backends_equal": true
+}

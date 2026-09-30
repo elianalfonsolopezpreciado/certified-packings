@@ -1,0 +1,28 @@
+{"name": "hardB3_min_distance_n49_evo_s91", "n": 49, "method": "evo", "chunk": 1, "wall_s": 187, "best": 0.16730178299705845, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "02:46:50"}
+{"name": "hardB3_min_distance_n49_evo_s91", "n": 49, "method": "evo", "chunk": 2, "wall_s": 185, "best": 0.16732025211741428, "record": 0.167386076868, "status": "below", "stalled": 0, "t": "02:49:55"}
+{"name": "hardB3_min_distance_n49_evo_s91", "n": 49, "method": "evo", "chunk": 3, "wall_s": 180, "best": 0.16738607686832352, "record": 0.167386076868, "status": "match", "stalled": 0, "t": "02:52:55"}
+{"name": "hardB3_min_distance_n49_evo_s91", "n": 49, "method": "evo", "chunk": 4, "wall_s": 172, "best": 0.16738607686832352, "record": 0.167386076868, "status": "match", "stalled": 1, "t": "02:55:47"}
+{"name": "hardB3_min_distance_n49_evo_s91", "n": 49, "method": "evo", "chunk": 5, "wall_s": 189, "best": 0.16738607686832352, "record": 0.167386076868, "status": "match", "stalled": 2, "t": "02:58:56"}
+{"name": "hardB3_min_distance_n49_evo_s91", "n": 49, "method": "evo", "chunk": 6, "wall_s": 174, "best": 0.16738607686832352, "record": 0.167386076868, "status": "match", "stalled": 3, "t": "03:01:50"}
+{"name": "hardB3_min_distance_n59_evo_s91", "n": 59, "method": "evo", "chunk": 1, "wall_s": 215, "best": 0.15083264228727775, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "03:05:25"}
+{"name": "hardB3_min_distance_n59_evo_s91", "n": 59, "method": "evo", "chunk": 2, "wall_s": 147, "best": 0.15156191986343223, "record": 0.151562950614, "status": "below", "stalled": 0, "t": "03:07:52"}
+{"name": "hardB3_min_distance_n59_evo_s91", "n": 59, "method": "evo", "chunk": 3, "wall_s": 201, "best": 0.15156295061361322, "record": 0.151562950614, "status": "match", "stalled": 0, "t": "03:11:14"}
+{"name": "hardB3_min_distance_n59_evo_s91", "n": 59, "method": "evo", "chunk": 4, "wall_s": 162, "best": 0.15156295061361322, "record": 0.151562950614, "status": "match", "stalled": 1, "t": "03:13:55"}
+{"name": "hardB3_min_distance_n59_evo_s91", "n": 59, "method": "evo", "chunk": 5, "wall_s": 182, "best": 0.15156295061361322, "record": 0.151562950614, "status": "match", "stalled": 2, "t": "03:16:57"}
+{"name": "hardB3_min_distance_n59_evo_s91", "n": 59, "method": "evo", "chunk": 6, "wall_s": 195, "best": 0.15156295061361322, "record": 0.151562950614, "status": "match", "stalled": 3, "t": "03:20:12"}
+[
+ {
+  "n": 49,
+  "method": "evo",
+  "best": 0.16738607686832352,
+  "status": "stalled",
+  "name": "hardB3_min_distance_n49_evo_s91"
+ },
+ {
+  "n": 59,
+  "method": "evo",
+  "best": 0.15156295061361322,
+  "status": "stalled",
+  "name": "hardB3_min_distance_n59_evo_s91"
+ }
+]

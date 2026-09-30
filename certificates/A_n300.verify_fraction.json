@@ -1,0 +1,19 @@
+{
+  "certificate": "D:\\EXT\\1\\certificates\\A_n300.json",
+  "all_valid": true,
+  "reports": [
+    {
+      "problem": "sum_radii",
+      "n": 300,
+      "backend": "fraction-exact",
+      "valid": true,
+      "certified_score": "9.191033306998839490751097",
+      "raw_score": "9.191033307298839490751097",
+      "max_violation": "-1.937705282377667493124403e-13",
+      "raw_max_violation": "5.000000000000000000000000e-41",
+      "eps": "1.00000e-12",
+      "n_violations": 0,
+      "messages": []
+    }
+  ]
+}

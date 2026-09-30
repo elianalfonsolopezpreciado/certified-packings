@@ -1,0 +1,9 @@
+name: smoke_min_distance_n10_bh
+problem: min_distance
+n: 10
+method: basin_hopping
+seed: 1
+workers: 12
+iters_per_round: 10
+max_rounds: 3
+time_limit_s: 120

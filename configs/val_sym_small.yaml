@@ -1,0 +1,2 @@
+- {name: valsym_sum_radii_n27, problem: sum_radii, n: 27, mode: sym, seed: 11, time_limit_s: 100, batch: 4096, topk: 32, workers: 4, leaderboard: false, q_values: [1, 3, 5, 7]}
+- {name: valsym_sum_radii_n36, problem: sum_radii, n: 36, mode: sym, seed: 12, time_limit_s: 100, batch: 4096, topk: 32, workers: 4, leaderboard: false, q_values: [0, 2, 4, 6, 8]}

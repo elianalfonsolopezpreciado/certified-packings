@@ -1,0 +1,33 @@
+{
+ "name": "abl_min_distance_n50_evo",
+ "problem": "min_distance",
+ "n": 50,
+ "method": "evo",
+ "seed": 51,
+ "workers": 12,
+ "rounds": 2,
+ "elapsed_s": 140.91197800636292,
+ "best_score": 0.16645462588285564,
+ "status": "below",
+ "record": 0.166526577344,
+ "hist": [
+  [
+   111.67206072807312,
+   0.16645462588285564
+  ],
+  [
+   140.85938787460327,
+   0.16645462588285564
+  ]
+ ],
+ "cfg": {
+  "name": "abl_min_distance_n50_evo",
+  "problem": "min_distance",
+  "n": 50,
+  "method": "evo",
+  "seed": 51,
+  "workers": 12,
+  "iters_per_round": 25,
+  "time_limit_s": 120
+ }
+}

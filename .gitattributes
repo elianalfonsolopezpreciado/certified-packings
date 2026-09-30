@@ -1,0 +1,8 @@
+* text=auto
+Makefile text eol=lf
+*.sh text eol=lf
+*.pck text eol=lf
+*.py text eol=lf
+*.gz binary
+*.png binary
+*.pdf binary

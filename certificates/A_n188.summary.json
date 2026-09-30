@@ -1,0 +1,28 @@
+{
+ "name": "A_n188",
+ "ok": true,
+ "polish": {
+  "n_active": 564,
+  "n_unknowns": 564,
+  "mode": "mixed-precision",
+  "rank": 564,
+  "newton_residuals": [
+   4.335816025593177e-14,
+   9.04609728237163e-26,
+   1.518300156002841e-39,
+   2.654341339965921e-53
+  ],
+  "max_active_residual": 2.654341339965921e-53,
+  "full_check_pairs": 510,
+  "shrink_applied": 1.6277309939513969e-52,
+  "score_mp": "7.25506534506258238811864052132",
+  "score_float_in": 7.255065345062812,
+  "kkt_residual": 4.1522341120980855e-14,
+  "min_lambda": 0.06431967726307079
+ },
+ "certified_score_mpmath": "7.255065344874582388118641",
+ "certified_score_fraction": "7.255065344874582388118641",
+ "agree_1e-20": true,
+ "record": 7.254438153287,
+ "status": "IMPROVEMENT-CANDIDATE(uncertified)"
+}

@@ -1,0 +1,48 @@
+{"name": "hard_sum_radii_n37_basin_hopping_s41", "n": 37, "method": "basin_hopping", "chunk": 1, "wall_s": 304, "best": 3.1577598894365444, "record": 3.161498916179, "status": "below", "stalled": 0, "t": "21:09:07"}
+{"name": "hard_sum_radii_n37_basin_hopping_s41", "n": 37, "method": "basin_hopping", "chunk": 2, "wall_s": 328, "best": 3.1614989161774583, "record": 3.161498916179, "status": "match", "stalled": 0, "t": "21:14:35"}
+{"name": "hard_sum_radii_n37_basin_hopping_s41", "n": 37, "method": "basin_hopping", "chunk": 3, "wall_s": 282, "best": 3.1614989161774583, "record": 3.161498916179, "status": "match", "stalled": 1, "t": "21:19:18"}
+{"name": "hard_sum_radii_n37_basin_hopping_s41", "n": 37, "method": "basin_hopping", "chunk": 4, "wall_s": 306, "best": 3.1614989161774583, "record": 3.161498916179, "status": "match", "stalled": 2, "t": "21:24:23"}
+{"name": "hard_sum_radii_n37_basin_hopping_s41", "n": 37, "method": "basin_hopping", "chunk": 5, "wall_s": 287, "best": 3.1614989161774583, "record": 3.161498916179, "status": "match", "stalled": 3, "t": "21:29:11"}
+{"name": "hard_sum_radii_n39_basin_hopping_s41", "n": 39, "method": "basin_hopping", "chunk": 1, "wall_s": 302, "best": 3.24615527153608, "record": 3.248110798175, "status": "below", "stalled": 0, "t": "21:34:13"}
+{"name": "hard_sum_radii_n39_basin_hopping_s41", "n": 39, "method": "basin_hopping", "chunk": 2, "wall_s": 321, "best": 3.24615527153608, "record": 3.248110798175, "status": "below", "stalled": 1, "t": "21:39:34"}
+{"name": "hard_sum_radii_n39_basin_hopping_s41", "n": 39, "method": "basin_hopping", "chunk": 3, "wall_s": 280, "best": 3.24615527153608, "record": 3.248110798175, "status": "below", "stalled": 2, "t": "21:44:14"}
+{"name": "hard_sum_radii_n39_basin_hopping_s41", "n": 39, "method": "basin_hopping", "chunk": 4, "wall_s": 301, "best": 3.24615527153608, "record": 3.248110798175, "status": "below", "stalled": 3, "t": "21:49:15"}
+[
+ {
+  "n": 37,
+  "method": "basin_hopping",
+  "best": 3.1614989161774583,
+  "status": "stalled",
+  "name": "hard_sum_radii_n37_basin_hopping_s41"
+ },
+ {
+  "n": 39,
+  "method": "basin_hopping",
+  "best": 3.24615527153608,
+  "status": "stalled",
+  "name": "hard_sum_radii_n39_basin_hopping_s41"
+ }
+]
+{"name": "hard_sum_radii_n37_evo_s42", "n": 37, "method": "evo", "chunk": 1, "wall_s": 323, "best": 3.1614989161774494, "record": 3.161498916179, "status": "match", "stalled": 0, "t": "21:54:39"}
+{"name": "hard_sum_radii_n37_evo_s42", "n": 37, "method": "evo", "chunk": 2, "wall_s": 284, "best": 3.1614989161774494, "record": 3.161498916179, "status": "match", "stalled": 1, "t": "21:59:23"}
+{"name": "hard_sum_radii_n37_evo_s42", "n": 37, "method": "evo", "chunk": 3, "wall_s": 310, "best": 3.1614989161774494, "record": 3.161498916179, "status": "match", "stalled": 2, "t": "22:04:33"}
+{"name": "hard_sum_radii_n37_evo_s42", "n": 37, "method": "evo", "chunk": 4, "wall_s": 285, "best": 3.161498916182447, "record": 3.161498916179, "status": "match", "stalled": 3, "t": "22:09:18"}
+{"name": "hard_sum_radii_n39_evo_s42", "n": 39, "method": "evo", "chunk": 1, "wall_s": 322, "best": 3.245942805150695, "record": 3.248110798175, "status": "below", "stalled": 0, "t": "22:14:40"}
+{"name": "hard_sum_radii_n39_evo_s42", "n": 39, "method": "evo", "chunk": 2, "wall_s": 297, "best": 3.2481107981734074, "record": 3.248110798175, "status": "match", "stalled": 0, "t": "22:19:37"}
+{"name": "hard_sum_radii_n39_evo_s42", "n": 39, "method": "evo", "chunk": 3, "wall_s": 305, "best": 3.2481107982264406, "record": 3.248110798175, "status": "IMPROVEMENT-CANDIDATE(uncertified)", "stalled": 1, "t": "22:24:41"}
+[
+ {
+  "n": 37,
+  "method": "evo",
+  "best": 3.161498916182447,
+  "status": "stalled",
+  "name": "hard_sum_radii_n37_evo_s42"
+ },
+ {
+  "n": 39,
+  "method": "evo",
+  "best": 3.2481107982264406,
+  "status": "improvement-candidate",
+  "name": "hard_sum_radii_n39_evo_s42"
+ }
+]
